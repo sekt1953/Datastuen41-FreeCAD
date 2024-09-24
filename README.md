@@ -14,4 +14,6 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
   * Kursus dag 2, Lidt om at tegne og Constraints.
     * [YouTube Videoer vi vil bruge lidt tid på]()
     * Tegne Opgaver:
-      * [Opgave1](./Opgaver/)
+      * [Opgave 1](./Opgaver/)
+      * [Opgave 2](./Opgaver/)
+      * [Opgave 3](./Opgaver/)
