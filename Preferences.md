@@ -8,9 +8,9 @@
 |:---:|:---:|
 |![Display-3D View](./Images/Skærmbillede%20fra%202024-09-24%2019-47-27.png)|![Display-Navigation](./Images/Skærmbillede%20fra%202024-09-24%2019-50-08.png)
 
-|Part/Part Design||
+|Workbenches|Part/Part Design|
 |:---:|:---:|
-|![Part/Part Design](./Images/Skærmbillede%20fra%202024-09-24%2019-52-11.png)||
+|![](./Images/Skærmbillede%20fra%202024-09-24%2020-23-50.png) |![Part/Part Design](./Images/Skærmbillede%20fra%202024-09-24%2019-52-11.png)|
 
 |Sketcher-General|Sketcher-Display|
 |:---:|:---:|
