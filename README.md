@@ -1,2 +1,14 @@
 # Datastuen41-FreeCAD
-Her vil jeg dele opgaver  Tips og løsninger med deltager i Datastuen41 i Årslev, Fyn, Danmark
+
+Her vil jeg dele opgaver Tips og løsninger med deltager i Datastuen41 FreeCAD hold.
+
+[Datastuen41,
+Bøgeparken 41,
+5792 Årslev,
+Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
+
+* Kursus
+  * kursus dag 1
+    * [Her henter jeg FreeCAD 1.0.0RC1](https://github.com/FreeCAD/FreeCAD/releases/tag/1.0rc1)
+    * [Preferences settings vi bruger](./Preferences.md)
+
