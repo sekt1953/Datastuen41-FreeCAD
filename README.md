@@ -13,5 +13,5 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
     * [Preferences settings vi bruger](./Preferences.md)
   * Kursus dag 2, Lidt om at tegne og Constraints.
     * [YouTube Videoer vi vil bruge lidt tid på]()
-    * [Tegne vejledninger]()
-    
+    * Tegne Opgaver:
+      * [Opgave1](./Opgaver/)
