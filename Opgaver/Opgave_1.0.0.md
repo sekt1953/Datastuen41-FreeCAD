@@ -5,7 +5,9 @@
 * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
   * [New FreeCAD Feature! Complex Extrudes from a Single Sketch Like in SolidWorks](https://youtu.be/IjzhUCl3gXg)
 
-## Opgave 1.0.0
+## Opgave 1.0
+
+Den traditionelle måde at bruge Sketcher på.
 
 * Opgave 1.0.1
   * Start FreeCAD i Part Design
@@ -24,6 +26,11 @@
       * ![Klik Pad](./Images/Opgave_1/Skærmbillede%20fra%202024-09-25%2009-25-21.png)
       * Klik Ok til Task
       * Gem opgave som [~/Opgaver/Sketch/Opgave_1.0.2.FCStd](./Sketch/Opgave_1.0.2.FCStd)
+
+## Opgave 1.1
+
+Den nye måde at bruge Sketcher på.
+
 * Opgave 1.1.1
   * Åben filen [~/Opgaver/Sketch/Opgave_1.0.1.FCStd](./Sketch/Opgave_1.0.1.FCStd) fra Opgave 1.0.1
   * ![Gem opgave som Opgave_1.0.1.FCStd](./Images/Opgave_1/Skærmbillede%20fra%202024-09-25%2009-54-23.png)
