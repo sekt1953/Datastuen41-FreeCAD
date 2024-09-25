@@ -14,7 +14,7 @@
       * Select XY-plane (Base plane)
       * ![Select XY-plane](./Images/Opgave_1/Skærmbillede%20fra%202024-09-25%2009-06-25.png)
       * Tegn sketch, som vist herunder
-      * ![Tegn sketch](./Images/Skærmbillede%20fra%202024-09-25%2009-16-53.png)
+      * ![Tegn sketch](./Images/Opgave_1/Skærmbillede%20fra%202024-09-25%2009-16-53.png)
       * Close Task
       * Gem opgave som [~/Opgaver/Sketch/Opgave_1.0.1.FCStd](./Sketch/Opgave_1.0.1.FCStd)
     * Pad Sketch
