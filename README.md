@@ -14,6 +14,6 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
   * Kursus dag 2, Lidt om at bruge Part Design, Sketcher og list om Constraints.
     * [YouTube Videoer vi vil bruge lidt tid på](./YouTube_Video_Links.md)
     * Tegne Opgaver:
-      * [Opgave 1](./Opgaver/)
+      * [Opgave 1](./Opgaver/Opgave_1.0.0.md)
       * [Opgave 2](./Opgaver/)
       * [Opgave 3](./Opgaver/)
