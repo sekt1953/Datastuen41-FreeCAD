@@ -1,4 +1,4 @@
-# Opgave 1.0.0
+# Opgave 1
 
 ## Denne opgave er inspireret af 
 
