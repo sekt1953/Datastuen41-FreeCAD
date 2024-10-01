@@ -1,4 +1,4 @@
-# Opgave 2
+# Opgave 2 - Copy Sketch
 
 ## Denne opgave er inspireret af
 
@@ -44,8 +44,8 @@ Den traditionelle måde at kopy Sketch på.
         * ![Tegn sketch](./Images/Opgave_2/Skærmbillede%20fra%202024-10-01%2020-37-33.png)
         * Gem opgave som [~/Opgaver/Sketch/Opgave_2.0.2.FCStd](./Sketch/Opgave_2.0.2FCStd)
 
-## Opgave 2.1 - Old way of copy [Ctrl]+[c] efterfuldt af [Ctrl]+[v]
+## Opgave 2.1 - Den gammeldags metode [Ctrl]+[c] efterfuldt af [Ctrl]+[v]
 
-* Opgave 2.1 - Old way
+* Opgave 2.1 - Den gammeldags metode
   * Opgave 2.1.1
-  
+    *
