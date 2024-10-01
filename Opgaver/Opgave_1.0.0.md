@@ -1,6 +1,6 @@
 # Opgave 1
 
-## Denne opgave er inspireret af 
+## Denne opgave er inspireret af
 
 * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
   * [New FreeCAD Feature! Complex Extrudes from a Single Sketch Like in SolidWorks](https://youtu.be/IjzhUCl3gXg)
