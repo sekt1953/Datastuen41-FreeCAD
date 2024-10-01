@@ -8,7 +8,7 @@ Bøgeparken 41,
 Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
 
 * Kursus
-  * Kursus dag 1, FreeCAD Installation
+  * Kursus dag 1, FreeCAD 1.0.0 Installation
     * [Her henter jeg FreeCAD 1.0.0RCx](https://github.com/FreeCAD/FreeCAD/releases)
     * [Preferences settings vi bruger](./Preferences.md)
   * Kursus dag 2, Lidt om at bruge Part Design, Sketcher og list om Constraints.
