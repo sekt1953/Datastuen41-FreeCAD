@@ -49,3 +49,30 @@ Den traditionelle måde at kopy Sketch på.
 * Opgave 2.1 - Den gammeldags metode
   * Opgave 2.1.1
     *
+
+## Opgave 2.2 - ![Sketcher_CarbonCopy.svg](./Images/Opgave_2/Sketcher_CarbonCopy.svg) Create carbon copy, den ny metode.
+
+* Kilde:  [Sketcher CarbonCopy](https://wiki.freecad.org/Sketcher_CarbonCopy)
+* Beskrivelse
+  * Sketcher CarbonCopy-værktøjet kopierer al geometri og begrænsninger fra en anden skitse til den aktive skitse.
+  * Dimensionelle begrænsninger, der eksisterer før kopifunktionen, forbliver knyttet til den originale skitses dimensionelle begrænsninger gennem udtryk.
+* Brug
+  * Sørg for, at du er i redigeringstilstand for en eksisterende skitse. Denne skitse er målet for operationen.
+  * Der er flere måder at aktivere værktøjet på:
+    1. Tryk på knappen ![Sketcher_CarbonCopy.svg](./Images/Opgave_2/Sketcher_CarbonCopy.svg).
+    2. Vælg Sketcher → Sketcher-værktøjer → Create carbon copy i menuen.
+    3. Brug tastaturgenvejen: [G] og derefter [W].
+  * Markøren skifter til et kryds med værktøjsikonet.
+  * Vælg en kant fra en anden skitse. Denne skitse er kilden til operationen. Se Noter.
+  * Geometrielementer såvel som begrænsninger kopieres ind i den aktive skitse.
+  * Dette værktøj kører altid i fortsættelsestilstand: kopier eventuelt yderligere skitser.
+  * For at afslutte skal du højreklikke eller trykke på Esc, eller starte et andet værktøj til oprettelse af geometri eller begrænsninger.
+* Noter
+  * I PartDesign Workbench er det muligt at vælge skitsen til karbonkopi uden for Bodyen af ​​den aktuelt aktive skitse, men kun hvis Ctrl-tasten holdes nede under markeringen.
+  * Skitsen til karbonkopi skal være planparallel med den aktuelt aktive skitse. Hvis det ikke er tilfældet, skal Ctrl- og  Alt-tasterne holdes nede under valg. Dette fungerer også for  skitser placeret uden for den aktive krop.
+  * Hvis konstruktionstilstand er aktiv, oprettes kopieret geometri som konstruktionsgeometri.
+  * Hele skitsen er kopieret, det er ikke muligt kun at vælge en del. Men efter kopiering kan du slette uønskede elementer.
+
+* Opgave 2.2 - Create carbon copy
+  * Opgave 2.2.1
+    *
