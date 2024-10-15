@@ -1,4 +1,4 @@
-# YouTube videoer vi vil bruge kidt tid på at forstå
+# YouTube videoer vi vil bruge lidt tid på at forstå
 
 * Gode videoer til at få forståelse af FreeCAD's brugerflade:
   * [!NEW! Basic Beginners FreeCAD 0.22 | Lesson 3 | - UI and Panel Layout and How To Change](https://youtu.be/kZTiNuHuek8)
