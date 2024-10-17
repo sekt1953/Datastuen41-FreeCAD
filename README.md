@@ -18,7 +18,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
       * [Opgave 2](./Opgaver/)
       * [Opgave 3](./Opgaver/)
 * Værktøjer
-  * Temperatur tårn
+  * Temperature-Tower & PruserSlicer
     * Kilde:
       * [Temperature Towers! How? Why? What For?](https://youtu.be/CZ8cgWF8s50)
       * [OpenSCAD](https://openscad.org/downloads.html)
