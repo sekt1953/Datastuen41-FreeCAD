@@ -28,6 +28,6 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
       * Printer
         * Custom G-code
           * Before Layer change G-code
-            * M104 T5 S{255 - int(5 * int((layer_num-13) / 100))}
+            * M104 S{255 - int(5 * int((layer_num-13) / 100))}
       * Plater
         * Print settings: 0.10mm
