@@ -30,7 +30,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
           * Before Layer change G-code
             * ;BEFORE_LAYER_CHANGE
             * G92 E0.0
-            * ;[layer_z]
+            * ;LAYER Z: [layer_z]mm
             * ;LAYER Nr: [layer_num]
             * M104 S{245 - int(5 * int((layer_num-13) / 100))}
       * Plater
