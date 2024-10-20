@@ -44,6 +44,3 @@
 |Bin|Bin_Grid_X|App::PropertyInteger|3|
 |Bin|Bin_Grid_X|App::PropertyInteger| 3|
 
-* Bin
-  * Bin_Grid_X: 3
-  * Bin_Grid_Y: 3
