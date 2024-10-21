@@ -11,18 +11,17 @@
 
 ## VarSet
 
-### Base
-
-![Skærmbillede%20fra%202024-10-20%2023-25-06.png](./Images/Skærmbillede%20fra%202024-10-20%2023-25-06.png)
-
 |||
 |:---:|:---:|
 |![Skærmbillede%20fra%202024-10-20%2023-44-28.png](./Images/Skærmbillede%20fra%202024-10-20%2023-44-28.png)|![Skærmbillede%20fra%202024-10-20%2023-44-46.png](./Images/Skærmbillede%20fra%202024-10-20%2023-48-47.png)|
 
 |Group|Name|Type|Value|
 |:---|:---|:---|---:|
-|Base|Base_Height|App::PropertyLength|42,00mm|
-|Base|Base_Width|App::PropertyLength|VarSet.Base_Base_Height|
+|Base|Grid_Size|App::PropertyLength|42,00mm|
+|Base|Grid_Offset|App::PropertyLength|0,50mm|
+|Base|Grid_Outer_Radius|App::PropertyLength|4,00mm|
+|||||
+|Base|Width|App::PropertyLength|VarSet.Grid_Size|
 |Base|Base_Bottom_Height|App::PropertyLength|3,00mm|
 |Base|Base_Profile_Lower|App::PropertyLength|0,70mm|
 |Base|Base_Profile_Middle|App::PropertyLength|1,80mm|
@@ -33,18 +32,21 @@
 |Base|Base_Profile_OuterRadius|App::PropertyLength|4,00mm|
 |Base|Base_Grid_X|App::PropertyInteger|3|
 |Base|Base_Grid_X|App::PropertyInteger| 3|
+|||||
+|Base|Bin_Width|App::PropertyLength|42,00mm|
+|Base|Bin_Height|App::PropertyLength|42,00mm|
+|Base|Bin_Bottom_Height|App::PropertyLength|3,00mm|
+|Base|Bin_Profile_Lower|App::PropertyLength|0,70mm|
+|Base|Bin_Profile_Middle|App::PropertyLength|1,80mm|
+|Base|Bin_Profile_Top|App::PropertyLength|2,15mm|
+|Base|Bin_Profile_Angle|App::PropertyAngle|45,00 deg|
+|Base|Bin_Grid_X|App::PropertyInteger|3|
+|Base|Bin_Grid_X|App::PropertyInteger| 3|
+
+### Base
+
+![Skærmbillede%20fra%202024-10-20%2023-25-06.png](./Images/Skærmbillede%20fra%202024-10-20%2023-25-06.png)
 
 ### Bin
 
-|Group|Name|Type|Value|
-|:---|:---|:---|---:|
-|Base|Bin_Width|App::PropertyLength|42,00mm|
-|Base|Bin_Height|App::PropertyLength|42,00mm|
-|Bin|Bin_Bottom_Height|App::PropertyLength|3,00mm|
-|Bin|Bin_Profile_Lower|App::PropertyLength|0,70mm|
-|Bin|Bin_Profile_Middle|App::PropertyLength|1,80mm|
-|Bin|Bin_Profile_Top|App::PropertyLength|2,15mm|
-|Bin|Bin_Profile_Angle|App::PropertyAngle|45,00 deg|
-|Bin|Bin_Grid_X|App::PropertyInteger|3|
-|Bin|Bin_Grid_X|App::PropertyInteger| 3|
-
+![Skærmbillede%20fra%202024-10-21%2006-19-28.png](./Images/Skærmbillede%20fra%202024-10-21%2006-19-28.png)
