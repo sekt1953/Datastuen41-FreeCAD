@@ -14,6 +14,7 @@
 |||
 |:---:|:---:|
 |![Skærmbillede%20fra%202024-10-20%2023-44-28.png](./Images/Skærmbillede%20fra%202024-10-20%2023-44-28.png)|![Skærmbillede%20fra%202024-10-20%2023-44-46.png](./Images/Skærmbillede%20fra%202024-10-20%2023-48-47.png)|
+|![](./Images/Skærmbillede%20fra%202024-10-21%2006-26-39.png)|![](./Images/Skærmbillede%20fra%202024-10-21%2006-27-04.png)
 
 |Group|Name|Type|Value|
 |:---|:---|:---|---:|
