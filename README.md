@@ -16,7 +16,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
     * Tegne Opgaver:
       * [Opgave 1](./Opgaver/Opgave_1.0.0.md)
       * [Opgave 2](./Opgaver/)
-      * [Opgave 3](./Opgaver/)
+      * [Opgave 3](./Opgaver/../GridFinityParametricFiles/GridFinityParametricFiles.md)
 * Værktøjer
   * Temperature-Tower & PruserSlicer
     * Kilde:
