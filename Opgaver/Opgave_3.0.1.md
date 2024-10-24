@@ -1,6 +1,6 @@
 # Opgave 3.0.1 - Gridfinity Baseplate parametric modeling
 
-### Step 1 - Opret dokument
+## Step 1 - [Opret dokument](./Sketch/Opgave_3.0.1.FCStd)
 
 * Start FreeCAD i Part Design
   * Gem opgaven med filnavnet i dit opgave directory
@@ -13,7 +13,7 @@
   * Dit Model View skulle nu gerne se ud som herunder
   * ![Step1.png](./Images/Opgave_3/Step1.png)
 
-### Step 2 - Indsæt i VarSet
+## Step 2 - [Indsæt i VarSet](./Sketch/Opgave_3.0.2.FCStd)
 
 * Til at opbevaring af vores parametric data vil jeg haer bruge [Std VarSet](https://wiki.freecad.org/Std_VarSet).
 * [Klik her for at se mere om Std VarSet](https://wiki.freecad.org/Std_VarSet)
@@ -39,6 +39,7 @@
 |BasePlateProfileLower|Baseplate|App::PropertyLength|0,70mm|
 |BasePlateProfileMiddle|Baseplate|App::PropertyLength|1,80mm|
 |BasePlateProfileTop|Baseplate|App::PropertyLength|2,15mm|
+|BasePlateProfileHeigth|Baseplate|App::PropertyLength|2,15mm|
 |BasePlateProfileAngle|Baseplate|App::PropertyAngle|45,00 deg|
 |||||
 |BasePlateGridX|Baseplate|App::PropertyInteger|2|
@@ -48,27 +49,44 @@
   * Tilføj nu værdierne som listet herover, sikre dig at Navn, Group & Type er korrekte
   * klik igen på VarSet og tilføj Value
   * Dit Model View skulle nu gerne se ud som herunder
-  * ![Step2.png](./Images/Opgave_3/Step2.png)
+![Step2.png](./Images/Opgave_3/Step2a.png)
 
+## Step 3 - [Tegn Baseplate 1. trin - Opret Sketchs](./Sketch/)
 
-
-### Step 3 - Tegn Baseplate 1. trin
-
-* Klik nu på **Create Sketch** ![](./Images/Opgave_3/CreateSketch.png
+* Klik nu på **Create Sketch** ![CreateSketch](./Images/Opgave_3/CreateSketch.png
+)  
   * Vælg XY-plane001 (Base plane)
     * Klik [OK]
-  * Vælg nu tegne værktøjet **Centered rectangle** ![Centered rectangle](./Images/Opgave_3/Skærmbillede%20fra%202024-10-22%2020-41-29.png)
-    * Start tergnigen i nulpunket.
+    * Vælg nu tegne værktøjet **Centered rectangle** ![Centered rectangle](./Images/Opgave_3/Skærmbillede%20fra%202024-10-22%2020-41-29.png)
+      * Start tergnigen i nulpunket.
+      * du skulle nu have en figur som her
+      * ![Step3a](./Images/Opgave_3/Skærmbillede%20fra%202024-10-22%2021-02-18.png)
+      * Klik ComboView -> Task [Close]
+* Klik nu på **Create Sketch** ![CreateSketch](./Images/Opgave_3/CreateSketch.png
+)  
+  * Vælg XY-plane001 (Base plane)
+    * Klik [OK]
+    * Vælg nu tegne værktøjet **Centered rectangle** ![Centered rectangle](./Images/Opgave_3/Skærmbillede%20fra%202024-10-22%2020-41-29.png)
+    * Select **Rounded corners**
+    * ![Rounded corners](./Images/Opgave_3/RoundedCorners.png)
+      * Start tergnigen i nulpunket.
       * Tegn nu en firkant, klik og ryk lidt tilbage så der kommer runde hjørner.
       * du skulle nu have en figur som her
-      * ![Step3](./Images/Opgave_3/Skærmbillede%20fra%202024-10-22%2021-02-18.png)
+      * ![Step3b](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2010-16-23.png)
+      * Klik ComboView -> Task [Close]
+* Klik nu på **Create Sketch** ![CreateSketch](./Images/Opgave_3/CreateSketch.png
+)  
+  * Vælg XZ-plane001 (Base plane)
+    * Klik [OK]
+    * Vælg nu tegne værktøjet **Create Polyline** ![Create Polyline](./Images/Opgave_3/CreatePolyline.png)
+      * Tegn en tegning som vist herunder:
+      * ![Step3c](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2010-22-43.png)
+      * Klik ComboView -> Task [Close]
+* I ComboView -> Model Klik på Body
+  * Klik [F2] for at omdøbe Body til Baseplate
+  * Du skal nu have noget der ser ud som herunder
+  * ![Baseplate](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2010-40-34.png)
 
-### Step 3 - Tegn Baseplate 2. trin
+## Step 4 - [Constraint Sketchs](./Sketch/)
 
 
-
-
-
-    * Select **Rounded corners**
-    * ![Rounded corners](./Images/Opgave_3/Skærmbillede%20fra%202024-10-22%2020-42-02.png)
-      * ![Step3a](./Images/Opgave_3/Skærmbillede%20fra%202024-10-22%2020-52-00.png)
