@@ -181,6 +181,47 @@
       * Select Sketch og tryk på mellemrums tangenten for vise Sketch igen
       * ![Resultat4](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-51-40.png)
 
-## Step 5 - [Part Design Modeling tools](./Sketch/Opgave_3.0.5.FCStd)
+## Step 5 - [Part Design Modeling tools - Pad Sketch002](./Sketch/Opgave_3.0.5.FCStd)
 
+* I comboView -> Model
+  * Marker på Sketch
+  * Klik på Pad ![Pad](./Images/Opgave_3/Pad.png)
+    * Select Type: Two dimensions
+      * Klik på Globusen for Length feltet, og **Expression Editor** winduet åbner
+      * ![ExpressionEditor](./Images/Opgave_3/ExpressionEditor.png)
+        * Indtast nu 'VarSet.BasePlateProfileHeigth', og du skal se at Result: 4,65 mm.
+        * Klik [OK]
+      * Klik på Globusen for Length feltet, og **Expression Editor** winduet åbner
+      * ![ExpressionEditor](./Images/Opgave_3/ExpressionEditor.png)
+        * Indtast nu 'VarSet.BaseplatePad2nd_Length', og du skal se at Result: 0,40 mm.
+        * Klik [OK], [OK]
+  * Marker Sketch002 & Sketch001, i denne rækkefølge
+    * ![Skærmbillede%20fra%202024-10-24%2021-12-54](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-12-54.png)
+    * Klik nu på SubtractivePipe ![SubtractivePipe](./Images/Opgave_3/SubtractivePipe.png)
+    * ![Skærmbillede%20fra%202024-10-24%2021-15-55](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-15-55.png)
+    * klik [OK]
+    * ![Skærmbillede%20fra%202024-10-24%2021-17-36](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-17-36.png)
+  * Klik **Create Sketch** ![Create Sketch](./Images/Opgave_3/CreateSketch.png), Select XY-plane001
+    * Klik **View section** ![View section](./Images/Opgave_3/ViewSection.png)
+    * Klik **CreateExternalGeometry** ![CreateExternalGeometry](./Images/Opgave_3/CreateExternalGeometry.png) 
+    * Klik nu midt på et af de runde hjørner
+    * ![runde hjørner](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-26-30.png)
+    * Vælg nu tegne værktøjet **Centered rectangle** ![Centered rectangle](./Images/Opgave_3/Skærmbillede%20fra%202024-10-22%2020-41-29.png)
+    * Select **Rounded corners**
+    * ![Rounded corners](./Images/Opgave_3/RoundedCorners.png)
+      * Start tergnigen i nulpunket.
+      * Tegn nu en firkant, klik og ryk lidt tilbage så der kommer runde hjørner.
+      * du skulle nu have en figur som her
+      * ![Step5b](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-30-22.png)
+      * Marker de to store og det lille cirkeludsnit, og tast [E]
+        * ![Skærmbillede%20fra%202024-10-24%2021-36-07](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-36-07.png)
+        * Klik [Close]
+      * Klik nu på **Pocket** ![pocket](./Images/Opgave_3/Pocket.png)
+        * **Pocket parameterters -> Type : Through all**
+        * **Pocket parameterters -> Reversed : true**
+        * Klik [OK]
+        * ![Skærmbillede%20fra%202024-10-24%2021-42-24](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-42-24.png)
+        *
+
+## Step 6 - [Transformation tools - MultiTransform](./Sketch/Opgave_3.0.6.FCStd)
 
