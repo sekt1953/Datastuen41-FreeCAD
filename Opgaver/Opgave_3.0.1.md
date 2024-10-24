@@ -248,6 +248,6 @@
           * Klik [OK]
         * Occurrences:  Klik på Globus
           * Expression editor: **VarSet.BasePlateGridY**, Resultat 3,00
-          * Klik [OK],[OK]
-      * ![Skærmbillede%20fra%202024-10-24%2022-02-45.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2022-02-45.png)
-    * Klik [OK], du har nu løst Opgave 3.1
+          * Klik [OK],[OK], [Ok]
+* Opgave Slut:
+  * ![Skærmbillede%20fra%202024-10-24%2022-02-45.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2022-02-45.png)
