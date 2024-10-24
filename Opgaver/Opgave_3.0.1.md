@@ -225,3 +225,29 @@
 
 ## Step 6 - [Transformation tools - MultiTransform](./Sketch/Opgave_3.0.6.FCStd)
 
+* Marker ComboView -> Model **Pad, SubtractivePipe og Pocket**
+  * ![](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-48-51.png)
+  * Klik på **Create Multitransform** ![CreateMultitransform](./Images/Opgave_3/CreateMultitransform.png)
+    * **MultiTransform Parameters -> Transformations**
+      * Højreklik, og vælg  **Add LinarPattern**
+      * Sæt Parameter som følger:
+        * Direction : **Base X axis**
+        * Mode: **Offset**
+        * Offset: Klik på Globus
+          * Expression editor: **VarSet.GridSize**, Resultat 42,00 mm
+          * Klik [OK]
+        * Occurrences:  Klik på Globus
+          * Expression editor: **VarSet.BasePlateGridX**, Resultat 2,00
+          * Klik [OK],[OK]
+      * Højreklik, og vælg  **Add LinarPattern**
+      * Sæt Parameter som følger:
+        * Direction : **Base Y axis**
+        * Mode: **Offset**
+        * Offset: Klik på Globus
+          * Expression editor: **VarSet.GridSize**, Resultat 42,00 mm
+          * Klik [OK]
+        * Occurrences:  Klik på Globus
+          * Expression editor: **VarSet.BasePlateGridY**, Resultat 3,00
+          * Klik [OK],[OK]
+      * ![Skærmbillede%20fra%202024-10-24%2022-02-45.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2022-02-45.png)
+    * Klik [OK], du har nu løst Opgave 3.1
