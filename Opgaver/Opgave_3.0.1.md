@@ -49,7 +49,7 @@
   * Tilføj nu værdierne som listet herover, sikre dig at Navn, Group & Type er korrekte
   * klik igen på VarSet og tilføj Value
   * Dit Model View skulle nu gerne se ud som herunder
-![Step2.png](./Images/Opgave_3/Step2a.png)
+![Step2.png](./Images/Opgave_3/Step2a.png) 
 
 ## Step 3 - [Tegn Baseplate 1. trin - Opret Sketchs](./Sketch/)
 
