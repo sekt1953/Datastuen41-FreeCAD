@@ -1,5 +1,26 @@
 # Opgave 3.0.1 - Gridfinity Baseplate parametric modeling
 
+## VarSet  Bins/Blocks parameter
+
+|Group|Name|Type|Value|
+|:---|:---|:---|:---|
+|GridOffset|Grid|App::PropertyLength|0,25mm|
+|BinBlocks|BinBlocks_Pad_X|App::PropertyLength|(VarSet.Grid_Size * BinBlocks_Grid_X) - VarSet.Grid_Bin_Offset|
+|BinBlocks|BinBlocks_Pad_Y|App::PropertyLength|(VarSet.Grid_Size * BinBlocks_Grid_Y) - VarSet.Grid_Bin_Offset|
+|BinBlocks|BinBlocks_Pad_Z|App::PropertyLength|VarSet.Grid_Size - VarSet.Grid_Bin_Offset|
+|BinBlocks|BinBlocks_Pad_Top_Height|App::PropertyLength|21,00mm|
+|||||
+|BinBlocks|BinBlocks_Profile_Lower|App::PropertyLength|Varset.BasePlate_Profile_Lower + 0,1mm|
+|BinBlocks|BinBlocks_Profile_Middle|App::PropertyLength|1,80mm|
+|BinBlocks|BinBlocks_Profile_Top|App::PropertyLength|2,15mm|
+|BinBlocks|BinBlocks_Profile_Height|App::PropertyLength|2,95mm|
+|BinBlocks|BinBlocks_Profile_Angle|App::PropertyAngle|45,00 deg|
+|||||
+|BinBlocks|BinBlocks_Grid_X|App::PropertyInteger|1|
+|BinBlocks|BinBlocks_Grid_Y|App::PropertyInteger|1|
+
+## Opgaven 3.0.1
+
 ### Step 1 - Opret dokument
 
 * Start FreeCAD i Part Design
@@ -13,20 +34,15 @@
   * Dit Model View skulle nu gerne se ud som herunder
   * ![Step1.png](./Images/Opgave_3/Step1.png)
 
-### Step 2 - Indsæt i VarSet
+### Step 2 -  Indset i VarSet
 
 * Til at opbevaring af vores parametric data vil jeg haer bruge [Std VarSet](https://wiki.freecad.org/Std_VarSet).
-* [Klik her for at se mere om Std VarSet](https://wiki.freecad.org/Std_VarSet)
-  * [Description](https://wiki.freecad.org/Std_VarSet#Description)
-  * [Usage](https://wiki.freecad.org/Std_VarSet#Usage)
-  * [Common property types](https://wiki.freecad.org/Std_VarSet#Common_property_types)
-  * [Notes](https://wiki.freecad.org/Std_VarSet#Notes)
-* [Mere om Property editor](https://wiki.freecad.org/Property_editor)
-  * [Introduction](https://wiki.freecad.org/Property_editor#Introduction)
-  * [Property types](https://wiki.freecad.org/Property_editor#Property_types)
-  * [View and Data properties](https://wiki.freecad.org/Property_editor#View_and_Data_properties)
-  * [Basic properties](https://wiki.freecad.org/Property_editor#Basic_properties)
-  * [Context menu](https://wiki.freecad.org/Property_editor#Context_menu)
+* [Klik her for at se mere om FreeCAD Std VarSet](https://wiki.freecad.org/Std_VarSet)
+  * Vigtig læsning er afsnittene:
+    * [Description](https://wiki.freecad.org/Std_VarSet#Description)
+    * [Usage](https://wiki.freecad.org/Std_VarSet#Usage)
+    * [Common property types](https://wiki.freecad.org/Std_VarSet#Common_property_types)
+    * [Notes](https://wiki.freecad.org/Std_VarSet#Notes)
 
 |Name|Group|Type|Value|
 |:---|:---|:---|---:|
