@@ -118,6 +118,7 @@
       * ![CreateExternalGeometry2](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2011-48-27.png)
     * Select nu den stiplede linie og punktet med pilen i nederste højre runde hjørne og klik på [Coincident](https://wiki.freecad.org/Sketcher_ConstrainCoincidentUnified) ![Coincident](./Images/Opgave_3/Coincident.png) eller [C], herunder ser du hvardan resultatet bør se ud
     * ![Resultat4](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2011-58-27.png)
+    * Klik [Close]
 
 
  
