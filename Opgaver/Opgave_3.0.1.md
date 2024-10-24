@@ -89,4 +89,35 @@
 
 ## Step 4 - [Constraint Sketchs](./Sketch/)
 
+* [Sketcher Workbench](https://wiki.freecad.org/Sketcher_Workbench)
+  * [Constraints](https://wiki.freecad.org/Sketcher_Workbench#Constraints)
+* Constraint Sketch, 
+  * Dobbeltklik på ConboView -> Model -> Sketch
+  * ![](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2011-15-59.png)
+  * for at åbne Sketch i Sketcher.
+    * Selct en lodret og vandret linie og tryk på ![ConstrainEqual](./Images/Opgave_3/ConstrainEqual.png) eller [E], for at sætte dem til samme længde, du skulle nu se en kvardrat.
+    * Klik på den vandrette linie for at sætte længden og Klik [L]
+      * Insert Length vindue åbner 
+      *![InsertLength](./Images/Opgave_3/InsertLength.png)
+      * Klik nu på den lille globus og Expression Editor windue åbner
+      * ![](./Images/Opgave_3/ExpressionEditor.png)
+      * Indtast nu 'VarSet.GridSize', og du skal se at Result: 42,00mm
+      * ![Resultat1](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2011-33-35.png)
+      * Klik [OK], [Ok] og [Close]
 
+  * Dobbeltklik på ConboView -> Model -> Sketch001
+  * for at åbne Sketch001 i Sketcher.
+    * Selct en lodret og vandret linie og tryk på ![ConstrainEqual](./Images/Opgave_3/ConstrainEqual.png) eller [E], for at sætte dem til samme længde, du skulle nu se en kvardrat.
+    * Klik på et af de krumme hjørner og tryk [D]
+      * Insert radius vindue åbner
+      * Klik nu på den lille globus og Expression Editor windue åbner
+      * Indtast nu 'VarSet.GridOuterRadius', og du skal se at Result: 4,00mm
+      * Klik [OK], [Ok]
+    * Klik på [External geometry](https://wiki.freecad.org/Sketcher_External) ![CreateExternalGeometry](./Images/Opgave_3/CreateExternalGeometry.png) 
+      * select den nederste vandrett linie i Sketch (kavdraten), det skal nu se ud som herunder
+      * ![CreateExternalGeometry2](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2011-48-27.png)
+    * Select nu den stiplede linie og punktet med pilen i nederste højre runde hjørne og klik på [Coincident](https://wiki.freecad.org/Sketcher_ConstrainCoincidentUnified) ![Coincident](./Images/Opgave_3/Coincident.png) eller [C], herunder ser du hvardan resultatet bør se ud
+    * ![Resultat4](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2011-58-27.png)
+
+
+ 
