@@ -51,7 +51,7 @@
   * Dit Model View skulle nu gerne se ud som herunder
 * ![Step2.png](./Images/Opgave_3/Step2a.png) 
 
-## Step 3 - [Tegn Baseplate 1. trin - Opret Sketchs](./Sketch/)
+## Step 3 - [Tegn Baseplate 1. trin - Opret Sketchs](./Sketch/Opgave_3.0.3.FCStd)
 
 * Klik nu på **Create Sketch** ![CreateSketch](./Images/Opgave_3/CreateSketch.png
 )  
@@ -87,7 +87,7 @@
   * Du skal nu have noget der ser ud som herunder
   * ![Baseplate](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2010-40-34.png)
 
-## Step 4 - [Constraint Sketchs](./Sketch/)
+## Step 4 - [Constraint Sketchs](./Sketch/Opgave_3.0.4.FCStd)
 
 * [Sketcher Workbench](https://wiki.freecad.org/Sketcher_Workbench)
   * [Constraints](https://wiki.freecad.org/Sketcher_Workbench#Constraints)
@@ -97,8 +97,8 @@
   * for at åbne Sketch i Sketcher.
     * Selct en lodret og vandret linie og tryk på ![ConstrainEqual](./Images/Opgave_3/ConstrainEqual.png) eller [E], for at sætte dem til samme længde, du skulle nu se en kvardrat.
     * Klik på den vandrette linie for at sætte længden og Klik [L]
-      * Insert Length vindue åbner 
-      *![InsertLength](./Images/Opgave_3/InsertLength.png)
+      * Insert Length vinduet åbner
+      * ![InsertLength](./Images/Opgave_3/InsertLength.png)
       * Klik nu på den lille globus og Expression Editor windue åbner
       * ![](./Images/Opgave_3/ExpressionEditor.png)
       * Indtast nu 'VarSet.GridSize', og du skal se at Result: 42,00mm
@@ -118,7 +118,6 @@
     * Select nu den stiplede linie og punktet med pilen i nederste højre runde hjørne og klik på [Coincident](https://wiki.freecad.org/Sketcher_ConstrainCoincidentUnified) ![Coincident](./Images/Opgave_3/Coincident.png) eller [C], herunder ser du hvardan resultatet bør se ud
     * ![Resultat4](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2011-58-27.png)
     * Klik [Close]
-
   * Dobbeltklik på ComboView -> Model -> Sketch002
   * for at åbne Sketch002 i Sketcher.
     * Klik på [0] for at vælge Isometric View
@@ -134,14 +133,54 @@
       * Check at de 2 lodrette linier i Sketch002 er lodrette, der skal være en lille rød strg tæt ved dem, hvis ikke så klik på dem en afgangen og tast [v] for vertical constrain
       * på samme måde se efter om den vandretet linie har en rød streg, hvis ikke så vælg linien og klik på [H] for horizontal constrain.
       * Hold [Ctrl] nede og select de to Skrå Linier og klik på [P] for Parallel constrain, din figur skal nu se ud som herunder:
-      * ![aaa](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2012-55-57.png)
+      * ![Skærmbillede%20fra%202024-10-24%2012-55-57](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2012-55-57.png)
+    * Nu skal vi indsætte mål på tegningen
+      * Klik på den nederste skrå linies endepunkter
+        * Tast [I] for lodret højde, **Insert Length** vinduet åbner
+        * ![InsertLength](./Images/Opgave_3/InsertLength.png)
+        * Klik nu på den lille globus og **Expression Editor** winduet åbner
+        * ![](./Images/Opgave_3/ExpressionEditor.png)
+        * Indtast nu 'VarSet.BasePlateProfileLower', og du skal se at Result: 0,70mm
+      * ![Resultat1](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-22-36.png)
+      * Klik [OK], [Ok]
+      * Klik på den korte lodrette linies endepunkter
+        * Tast [I] for lodret højde, **Insert Length** vinduet åbner
+        * ![InsertLength](./Images/Opgave_3/InsertLength.png)
+        * Klik nu på den lille globus og **Expression Editor** winduet åbner
+        * ![](./Images/Opgave_3/ExpressionEditor.png)
+        * Indtast nu 'VarSet.BasePlateProfileMiddle', og du skal se at Result: 1,80mm
+      * ![Resultat1](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-26-27.png)
+      * Klik [OK], [Ok]
+      * Klik på den Øverste skrå linies endepunkter
+        * Tast [I] for lodret højde, **Insert Length** vinduet åbner
+        * ![InsertLength](./Images/Opgave_3/InsertLength.png)
+        * Klik nu på den lille globus og **Expression Editor** winduet åbner
+        * ![](./Images/Opgave_3/ExpressionEditor.png)
+        * Indtast nu 'VarSet.BasePlateProfileTop', og du skal se at Result: 2,15mm
+      * ![Resultat1](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-28-20.png)
+      * Klik [OK], [Ok]
+      * Klik på den Øverste skrå linie, derefter på den vandrette linie, 
+        * Tast [K] efterfult af [A], **Insert angle** vinduet åbner
+        * ![Insertangle](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-32-15.png)
+        * Klik nu på den lille globus og **Expression Editor** winduet åbner
+        * ![](./Images/Opgave_3/ExpressionEditor.png)
+        * Indtast nu 'VarSet.BasePlateProfileAngle', og du skal se at Result: 45,00 deg.
+      * ![Resultat1](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-33-58.png)
+      * ![Skærmbillede%20fra%202024-10-24%2020-39-59](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-39-59.png)
+      * Klik [OK], [Ok]
+    * Lås nu Sketch002 til Sketch001
+      * Marker den vandrette linies højre endpunkt, og derefter marker set det punkt vi oprettede med external geometri
+      * Tast [V] for vertical constrain
+      * ![vertical constrain](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-38-43.png)
+      * Marker Sketch002 nederste punkt, og derefter marker set det punkt vi oprettede med external geometri
+      * Tast [H] for horizontal constrain
+      * ![Skærmbillede%20fra%202024-10-24%2020-39-59](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-44-41.png)
+      * Klik på [0] for at vælge Isometric View
+      * Klik [Close]
+    * I comboView -> Model
+      * Select Sketch og tryk på mellemrums tangenten for vise Sketch igen
+      * ![Resultat4](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-51-40.png)
+
+## Step 5 - [Part Design Modeling tools](./Sketch/Opgave_3.0.5.FCStd)
 
 
-     
-    
-    
-    
-    
-    * ![Resultat4](./Images/Opgave_3)
-    * Klik [Close]
- 
