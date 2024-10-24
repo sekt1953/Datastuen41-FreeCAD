@@ -104,7 +104,6 @@
       * Indtast nu 'VarSet.GridSize', og du skal se at Result: 42,00mm
       * ![Resultat1](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2011-33-35.png)
       * Klik [OK], [Ok] og [Close]
-
   * Dobbeltklik på ConboView -> Model -> Sketch001
   * for at åbne Sketch001 i Sketcher.
     * Selct en lodret og vandret linie og tryk på ![ConstrainEqual](./Images/Opgave_3/ConstrainEqual.png) eller [E], for at sætte dem til samme længde, du skulle nu se en kvardrat.
@@ -120,5 +119,29 @@
     * ![Resultat4](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2011-58-27.png)
     * Klik [Close]
 
+  * Dobbeltklik på ComboView -> Model -> Sketch002
+  * for at åbne Sketch002 i Sketcher.
+    * Klik på [0] for at vælge Isometric View
+    * ![Isometric View](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2012-30-30.png)
+      * I comboView -> Model
+        * Select Sketch og tryk på mellemrums tangenten for skjule Sketch
+        * ![Skjule](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2012-35-00.png)
+        * Zoomind og så i kan se Nulpunktet og Sketch002
+          * select ![](./Images/Opgave_3/CreateExternalGeometry.png) klik på Sketch001 så i får en punkt markeret på X-axis, som vist herunder.
+          * ![ext3](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2012-35-00.png)
+    * Klik [1] for FrontView
+    * ![frontview](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2012-47-20.png)
+      * Check at de 2 lodrette linier i Sketch002 er lodrette, der skal være en lille rød strg tæt ved dem, hvis ikke så klik på dem en afgangen og tast [v] for vertical constrain
+      * på samme måde se efter om den vandretet linie har en rød streg, hvis ikke så vælg linien og klik på [H] for horizontal constrain.
+      * Hold [Ctrl] nede og select de to Skrå Linier og klik på [P] for Parallel constrain, din figur skal nu se ud som herunder:
+      * ![aaa](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2012-55-57.png)
 
+
+     
+    
+    
+    
+    
+    * ![Resultat4](./Images/Opgave_3)
+    * Klik [Close]
  
