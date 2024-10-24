@@ -250,4 +250,4 @@
           * Expression editor: **VarSet.BasePlateGridY**, Resultat 3,00
           * Klik [OK],[OK], [Ok]
 * Opgave Slut:
-  * ![Skærmbillede%20fra%202024-10-24%2022-02-45.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2022-02-45.png)
+  * ![Skærmbillede%20fra%202024-10-24%2022-02-45.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2022-09-11.png)
