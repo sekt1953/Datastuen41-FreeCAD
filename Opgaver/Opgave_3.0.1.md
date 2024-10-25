@@ -1,5 +1,24 @@
 # Opgave 3.0.1 - Gridfinity Baseplate parametric modeling
 
+## Kilder
+
+* [Printables]()
+  * [Gridfinity Specification](https://www.printables.com/model/417152-gridfinity-specification "grizzie17")
+  * [Rugged Box (Parametric)](https://www.printables.com/model/258431-rugged-box-parametric "Whity")
+* [Kursus Videoer](https://www.youtube.com/@sekt1953)
+  * [GridFinityParametricFiles - BasePlate](https://youtu.be/zOC_qxB1Kig)
+* Youtube Videoer
+  * [GridFinity Parametric File #freecad #cad #design](https://youtu.be/rAv9zGpiyvw "Adventures in creation")
+  * [Underware: The Ultimate Cable Management System | Full Guide](https://youtu.be/0TT96b98YZY?list=PLFa9atYEuNhVEwJW1WDg2C_DJdGSHJGrQ "Hands On Katie")
+  * [gridfinity case with bins](https://www.youtube.com/watch?v=hjQqcGHjv50 "Jason Brain")
+
+## Data
+
+|Basepalte Profile|Basepalte Plan View|
+|:---:|:---:|
+|![Skærmbillede%20fra%202024-10-20%2023-44-28.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-20%2023-44-28.png)|![Skærmbillede%20fra%202024-10-20%2023-44-46.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-20%2023-48-47.png)|
+
+
 ## Step 1 - [Opret dokument](./Sketch/Opgave_3.0.1.FCStd)
 
 * Start FreeCAD i Part Design
