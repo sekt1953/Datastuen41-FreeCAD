@@ -19,12 +19,8 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
       * Opgave 3 - GridFinity Parametric Design
         * [Opgave 3.1 - Gridfinity Baseplate parametric modeling](./Opgaver/Opgave_3.0.1.md)  
         * [Opgave 3.2 - Gridfinity Bin/Basket parametric modeling](./Opgaver/)
-* Værktøjer
+* Test Værktøjer:
   * [Temperature-Tower & PruserSlicer](./Tools/temp-tower/TempTower.md)
-* Octoprint opsætning 
-  * For Windows
-    * med Cura Slicer
-    * med Prusa Slicer
+* Octoprint - Er det noget jeg kan bruge?
+  * [Windows](./Tools/Octoprint/OctoprintWin.md)
   * For Linux
-    * med Cura Slicer
-    * med Prusa Slicer
