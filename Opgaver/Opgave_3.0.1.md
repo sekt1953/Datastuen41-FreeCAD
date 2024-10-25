@@ -14,7 +14,7 @@
 
 ## [Data](https://www.printables.com/model/417152-gridfinity-specification)
 
-|Basepalte Profile|Basepalte Plan View|
+|Baseplate Profile|Baseplate Plan View|
 |:---:|:---:|
 |![Skærmbillede%20fra%202024-10-20%2023-44-28.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-20%2023-44-28.png)|![Skærmbillede%20fra%202024-10-20%2023-44-46.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-20%2023-48-47.png)|
 
