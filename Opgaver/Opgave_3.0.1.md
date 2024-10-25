@@ -18,8 +18,7 @@
 |:---:|:---:|
 |![Skærmbillede%20fra%202024-10-20%2023-44-28.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-20%2023-44-28.png)|![Skærmbillede%20fra%202024-10-20%2023-44-46.png](./Images/Opgave_3/Skærmbillede%20fra%202024-10-20%2023-48-47.png)|
 
-
-## Step 1 - [Opret dokument](./Sketch/Opgave_3.0.1.FCStd)
+## Step 1 - [Opret dokument - PartDesign Workbench](https://wiki.freecad.org/PartDesign_Workbench)
 
 * Start FreeCAD i Part Design
   * Gem opgaven med filnavnet i dit opgave directory
@@ -32,7 +31,7 @@
   * Dit Model View skulle nu gerne se ud som herunder
   * ![Step1.png](./Images/Opgave_3/Step1.png)
 
-## Step 2 - [Indsæt i VarSet](./Sketch/Opgave_3.0.2.FCStd)
+## Step 2 - [Indsæt data i VarSet](https://wiki.freecad.org/Std_VarSet)
 
 * Til at opbevaring af vores parametric data vil jeg haer bruge [Std VarSet](https://wiki.freecad.org/Std_VarSet).
 * [Klik her for at se mere om Std VarSet](https://wiki.freecad.org/Std_VarSet)
@@ -70,7 +69,7 @@
   * Dit Model View skulle nu gerne se ud som herunder
 * ![Step2.png](./Images/Opgave_3/Step2a.png) 
 
-## Step 3 - [Tegn Baseplate 1. trin - Opret Sketchs](./Sketch/Opgave_3.0.3.FCStd)
+## Step 3 - [Tegn Baseplate 1. trin - Opret Sketchs](https://wiki.freecad.org/PartDesign_Workbench#Part_Design_Helper_tools)
 
 * Klik nu på **Create Sketch** ![CreateSketch](./Images/Opgave_3/CreateSketch.png
 )  
@@ -106,7 +105,7 @@
   * Du skal nu have noget der ser ud som herunder
   * ![Baseplate](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2010-40-34.png)
 
-## Step 4 - [Constraint Sketchs](./Sketch/Opgave_3.0.4.FCStd)
+## Step 4 - [Constraint Sketchs](https://wiki.freecad.org/Sketcher_Workbench#Constraints)
 
 * [Sketcher Workbench](https://wiki.freecad.org/Sketcher_Workbench)
   * [Constraints](https://wiki.freecad.org/Sketcher_Workbench#Constraints)
@@ -200,7 +199,7 @@
       * Select Sketch og tryk på mellemrums tangenten for vise Sketch igen
       * ![Resultat4](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-51-40.png)
 
-## Step 5 - [Part Design Modeling tools - Pad Sketch002](./Sketch/Opgave_3.0.5.FCStd)
+## Step 5 - [Part Design Modeling tools - Pad Sketch002](https://wiki.freecad.org/PartDesign_Pad)
 
 * I comboView -> Model
   * Marker på Sketch
@@ -242,7 +241,7 @@
         * ![Skærmbillede%20fra%202024-10-24%2021-42-24](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-42-24.png)
         *
 
-## Step 6 - [Transformation tools - MultiTransform](./Sketch/Opgave_3.0.6.FCStd)
+## Step 6 - [Transformation tools - MultiTransform](https://wiki.freecad.org/PartDesign_MultiTransform)
 
 * Marker ComboView -> Model **Pad, SubtractivePipe og Pocket**
   * ![](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2021-48-51.png)
