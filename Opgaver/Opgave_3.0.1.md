@@ -182,7 +182,7 @@
         * ![Insertangle](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-32-15.png)
         * Klik nu på den lille globus og **Expression Editor** winduet åbner
         * ![](./Images/Opgave_3/ExpressionEditor.png)
-        * Indtast nu 'VarSet.BasePlateProfileAngle', og du skal se at Result: 45,00 deg.
+        * Indtast nu 'VarSet.Grid_Grid_Profile_Angle', og du skal se at Result: 45,00 deg.
       * ![Resultat1](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-33-58.png)
       * ![Skærmbillede%20fra%202024-10-24%2020-39-59](./Images/Opgave_3/Skærmbillede%20fra%202024-10-24%2020-39-59.png)
       * Klik [OK], [Ok]
