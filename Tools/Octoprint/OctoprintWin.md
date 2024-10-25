@@ -38,7 +38,6 @@ Windows, Linux-Ubuntu, Raspberri Pi, Mac, Docker, Proxmox,
 
 [windows download](https://github.com/jneilliii/OctoPrint-WindowsInstaller)
 
-
 ![15db481e45af186266bd8da3c5e10557.png](./_resources/15db481e45af186266bd8da3c5e10557.png)
 [Windows vejledning](https://github.com/jneilliii/OctoPrint-WindowsInstaller)
 * * *
@@ -46,12 +45,11 @@ Windows, Linux-Ubuntu, Raspberri Pi, Mac, Docker, Proxmox,
 * * *
 ![f6b3ee636e0c9cc8fe459d1d8a835164.png](./_resources/f6b3ee636e0c9cc8fe459d1d8a835164.png)
 
-
 ### [Installation fil Octoprint.Setup.1.10.2.exe](https://github.com/jneilliii/OctoPrint-WindowsInstaller/releases/download/1.10.2/OctoPrint.Setup.1.10.2.exe)
 
 ![a7f463c65e8f71021130ccb88cb24654.png](./_resources/a7f463c65e8f71021130ccb88cb24654.png)
 
-# Billed vejledning til win install
+## Billed vejledning til win install
 
 ![efdcb6d32d8456c528888d6a64309507.png](./_resources/efdcb6d32d8456c528888d6a64309507.png)
 
@@ -71,11 +69,14 @@ Billede mangler Vil du give tilladelse til at ...
 ![50a91a5cb57711a5e677b86987a9de75.png](./_resources/50a91a5cb57711a5e677b86987a9de75.png)
 
 ![b13b30192400b6d270b646f18aa4fcca.png](./_resources/b13b30192400b6d270b646f18aa4fcca.png)
+
 ## C:\OctoPrint\basedir\5002
+
 ![15f6a045740b03232f74cce15df77e9a.png](./_resources/15f6a045740b03232f74cce15df77e9a.png)
 ![3f344c649b54aeeb0798188233d1c5b7.png](./_resources/3f344c649b54aeeb0798188233d1c5b7.png)
 
 ## Installere
+
 ![d5c13ff49b938a07b010407dc599e535.png](./_resources/d5c13ff49b938a07b010407dc599e535.png)
 ![6c8f4402a55f8412e181a6ccfa00a083.png](./_resources/6c8f4402a55f8412e181a6ccfa00a083.png)
 ![b38e2747aab198b66692e03eea6e88fe.png](./_resources/b38e2747aab198b66692e03eea6e88fe.png)
@@ -90,10 +91,10 @@ Billede mangler Vil du give tilladelse til at ...
 ![07dc1aa564de2191dc83848d9956097b.png](./_resources/07dc1aa564de2191dc83848d9956097b.png)
 ![6a5db3142b5304f3374bf84aa65775f5.png](./_resources/6a5db3142b5304f3374bf84aa65775f5.png)
 ![7e4106b611d4f88e3e204a68e6dcac5d.png](./_resources/7e4106b611d4f88e3e204a68e6dcac5d.png)
+
 ### Installation for Linux / Ubuntu 
+
 ### [Linux Vejledning](https://github.com/paukstelis/octoprint_deploy)
-
-
 
 ## Opsætning af Octoprint med Cura og Prusa
 
