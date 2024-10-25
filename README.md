@@ -18,7 +18,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
     * [Opgave 2 - Copy Sketch](./Opgaver/Opgave_2.0.0.md)
     * Opgave 3 - GridFinity Parametric Design
       * [Opgave 3.0 - Gridfinity Baseplate parametric modeling](./Opgaver/Opgave_3.0.1.md)  
-      * [Opgave 3.1 - Gridfinity Bin/Basket parametric modeling](./Opgaver/)
+      * [Opgave 3.1 - Gridfinity Bin/Basket parametric modeling](./Opgaver/Opgave_3.1.1.md)
 * Test Værktøjer:
   * [Temperature-Tower & PruserSlicer](./Tools/temp-tower/TempTower.md)
 * Octoprint - Er det noget jeg kan bruge?
