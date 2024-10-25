@@ -1,5 +1,7 @@
 # Octoprint for Windows - Er det noget jeg kan bruge
 
+## Bidrag af Anders Steen Hansen
+
 ## Ja, det er meget muligt. Der er en opgave at få flyttet data fra slicer til 3D printeren. 
 
 ## Hvordan flyttes tegning fra slicer til printer
