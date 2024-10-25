@@ -12,7 +12,7 @@
   * [Underware: The Ultimate Cable Management System | Full Guide](https://youtu.be/0TT96b98YZY?list=PLFa9atYEuNhVEwJW1WDg2C_DJdGSHJGrQ "Hands On Katie")
   * [gridfinity case with bins](https://www.youtube.com/watch?v=hjQqcGHjv50 "Jason Brain")
 
-## Data
+## [Data](https://www.printables.com/model/417152-gridfinity-specification)
 
 |Basepalte Profile|Basepalte Plan View|
 |:---:|:---:|
