@@ -17,8 +17,8 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
       * [Opgave 1 - New FreeCAD Feature! Complex Extrudes from a Single Sketch Like in SolidWorks](./Opgaver/Opgave_1.0.0.md)
       * [Opgave 2 - Copy Sketch](./Opgaver/Opgave_2.0.0.md)
       * Opgave 3 - GridFinity Parametric Design
-        * [Opgave 3.0.1 - Gridfinity Baseplate parametric modeling](./Opgaver/Opgave_3.0.1.md)  
-        * [Opgave 3.0.2 - Gridfinity Bin/Basket parametric modeling](./Opgaver/Opgave_3.0.1.md)
+        * [Opgave 3.1 - Gridfinity Baseplate parametric modeling](./Opgaver/Opgave_3.0.1.md)  
+        * [Opgave 3.2 - Gridfinity Bin/Basket parametric modeling](./Opgaver/)
 * Værktøjer
   * Temperature-Tower & PruserSlicer
     * Kilde:
@@ -37,3 +37,10 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
             * M104 S{245 - int(5 * int((layer_num-13) / 100))}
       * Plater
         * Print settings: 0.10mm
+* Octoprint opsætning 
+  * For Windows
+    * med Cura Slicer
+    * med Prusa Slicer
+  * For Linux
+    * med Cura Slicer
+    * med Prusa Slicer
