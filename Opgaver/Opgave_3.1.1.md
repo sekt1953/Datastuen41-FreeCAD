@@ -136,16 +136,16 @@
   * Klik ![CreateExternalGeometry.png](./Images/Icons/CreateExternalGeometry.png) 
     * Klik nu på den linie i Sketch004 som krydser X-axis
     * det skal se ud som herunder
-    * ![](./Images/Opgave_3/3.1/Step6.2.png)
+    * ![Step6.2.png](./Images/Opgave_3/3.1/Step6.2.png)
 * Tryk [1] og zoom så du ser noget som herunder
   * ![Step6.3.png](./Images/Opgave_3/3.1/Step6.3.png)
-  * Marker den vandrette linies højre endpunkt, og derefter marker set det punkt vi oprettede med external geometri
-    * Tast [V] for vertical constrain
-  * Marker Profilens nederste punkt, og derefter marker set det punkt vi oprettede med external geometri
-  * Tast [H] for horizontal constrain
-  * ![Step6.4.png](./Images/Opgave_3/3.1/Step6.4.png)
-  * Klik på [0] for at vælge Isometric View
-  * Klik [Close]
+    * Marker den vandrette linies højre endpunkt, og derefter marker set det punkt vi oprettede med external geometri
+      * Tast [V] for vertical constrain
+    * Marker Profilens nederste punkt, og derefter marker set det punkt vi oprettede med external geometri
+    * Tast [H] for horizontal constrain
+    * ![Step6.4.png](./Images/Opgave_3/3.1/Step6.4.png)
+    * Klik på [0] for at vælge Isometric View
+    * Klik [Close]
   * ![Resultat4](./Images/Opgave_3/3.1/Step6.5.png)
 
 ### Step 7 - BinProfile - Additive Pipe
