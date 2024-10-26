@@ -1,4 +1,4 @@
-# Opgave 3.0.1 - Gridfinity Baseplate parametric modeling
+# Opgave 3.1.1 - Gridfinity Binplate parametric modeling
 
 ## Kilder
 
@@ -26,7 +26,7 @@
   * Gem dokument as
     * Opgave_3.1.1.FCStd
 * Create Body
-  * Klik på iconen ![](./Images/Opgave_3/Create%20Body.png)
+  * Klik på iconen ![](./Images/Icons/CreateBody.png)
   * Omdøb den ny **Body** til **Bin**
 * Du skal nu se noget som herunder:
   * ![](./Images/Opgave_3/3.1/Step1.png)
@@ -56,10 +56,10 @@
 * Skjul Baseplate
   * ComboView -> Model -> Baseplate
     * Tryk på mellemrums tangenten for at skjule Baseplate
-* Klik nu på **Create Sketch** ![](./Images/Opgave_3/CreateSketch.png)
+* Klik nu på **Create Sketch** ![](./Images/Icons/CreateSketch.png)
   * Vælg XY-plane001 (Base plane)
     * Klik [OK]
-  * Vælg nu tegne værktøjet **Centered rectangle** ![Centered rectangle](./Images/Opgave_3/Skærmbillede%20fra%202024-10-22%2020-41-29.png)
+  * Vælg nu tegne værktøjet **Centered rectangle** ![Centered rectangle](./Images/Icons/CenteredRectangle.png)
     * Start firkant med runde hjørner i nulpunket.
       * Tegn nu en firkant, klik og ryk lidt tilbage så der kommer runde hjørner.
     * Sæt Radius på hjørnerne
@@ -82,10 +82,10 @@
 
 ### Step 3 - Tegn BinProfile 2. trin
 
-* Klik nu på **Create Sketch** ![](./Images/Opgave_3/CreateSketch.png)
+* Klik nu på **Create Sketch** ![](./Images/Icons/CreateSketch.png)
   * Vælg XZ-plane001 (Base plane)
     * Klik [OK]
-  * Vælg nu tegne værktøjet **** ![CreatePolyline.png](./Images/Opgave_3/CreatePolyline.png)
+  * Vælg nu tegne værktøjet **** ![CreatePolyline.png](./Images/Icons/CreatePolyline.png)
     * Tegn en tegning som vist herunder:
     * ![Step3.2.Poliline.png](./Images/Opgave_3/3.1/Step3.2.Poliline.png)
       * Check at de 2 lodrette linier i Sketch004 er lodrette, der skal være en lille rød strg tæt ved dem, hvis ikke så klik på dem en afgangen og tast [v] for vertical constrain
