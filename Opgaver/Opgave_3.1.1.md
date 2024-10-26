@@ -51,7 +51,7 @@
   * Dit Model View skulle nu gerne se ud som herunder
 * ![Step2.png](./Images/Opgave_3/3.1/Step2a.png)
 
-### Step 3 - Tegn BinBase 1. trin
+### Step 3 - Tegn BinBase
 
 * Skjul Baseplate
   * ComboView -> Model -> Baseplate
@@ -80,7 +80,7 @@
       * ![Step3.2](./Images/Opgave_3/3.1/Step3.2.png)
         * Klik [Close]
 
-### Step 3 - Tegn BinProfile 2. trin
+### Step 4 - Tegn BinProfile
 
 * Klik nu på **Create Sketch** ![](./Images/Icons/CreateSketch.png)
   * Vælg XZ-plane001 (Base plane)
@@ -92,3 +92,61 @@
       * på samme måde se efter om den vandretet linie har en rød streg, hvis ikke så vælg linien og klik på [H] for horizontal constrain.
       * Hold [Ctrl] nede og select de to Skrå Linier og klik på [P] for Parallel constrain, din figur skal nu se ud som herunder:
     * ![Step3.2.1.Poliline.png](./Images/Opgave_3/3.1/Step3.2.1.Poliline.png)
+
+### Step 5 - Constrain BinProfile
+
+* Nu skal vi indsætte mål på tegningen
+  * Klik på den nederste skrå linies endepunkter
+    * Tast [I] for lodret højde, **Insert Length** vinduet åbner
+      * ![InsertLength.png](./Images/Icons/InsertLength.png)
+      * Klik nu på den lille globus og **Expression Editor** winduet åbner
+      * ![ExpressionEditor.png](./Images/Icons/ExpressionEditor.png)
+      * Indtast nu **'VarSet.BinBase_Profile_Lower'**
+        * Result: 0,80mm
+    * Klik [OK], [Ok]
+  * Klik på den korte lodrette linies endepunkter
+    * Tast [I] for lodret højde, **Insert Length** vinduet åbner
+      * ![InsertLength.png](./Images/Icons/InsertLength.png)
+      * Klik nu på den lille globus og **Expression Editor** winduet åbner
+      * ![ExpressionEditor.png](./Images/Icons/ExpressionEditor.png)
+      * Indtast nu **'VarSet.BinBase_Profile_Middle'**
+        * Result: 1,80mm
+    * Klik [OK], [Ok]
+  * Klik på den Øverste skrå linies endepunkter
+    * Tast [I] for lodret højde, **Insert Length** vinduet åbner
+      * ![InsertLength](./Images/Icons/InsertLength.png)
+      * Klik nu på den lille globus og **Expression Editor** winduet åbner
+      * ![ExpressionEditor.png](./Images/Icons/ExpressionEditor.png)
+      * Indtast nu **'VarSet.BinBase_Profile_Top'**
+        * Result: 2,15mm
+    * Klik [OK], [Ok]
+  * Klik på den Øverste skrå linie, derefter på den vandrette linie, 
+    * Tast [K] efterfult af [A], **Insert angle** vinduet åbner
+      * ![Insertangle](./Images/Icons/InsertAngle.png)
+      * Klik nu på den lille globus og **Expression Editor** winduet åbner
+      * ![ExpressionEditor.png](./Images/Icons/ExpressionEditor.png)
+      * Indtast nu **'VarSet.Grid_Grid_Profile_Angle'**, og du skal se at Result: 45,00 deg.
+      * ![Step5.png](./Images/Opgave_3/3.1/Step5.png)
+    * Klik [OK], [Ok]
+
+### Step 6 - BinProfile Lås Sketch005 til Sketch004
+
+* Tryk [0] for Isometric View og zoom in så du ser noget som herunder:
+  * ![Step6.1.png](./Images/Opgave_3/3.1/Step6.1.png)
+  * Klik ![CreateExternalGeometry.png](./Images/Icons/CreateExternalGeometry.png) 
+    * Klik nu på den linie i Sketch004 som krydser X-axis
+    * det skal se ud som herunder
+    * ![](./Images/Opgave_3/3.1/Step6.2.png)
+* Tryk [1] og zoom så du ser noget som herunder
+  * ![Step6.3.png](./Images/Opgave_3/3.1/Step6.3.png)
+  * Marker den vandrette linies højre endpunkt, og derefter marker set det punkt vi oprettede med external geometri
+    * Tast [V] for vertical constrain
+  * Marker Profilens nederste punkt, og derefter marker set det punkt vi oprettede med external geometri
+  * Tast [H] for horizontal constrain
+  * ![Step6.4.png](./Images/Opgave_3/3.1/Step6.4.png)
+  * Klik på [0] for at vælge Isometric View
+  * Klik [Close]
+  * ![Resultat4](./Images/Opgave_3/3.1/Step6.5.png)
+
+### Step 7 - BinProfile - Additive Pipe
+
