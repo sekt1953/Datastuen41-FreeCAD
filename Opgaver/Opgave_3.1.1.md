@@ -31,7 +31,7 @@
 * Du skal nu se noget som herunder:
   * ![](./Images/Opgave_3/3.1/Step1.png)
 
-## Step 2 - Indsæt data for Bins/Blocks i VarSet
+## Step 2 - Indsæt data for BinBaseProfile i VarSet
 
 |Name|Group|Type|Value|
 |:---|:---|:---|:---|
@@ -80,7 +80,7 @@
       * ![Step3.2](./Images/Opgave_3/3.1/Step3.2.png)
         * Klik [Close]
 
-### Step 4 - Tegn BinProfile
+### Step 4 - Tegn BinBaseProfile
 
 * Klik nu på **Create Sketch** ![](./Images/Icons/CreateSketch.png)
   * Vælg XZ-plane001 (Base plane)
@@ -93,7 +93,7 @@
       * Hold [Ctrl] nede og select de to Skrå Linier og klik på [P] for Parallel constrain, din figur skal nu se ud som herunder:
     * ![Step3.2.1.Poliline.png](./Images/Opgave_3/3.1/Step3.2.1.Poliline.png)
 
-### Step 5 - Constrain BinProfile
+### Step 5 - Constrain BinBaseProfile
 
 * Nu skal vi indsætte mål på tegningen
   * Klik på den nederste skrå linies endepunkter
@@ -129,7 +129,7 @@
       * ![Step5.png](./Images/Opgave_3/3.1/Step5.png)
     * Klik [OK], [Ok]
 
-### Step 6 - BinProfile Lås Sketch005 til Sketch004
+### Step 6 - BinBaseProfile Lås Sketch005 til Sketch004
 
 * Tryk [0] for Isometric View og zoom in så du ser noget som herunder:
   * ![Step6.1.png](./Images/Opgave_3/3.1/Step6.1.png)
@@ -148,5 +148,65 @@
     * Klik [Close]
   * ![Resultat4](./Images/Opgave_3/3.1/Step6.5.png)
 
-### Step 7 - BinProfile - Additive Pipe
+### Step 7 - BinBaseProfile - Additive Pipe
 
+* Åben ComboView -> Model 
+  * Marker **Sketch005** og derefter **Sketch004**, rækkefølgende er **vigtig!**
+  * ![Step7.1.png](./Images/Opgave_3/3.1/Step7.1.png)
+  * Klik nu på AdditivePipe iconet ![AdditivePipe](./Images/Icons/AdditivePipe.png)
+    * Task vinduet åbener og en AdditivePipe figur viser 
+    * ![Step7.2](./Images/Opgave_3/3.1/Step7.2.png)
+    * Klik [OK] i task vinduet, en AdditivePipe figur er nu oprettet.
+  * ![Step7.3](./Images/Opgave_3/3.1/Step7.3.png)  
+
+### Step 8 - BinBaseProfile - udfyld hulrummet i den lige oprettet AdditivePipe
+
+* Tryk [V,3] for Draw style: Wireframe
+  * Opret en ny Sketch i XY-plane
+  * Brug CreateExternalGeometry ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png) til 
+    * Klik på nederste venste inderste hjørne 
+    * ![Step8.1](./Images/Opgave_3/3.1/Step8.1.png)
+  * Tegn nu en Centered Firkant med Runde hjørner ![](./Images/Icons/CenteredRectangle.png)
+    * Start i tegningens nulpunkt
+      * ![Step8.2](./Images/Opgave_3/3.1/Step8.2.png)
+    * Marker de 2 kurver centrum, og Constrain dem ved at trykke [C]
+      * ![Step8.3](./Images/Opgave_3/3.1/Step8.3.png)
+    * Marker nu et end punk for den inderste og det nye hjørne
+      * ![Step8.4](./Images/Opgave_3/3.1/Step8.4.png)
+    * Constrain dem ved at trykke [H]
+* Tryk [V,1] for Draw style: As Is
+  * Marker Sketch006 og Pad Sketchen
+    * ![Step8.5](./Images/Opgave_3/3.1/Step8.5.png)
+    * Ændre værdien for Lenght ved at trykke på den lille globus
+    * Indtaste i **'VarSet.Bin_BinBase_Profile_Height'** i Expression editor vinduet
+      * Result skal være 4,75 mm
+    Klik [OK], [Ok]
+    * Skal nu have en figur som herunder:
+      * ![Step8.6](./Images/Opgave_3/3.1/Step8.6.png)
+  * Her resultatet af Step 8
+    * i ComboView -> Model Marker Baseplate og Tryk mellemrums tangenter for at gøre den synlig
+    * Højre klik på Baseplate og klik Toggle Transparency  til On
+    * Højre klik på Bin og vælg klik på Random color.
+    * ![Step8](./Images/Opgave_3/3.1/Step8.png)  
+
+
+## Step 9 - Indsæt data for BinBasket i VarSet
+
+|Name|Group|Type|Value|
+|:---|:---|:---|:---|
+|BinBasket_Grid_X|BinBasket|App::PropertyInteger|1|
+|BinBasket_Grid_Y|BinBasketBin|App::PropertyInteger|2|
+
+* Double klik nu på **{} VarSet** i Model View
+  * Tilføj nu værdierne som listet herover, sikre dig at Navn, Group & Type er korrekte
+  * klik igen på VarSet og tilføj Value
+  * Dit Model View skulle nu gerne se ud som herunder
+* ![Step2.png](./Images/Opgave_3/3.1/Step2a.png)
+
+
+
+## Step 9 - BinBasket 
+
+* Opret en ny Sketch i XY-Plane ![CreateSketch](./Images/Icons/CreateSketch.png)
+  * Klik ViewSection iconet ![ViewSection](./Images/Icons/ViewSection.png)
+  * Tegn nu Firkant med Runde hjørner brug ![RoundedRectangel](./Images/Icons/RoundedRectangel.png)
