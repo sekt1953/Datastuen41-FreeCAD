@@ -201,12 +201,15 @@
   * Tilføj nu værdierne som listet herover, sikre dig at Navn, Group & Type er korrekte
   * klik igen på VarSet og tilføj Value
   * Dit Model View skulle nu gerne se ud som herunder
-* ![Step2.png](./Images/Opgave_3/3.1/Step2a.png)
+* ![Step2.png](./Images/Opgave_3/3.1/Step9.png)
 
-
-
-## Step 9 - BinBasket 
+## Step 10 - Tegn BinBasket 
 
 * Opret en ny Sketch i XY-Plane ![CreateSketch](./Images/Icons/CreateSketch.png)
   * Klik ViewSection iconet ![ViewSection](./Images/Icons/ViewSection.png)
   * Tegn nu Firkant med Runde hjørner brug ![RoundedRectangel](./Images/Icons/RoundedRectangel.png)
+
+
+
+(VarSet.GridSize - 2 * VarSet.BinBase_Grid_Offset) * VarSet.BinBasket_Grid_X
+(VarSet.GridSize - 2 * VarSet.BinBase_Grid_Offset) * VarSet.BinBasket_Grid_Y
