@@ -29,7 +29,15 @@
 |GridSize|Gridfinity|App::PropertyLength|42,00mm|
 |GridOuterRadius|Gridfinity|App::PropertyLength|4,00mm|
 |||||
-|GridProfileAngle|Gridfinity|App::PropertyAngle|45,00 deg|
+|ProfileAngle|Gridfinity|App::PropertyAngle|45,00 deg|
+|ProfileTop|Gridfinity|App::PropertyLength|2,15mm|
+|ProfileMiddle|Gridfinity|App::PropertyLength|1,80mm|
+|BaseProfileOffset_Z|Gridfinity|App::PropertyLength|-0,10mm|
+|BaseProfileLower|Gridfinity|App::PropertyLength|0,70mm|
+|||||
+|BinProfileOffset_XY|Gridfinity|App::PropertyLength|0,25mm|
+|BinProfileLower|Gridfinity|App::PropertyLength|0,80mm|
+|BinStepSize|Gridfinity|App::PropertyLength|7,00mm|
 
 ### BasePlate Parameters
 
@@ -38,31 +46,12 @@
 |BasePlateGridX|Baseplate|App::PropertyInteger|2|
 |BasePlateGridY|Baseplate|App::PropertyInteger|3|
 |||||
-|BaseplatePadLength|Baseplate|App::PropertyLength|3,00mm|
-|BaseplatePad2nd_Length|Baseplate|App::PropertyLength|0,40mm|
-|||||
-|BasePlateProfileLower|Baseplate|App::PropertyLength|0,70mm|
-|BasePlateProfileMiddle|Baseplate|App::PropertyLength|1,80mm|
-|BasePlateProfileTop|Baseplate|App::PropertyLength|2,15mm|
-|BasePlateProfileHeigth|Baseplate|App::PropertyLength|BasePlateProfileLower +  BasePlateProfileMiddle + BasePlateProfileTop|
-
-### Bin Parameters
-
-|Name|Group|Type|Value|
-|:---|:---|:---|:---|
-|BinOffset_Horzontal|Gridfinity|App::PropertyLength|0,25mm|
-|BinOffset_Vertical|Gridfinity|App::PropertyLength|0,1mm|
-|BinOuterRadius|Bin|App::PropertyLength|GridOuterRadius - BinOffset_Horzontal|
-|BinGrid|Bin|App::PropertyLength|GridSize - 2 * BinOffset_Horzontal|
+|BasePlateProfileHeigth|Baseplate|App::PropertyLength|ProfileTop +  ProfileMiddle + BaseProfileLower|
 
 ### BinBase Parameters
 
 |Name|Group|Type|Value|
 |:---|:---|:---|:---|
-|BinBase_Profile_Lower|Bin|App::PropertyLength|0,80mm|
-|BinBase_Profile_Middle|Bin|App::PropertyLength|1,80mm|
-|BinBase_Profile_Top|Bin|App::PropertyLength|2,15mm|
-|BinBase_Profile_Height|Bin|App::PropertyLength|BinBase_Profile_Lower + BinBase_Profile_Middle + BinBase_Profile_Top|
 
 ### BinBasket Parameters
 
@@ -70,6 +59,9 @@
 |:---|:---|:---|:---|
 |BinBasketGridX|Bin|App::PropertyInteger|1|
 |BinBasketGridY|Bin|App::PropertyInteger|3|
+|||||
+|BinBasketProfile_Z|Bin|App::PropertyInteger|2|
+|BinBasketProfileHeigth|Baseplate|App::PropertyLength|(BinStepSize * BinBasketProfile_Z) - (ProfileTop + ProfileMiddle + BinProfileLower)|
 |||||
 |BinBasket_WidthX|BinBasket|App::PropertyLength|GridSize * BinBasket_GridX - 2 * BinOffset_Horzontal|
 |BinBasket_LengthY|BinBasket|App::PropertyLength|GridSize * BinBasket_GridY - 2 * BinOffset_Horzontal|
