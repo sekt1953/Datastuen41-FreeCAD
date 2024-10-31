@@ -239,5 +239,5 @@
         * **VarSet.GridProfileBaseplateHeight**
           * Result skal være 4.65 mm
     * Check Reversed
-    * ![Step2.5.1](./Opgave_3/Images/Step2.5.1.png)
-* ![Step2.5.1](./Opgave_3/Images/Step2.5.2.png)
+    * ![Step2.5.1b](./Opgave_3/Images/Step2.5.1b.png)
+* ![Step2.5.2a](./Opgave_3/Images/Step2.5.2a.png)
