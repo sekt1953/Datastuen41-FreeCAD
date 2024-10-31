@@ -185,11 +185,7 @@
     * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
 
 
-
-
-
-
-
+## Stop her, jeg har kun rettet hertil !!!
 
 
 
