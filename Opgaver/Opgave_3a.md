@@ -107,11 +107,11 @@
         * Klik **Expression...** og Expression editor åbner
           * Indtsat nu **GridProfileTop + GridProfileMiddle + GridProfileBaseplateLower**
             * Result: 4,65
-          * ![Step2.1](./Opgave_3a/Images/Step2.1.png)
+          * ![Step2.1.1](./Opgave_3a/Images/Step2.1.1.png)
           * Klik [Ok]
-* ![Step2.1](./Opgave_3a/Images/Step2.2.png)
+* ![Step2.1.2](./Opgave_3a/Images/Step2.1.2.png)
 
-## Step 2.2 BasePlate - Tegn BasePlate XZ-Profile
+## Step 2.2 BasePlate - Tegn BasePlate Cut XZ-Profile
 
 * Højre Klik -> ComboView -> Model -> Part -> Baseplate
   * Checkmark **Active Body**
@@ -175,7 +175,7 @@
         * ![2.2.10c](./Opgave_3a/Images/Step2.2.10.png)
     * Press **ComboView -> Task -> Close**
 
-## Step 2.3 BasePlate - Tegn BasePlate XY-Profile
+## Step 2.3 BasePlate - Tegn BasePlate Cut XY-Profile
 
 * Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
   * DobbeltKlik ComboView -> Task -> **XZ-plane001 (Base plane)**
