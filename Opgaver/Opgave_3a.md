@@ -26,22 +26,15 @@
 |GridProfileLower|Gridfinity|App::PropertyLength| 0,70 mm|
 |GridProfileHeight|Gridfinity|App::PropertyLength| GridProfileTop + GridProfileMiddle + GridProfileLower|
 |||||
-|GridProfileBinLower|Gridfinity|App::PropertyLength| 0,x0 mm|
-|GridProfileBinplateHeight|Gridfinity|App::PropertyLength| GridProfileTop +GridProfileMiddle + GridProfileBinLower|
-|GridProfileBinTopRadius|Gridfinity|App::PropertyLength| 5,00 mm|
-|||||
 |**BasePlate Parameters:**|||***2 x 3 Grid***|
 |BasePlateGridX|Baseplate|App::PropertyInteger|2|
 |BasePlateGridY|Baseplate|App::PropertyInteger|3|
 |||||
-|**BinBasket Parameters:**|||***1 x 1 Grid***|
+|**BinBasket Parameters:**|||***1 x 2 Grid***|
 |BinPlateGridX|Baseplate|App::PropertyInteger|1|
-|BinPlateGridY|Baseplate|App::PropertyInteger|1|
+|BinPlateGridY|Baseplate|App::PropertyInteger|2|
 |**BinBasket Parameters:**|||***1 x 3 Grid***|
 |BinPlateGridX|Baseplate|App::PropertyInteger|1|
-|BinPlateGridY|Baseplate|App::PropertyInteger|3|
-|**BinBasket Parameters:**|||***2 x 3 Grid***|
-|BinPlateGridX|Baseplate|App::PropertyInteger|2|
 |BinPlateGridY|Baseplate|App::PropertyInteger|3|
 
 ## Step1: Opret 1 Part, 4 Body & 1 VarSet
