@@ -30,12 +30,12 @@
 |BasePlateGridX|Baseplate|App::PropertyInteger|2|
 |BasePlateGridY|Baseplate|App::PropertyInteger|3|
 |||||
-|**BinBasket Parameters:**|||***1 x 2 Grid***|
-|BinPlateGridX|Baseplate|App::PropertyInteger|1|
-|BinPlateGridY|Baseplate|App::PropertyInteger|2|
-|**BinBasket Parameters:**|||***1 x 3 Grid***|
-|BinPlateGridX|Baseplate|App::PropertyInteger|1|
-|BinPlateGridY|Baseplate|App::PropertyInteger|3|
+|**Bin Parameters:**|||***1 x 2 Grid***|
+|BinOffset|Bin|App::PropertyLength| 0,25 mm|
+|||||
+|**BinFoot Parameters:**|||***1 x 2 Grid***|
+|BinPlateGridX|BinFoot|App::PropertyInteger|1|
+|BinPlateGridY|BinFoot|App::PropertyInteger|2|
 
 ## Step1: Opret 1 Part, 4 Body & 1 VarSet
 
