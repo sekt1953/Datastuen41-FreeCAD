@@ -109,7 +109,19 @@
             * Result: 4,65
           * ![Step2.1.1](./Opgave_3a/Images/Step2.1.1.png)
           * Klik [Ok]
-* ![Step2.1.2](./Opgave_3a/Images/Step2.1.2.png)
+      * Indtast:
+        * Name: BasePlateGridX
+        * Group: Baseplate
+        * Type: App::PropertyInteger
+        * Value: 2
+        * Klik [Ok]
+      * Indtast:
+        * Name: BasePlateGridY
+        * Group: Baseplate
+        * Type: App::PropertyInteger
+        * Value: 3
+        * Klik [Ok]
+* ![Step2.1.2a](./Opgave_3a/Images/Step2.1.2a.png)
 
 ## Step 2.2 BasePlate - Tegn BasePlate Cut XZ-Profile
 
@@ -244,10 +256,56 @@
           * Marker nederste venstre hjørne i og et punkt i **External Geometry** Nederste venster hjørne
           * ![Step2.4.4](./Opgave_3a/Images/Step2.4.4.png)
     * Press **ComboView -> Task -> Close**
-  * Pad Sketch **BasePlateProfileXY**
-    * 
 
+## Step 2.5 BasePlate - Pad BasePlate XY-Profile & Klipvæk XZ-Profile
 
+* [Pad Sketch](https://wiki.freecad.org/PartDesign_Pad) **BasePlateProfileXY**
+  * Marker Sketch **BasePlateProfileXY**
+    * Klik Pad Ikonet ![Pad](./Images/Icons/Pad.png)
+      * Klik den lille globus ud for PropertyLength,
+        * Indtast: **VarSet.GridProfileHeight**
+          * Result: 4,65 mm 
+      * ![Step2.5.1](./Opgave_3a/Images/Step2.5.1.png)
+    * sæt flueben i **Reversed**
+      * Klik [Ok]
+    * ![Step2.5.2](./Opgave_3a/Images/Step2.5.2a.png)
+* [Subtractive pipe:](https://wiki.freecad.org/PartDesign_SubtractivePipe)
+  * Marker **BasePlateProfileXZCutOut** Hold [Ctrl] nede mens du Marker **BasePlateProfileXYCutOut**
+  * Klik [Subtractive pipe](https://wiki.freecad.org/PartDesign_SubtractivePipe)
+    * Klik [Ok]
+  * ![Step2.5.3](./Opgave_3a/Images/Step2.5.3.png)
 
+## Step 2.6 BasePlate - Create MultiTransform
 
-
+* ComboView -> Model -> Part -> Baseplate
+  * Marker **Pad** & **SubtractivePipe**
+    * Klik [**Create MultiTransform**](https://wiki.freecad.org/PartDesign_MultiTransform) Ikonen ![Create MultiTransform](./Images/Icons/CreateMultitransform.png)
+  * ComboView -> Model -> Multitransform Parameters -> Transformations
+    * HøjreKlik og vælg [**Add linear pattern**](https://wiki.freecad.org/PartDesign_LinearPattern)
+    * Sæt:
+      * Direction: **Base X axis**
+      * Mode: **Offset**
+      * Offset: Klik den lille globus
+        * Indtast: **VarSet.GridSize**
+        * ![Step2.6.2](./Opgave_3a/Images/Step2.6.2.png) 
+      * Occurrences: Klik den lille globus
+        * Indtast **VarSet.BasePlateGridX**
+        * Klik [Ok]
+        * ![Step2.6.1](./Opgave_3a/Images/Step2.6.1.png)
+      * Klik [OK]
+    * HøjreKlik og vælg [**Add linear pattern**](https://wiki.freecad.org/PartDesign_LinearPattern)
+    * Sæt:
+      * Direction: **Base Y axis**
+      * Mode: **Offset**
+      * Offset: Klik den lille globus
+        * Indtast: **VarSet.GridSize**
+        * ![Step2.6.2](./Opgave_3a/Images/Step2.6.2.png)
+      * Occurrences: Klik den lille globus
+        * Indtast **VarSet.BasePlateGridY**
+        * Klik [Ok]
+        * ![Step2.6.3](./Opgave_3a/Images/Step2.6.3.png)
+      * Klik [OK]
+  * ![Step2.6.4](./Opgave_3a/Images/Step2.6.4.png)
+    * Klik [Ok]
+* ![Step2.6.5](./Opgave_3a/Images/Step2.6.5.png)
+  * 2x3 Gridfinity Grid Baseplate
