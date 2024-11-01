@@ -46,6 +46,8 @@
 |Sketcher-General|Sketcher-Display|
 |:---:|:---:|
 |![Sketcher-General](./Images/Skærmbillede%20fra%202024-09-24%2019-54-25.png)|![Sketcher-Display](./Images/Skærmbillede%20fra%202024-09-24%2019-55-09.png)|
+|Sketcher Appearance||
+|![SketcherAppearance.png](./Images/SketcherAppearance.png)||
 
 * Her skal man se efter:
   * Sketcher-General:
@@ -53,3 +55,6 @@
   * Sketcher-Display:
     * Font size: 22px, vælg en værdi der passer til dine øjne
     * Viev scale ratio: 1,00, gør det letter at selecte en linie, da den bliver bredere.
+  * Sketcher Appearance:
+    * Color settings, for mit dårlige farve syn
+    
