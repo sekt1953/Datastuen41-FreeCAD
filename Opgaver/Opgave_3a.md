@@ -182,7 +182,31 @@
   * Vælg -> ComboView -> **Model**
     * Omdøb **Sketch001** til **BasePlateProfileXYCutOut**
     * DobbeltKlik **ComboView -> Model -> Part -> BasePlateProfileXYCutOut**
-    * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
+    * Press [0] for Isometric View
+      * Brug værktøjet [Create External Geometry](https://wiki.freecad.org/Sketcher_External) ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)  
+    for at få oprette link til profilen fra forrige trin.
+      * ![Step2.3.2](./Opgave_3a/Images/Step2.3.1.png)
+    * Press [2] for Top View
+      * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
+        * Check **ComboView -> Task -> Rectangle parameters -> Rounded corners** Eller Press [U]
+        * Placer nu den **Centered Regtangle** med centrum i Nulpunket og giv den runde hjørner
+        * Constrain **Centered Rectangle med runde hjørner**
+        * Klik på Iconet **ConstrainEqual** ![ConstrainEqual](./Images/Icons/ConstrainEqual.png), Klik nu på en Vandret & en Lodret linie for at få en Kvardrat med runde hjørner
+        * Vælg Dimensions værktøjet ![Dimension](./Images/Icons/Dimension.png)
+          * Klik et af de runde hjørnet og **Insert radius** åbner klik nu på globusen
+          * ![Expression editor](./Opgave_3a/Images/Step2.3.2.png)
+            * Indtast i **VarSet.GridOuterRadius** i **Expression editoren**
+              * Result: 4,00 mm
+          * Klik [Ok], [Ok]
+        * Placer nu den venstre lodrette symetrisk omkring 'External Geometry' Venstre punkt
+          * Marker de 2 endepunkter af venstre lodrette linie, og det venstre punkt i 'External Geometry'
+          og Klik Symmetric ![Symmetric](./Images/Icons/Symmetric.png), Eller Press [S] for at Symmetri.
+    * ![Step2.3.3](./Opgave_3a/Images/Step2.3.3.png)
+    * Press **ComboView -> Task -> Close**
+* ![Step2.3.4](./Opgave_3a/Images/Step2.3.4.png)
+
+
+
 
 
 ## Stop her, jeg har kun rettet hertil !!!
@@ -190,15 +214,6 @@
 
 
 
-      * Check **ComboView -> Task -> Rectangle parameters -> Rounded corners** Eller Press [U]
-      * Placer nu den **Centered Regtangle** med centrum i Nulpunket og giv den runde hjørner
-      * ![Step2.4.1](./Opgave_3/Images/Step2.4.1.png)
-      * Constrain **Centered Rectangle med runde hjørner**
-        * Klik på Iconet **ConstrainEqual** ![ConstrainEqual](./Images/Icons/ConstrainEqual.png), Klik nu på en Vandret & en Lodret linie for at få en Kvardrat med runde hjørner
-        * Vælg Dimensions værktøjet ![Dimension](./Images/Icons/Dimension.png)
-          * Klik et af de runde hjørnet og **Insert radius** åbner klik nu på globusen og Indtast i **VarSet.GridOuterRadius** i **Expression editoren**
-            * Result: 5,00 mm
-          * Klik [Ok], [Ok]
         * Klik på Ikonet **Isometric** ![Isometric](./Images/Icons/Isometric.png) eller press [1] for Isometric view
           * Vælg nu Ikonet **Create External Geometry** ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
           * Klik på den øverste skrå linie i profilen, og der kommer 2 runde prikke på x-axis
