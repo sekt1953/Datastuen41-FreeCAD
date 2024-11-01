@@ -80,19 +80,141 @@
   * ![Step2.0](./Opgave_3c/Images/Step2.0.png)
 * ![Step2.1](./Opgave_3c/Images/Step2.1.png)
 
-## Step 3 BinFoot - BinFoot Profile
+## Step 3 BinFoot - BinFoot Profiler
 
-* Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
-  * DobbeltKlik ComboView -> Task -> **XZ-plane001 (Base plane)**
-  * Vælg -> ComboView -> **Model**
-  * Omdøb **Sketch** til **BigFootProfileXZ**
-  * DobbeltKlik på ComboView -> Opgave_3 -> Model -> **BigFootProfileXZ**
+* XZ-Profile:
+  * Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
+    * DobbeltKlik ComboView -> Task -> **XZ-plane003 (Base plane)**
+    * Vælg -> ComboView -> **Model**
+    * Omdøb **Sketch** til **BigFootProfileXZ**
+    * DobbeltKlik på ComboView -> Opgave_3 -> Model -> **BigFootProfileXZ**
+  * Opret CreateExternalGeometry:
+    * Klik på Ikonet CreateExternalGeometry ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
+      * Klik midt på **Binder** to skrå linier
+      * ![Step3.1](./Opgave_3c/Images/Step3.1.png)
+      * Klik [Close]
+  * Tegn XZ-Profile
+    * Sluk for ComboView -> Model -> Part -> BasketFoot -> **Binder**
+      * ![Step3.2](./Opgave_3c/Images/Step3.2.png)
+    * Brug **CreatePolyline** ![CreatePolyline](./Images/Icons/CreatePolyline.png) til at tegne profilen
+      * ![Step3.3](./Opgave_3c/Images/Step3.3.png)
+    * Brug **Constrain Horizontal vertical** ![ConstrainHorizontalvertical](./Images/Icons/ConstrainHorizontalvertical.png) til at sikre at lodrette og vandrette linier er sådan
+    * Brug **ConstrainParallel** ![ConstrainParallel](./Images/Icons/ConstrainParallel.png) til at sikre skrå linier er Parallel
+    * Brug **Coincident** ![Coincident](./Images/Icons/Coincident.png) til at sikre dig at profiler er sikret til X-Axis
+    * Press [L] og og sæt afstanden mellem Binder og profilen
+      * Klik den lille globus 
+        * Indtast: **VarSet.BinOffset**
+      * ![Step3.4](./Opgave_3c/Images/Step3.4a.png)
+      * Klik [Ok],[Ok]
+    * Press [H] og Horizontal Constrain den korte lodrette linie
+    * Press [V] og Vertical Constrain den Lange lodrette linie
+  * ![Step3.5](./Opgave_3c/Images/Step3.5.png)
+  * Klik ComboView -> Task -> **Close**
+* XY-Profile:
+  * Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
+    * DobbeltKlik ComboView -> Task -> **XY-plane003 (Base plane)**
+    * Vælg -> ComboView -> **Model**
+    * Omdøb **Sketch** til **BigFootProfileXY**
+    * DobbeltKlik på ComboView -> Opgave_3 -> Model -> **BigFootProfileXY**
+  * Opret CreateExternalGeometry:
+    * Klik på Ikonet CreateExternalGeometry ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
+      * Klik midt på **Binder001** nederste venstre runde hjørne
+      * Sluk for ComboView -> Model -> **Binder001**
+      * Press [0] for IsometricView
+      * Klik på Ikonet CreateExternalGeometry ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
+      * Klik midt på **BigFootProfileXZ** Øverste vandrette linie
+  * ![Step3.6](./Opgave_3c/Images/Step3.6.png)
+  * Press [2] for TopView
+    * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
+      * Check **ComboView -> Task -> Rectangle parameters -> Rounded corners** Eller Press [U]
+        * Placer nu den **Centered Regtangle** med centrum i Nulpunket og giv den runde hjørner
+        * Constrain **Centered Rectangle med runde hjørner**
+        * Klik på Iconet **ConstrainEqual** ![ConstrainEqual](./Images/Icons/ConstrainEqual.png)
+          * Klik nu på en Vandret & en Lodret linie for at få en Kvardrat med runde hjørner
+        * Placer nu den venstre lodrette symetrisk omkring 'External Geometry' Venstre punkt
+          * Marker de 2 endepunkter af venstre lodrette linie, og det venstre punkt i 'External Geometry'
+          * Klik Symmetric ![Symmetric](./Images/Icons/Symmetric.png), Eller Press [S] for at Symmetri.
+        * ![Step3.7](./Opgave_3c/Images/Step3.7.png)
+        * Placer hjørnerne
+          * Marker Hjørne Centrum for Kvareaten og 'External Geometry' fra XY planet
+          * Klik **Coincident** ![Coincident](./Images/Icons/Coincident.png)
+        * ![Step3.8](./Opgave_3c/Images/Step3.8.png)
+    * Press **ComboView -> Task -> Close**
+  * ![Step3.9](./Opgave_3c/Images/Step3.9.png)
+ 
+ ## Step 4 BinFoot - BinFoot [Additive pipe](https://wiki.freecad.org/PartDesign_AdditivePipe)
 
-* Opret CreateExternalGeometry:
-  * 
+* [Additive pipe:](https://wiki.freecad.org/PartDesign_AdditivePipe) 
+  * Hold [Ctrl] mens du Markerer ComboView -> Model -> BasketFoot 
+    * **BigFootProfileXZ** og derefter **BigFootProfileXY** rækkefølgen er vigtig
+  * Klik nu Ikonet **Additive pipe:** [Additive pipe](./Images/Icons/AdditivePipe.png) 
+    * Klik [OK]
+* ![Step4.1](./Opgave_3c/Images/Step4.1.png)
 
+## Step 5 BinFoot - BinFoot Infill
 
+* Create Infill:
+  * Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
+    * DobbeltKlik ComboView -> Task -> **XY-plane003 (Base plane)**
+    * Vælg -> ComboView -> **Model**
+    * Omdøb **Sketch** til **BigFootInfill**
+    * DobbeltKlik på ComboView -> Opgave_3 -> Model -> **BigFootInfill**
+  * Opret CreateExternalGeometry:
+    * Klik på Ikonet CreateExternalGeometry ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
+      * Klik midt på den indre radius af nederste Venstre hjørne, Zoom iind hvis nødvendigt
+        * ![Step5.1](./Opgave_3c/Images/Step5.1.png)
+  * Tegn den Indre profile:
+    * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
+      * Check **ComboView -> Task -> Rectangle parameters -> Rounded corners** Eller Press [U]
+        * Placer nu den **Centered Regtangle** med centrum i Nulpunket og giv den runde hjørner
+        * Constrain **Centered Rectangle med runde hjørner**
+        * Klik på Iconet **ConstrainEqual** ![ConstrainEqual](./Images/Icons/ConstrainEqual.png)
+          * Klik nu på en Vandret & en Lodret linie for at få en Kvardrat med runde hjørner
+        * Placer hjørnerne:
+          * Marker et af Nederste Hjørne endpunkter og tilsvarende punkt på 'External Geometry' fra XY planet
+          * Klik **Coincident** ![Coincident](./Images/Icons/Coincident.png)
+        * ![Step5.2](./Opgave_3c/Images/Step5.2.png)
+    * Press **ComboView -> Task -> Close**
+  * Pad Infill:
+    * Klik Ikonet ![](./Images/Icons/Pad.png)
+      * Klik den lille globus ud for Length
+        * Indtast: **VarSet.GridProfileHeight - VarSet.BinOffset**
+          * Result: 4,40 mm
+      * ![Step5.3](./Opgave_3c/Images/Step5.3.png)
+      * Sæt Flueben i **Reversed**
+      * Klik [OK]
+  * ![Step5.4](./Opgave_3c/Images/Step5.4.png)
 
-* Press [1] for FrontView
+## Step 6 BinFoot - Create MultiTransform
 
+* Multitransform:
+  * Hold [Ctrl] nede mens du Markerer AdditivePipe & Pad001
+    * Klik Ikonet **CreateMultitransform** ![CreateMultitransform](./Images/Icons/CreateMultitransform.png)
 
+  * ComboView -> Task -> Multitransform Parameters -> Transformations
+    * HøjreKlik og vælg [**Add linear pattern**](https://wiki.freecad.org/PartDesign_LinearPattern)
+    * Sæt:
+      * Direction: **Base X axis**
+      * Mode: **Offset**
+      * Offset: Klik den lille globus
+        * Indtast: **VarSet.GridSize**
+        * ![Step2.6.2](./Opgave_3a/Images/Step2.6.2.png) 
+      * Occurrences: Klik den lille globus
+        * Indtast **VarSet.BinFootGridX**
+        * Klik [Ok]
+        * ![Step6.1](./Opgave_3c/Images/Step6.1.png)
+      * Klik [OK]
+    * HøjreKlik og vælg [**Add linear pattern**](https://wiki.freecad.org/PartDesign_LinearPattern)
+    * Sæt:
+      * Direction: **Base Y axis**
+      * Mode: **Offset**
+      * Offset: Klik den lille globus
+        * Indtast: **VarSet.GridSize**
+        * ![Step2.6.2](./Opgave_3a/Images/Step2.6.2.png)
+      * Occurrences: Klik den lille globus
+        * Indtast **VarSet.BinFootGridY**
+        * Klik [Ok]
+        * ![Step6.2](./Opgave_3c/Images/Step6.2.png)
+      * Klik [OK]
+  * ![Step6.3](./Opgave_3c/Images/Step6.3.png)
+  * Klik [OK]
