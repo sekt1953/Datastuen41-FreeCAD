@@ -185,7 +185,7 @@
     * Press [0] for Isometric View
       * Brug værktøjet [Create External Geometry](https://wiki.freecad.org/Sketcher_External) ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)  
     for at få oprette link til profilen fra forrige trin.
-      * ![Step2.3.2](./Opgave_3a/Images/Step2.3.1.png)
+      * ![Step2.3.1](./Opgave_3a/Images/Step2.3.1.png)
     * Press [2] for Top View
       * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
         * Check **ComboView -> Task -> Rectangle parameters -> Rounded corners** Eller Press [U]
@@ -205,64 +205,49 @@
     * Press **ComboView -> Task -> Close**
 * ![Step2.3.4](./Opgave_3a/Images/Step2.3.4.png)
 
+## Step 2.4 BasePlate - Tegn BasePlate XY-Profile
 
-
-
-
-## Stop her, jeg har kun rettet hertil !!!
-
-
-
-
-        * Klik på Ikonet **Isometric** ![Isometric](./Images/Icons/Isometric.png) eller press [1] for Isometric view
-          * Vælg nu Ikonet **Create External Geometry** ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
-          * Klik på den øverste skrå linie i profilen, og der kommer 2 runde prikke på x-axis
-          * ![Step2.4.2](./Opgave_3/Images/Step2.4.2.png)
-        * Væg nu Top View, brug terningen eller Press [2]
-          * ![Step2.4.3](./Opgave_3/Images/Step2.4.3.png)
-          * Klik **Constrain Coincident** ![Constrain Coincident](./Images/Icons/Coincident.png)
-          * Klik på Kvardraten højre lodrette linie, og **Create External Geometry** højre punkt.
-          * Kvadraten er nu fully constrain
-          * ![Step2.4.4](./Opgave_3/Images/Step2.4.4.png)
-    * Press ** ComboView -> Task -> Close**
-* Klik på Ikonet **Isometric** ![Isometric](./Images/Icons/Isometric.png) eller press [1] for Isometric view
-* ![Step2.4.5a](./Opgave_3/Images/Step2.4.5a.png)
-
-### Step 2.4: Tegn BasePlate Foot Pad Profile
-
-* DobbeltKlik på **ComboView -> Opgave_3 -> Part -> BasePlateProfile** så BasePlateProfile bliver det Aktive Body.
-  * Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
-    * DobbeltKlik **ComboView -> Task -> XY-plane001 (Base plane)**
+* Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
+  * DobbeltKlik ComboView -> Task -> **XZ-plane001 (Base plane)**
+  * Vælg -> ComboView -> **Model**
+    * Omdøb **Sketch002** til **BasePlateProfileXY**
+    * DobbeltKlik **ComboView -> Model -> Part -> BasePlateProfileXY**
+    * Press [0] for Isometric View
+      * Brug værktøjet [Create External Geometry](https://wiki.freecad.org/Sketcher_External) ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png) 
+      for at få oprette link til profilen fra forrige trin.
+      * Klik Nederste venstre hjørner
+      * Klik Øverste lodrette linie i XZ-Profilen
+      * ![Step2.4.1b](./Opgave_3a/Images/Step2.4.1b.png)
+    * Press [2] for Top View
+      * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
+        * Check **ComboView -> Task -> Rectangle parameters -> Rounded corners** Eller Press [U]
+        * Placer nu den **Centered Regtangle** med centrum i Nulpunket og giv den runde hjørner
+        * Constrain **Centered Rectangle med runde hjørner**
+        * [Constrain ConstrainEqual:](https://wiki.freecad.org/Sketcher_ConstrainEqual)
+          * Klik på Iconet **ConstrainEqual** ![ConstrainEqual](./Images/Icons/ConstrainEqual.png),
+          * Klik nu på en Vandret & en Lodret linie for at få en Kvardrat med runde hjørner
+        * [Constrain Symmetric:](https://wiki.freecad.org/Sketcher_ConstrainSymmetric)
+          * Marker de 2 endepunkter af venstre lodrette linie, og det Højrepunkt punkt i 'External Geometry'
+          * Klik Symmetric ![Symmetric](./Images/Icons/Symmetric.png), Eller Press [S] for at Symmetri.
+          * ![Step2.4.2](./Opgave_3a/Images/Step2.4.2.png)
+        * [constraint coincident:](https://wiki.freecad.org/Sketcher_ConstrainCoincidentUnified)
+          * Marker centrum af de 2 runde hjørner nederst til venstre
+          * Klik [constraint coincident:](https://wiki.freecad.org/Sketcher_ConstrainCoincidentUnified) ![](./Images/Icons/Coincident.png)
+          * ![Step2.4.3](./Opgave_3a/Images/Step2.4.3.png)
+      * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
+        * Placer nu den **Centered Regtangle** med centrum i Nulpunket
+        * Constrain **Centered Rectangle**
+          * Klik på Iconet **ConstrainEqual** ![ConstrainEqual](./Images/Icons/ConstrainEqual.png),
+          * Klik nu på en Vandret & en Lodret linie for at få en Kvardrat med runde hjørner
+        * Constrain **Horizontal/vertical:**
+          * Klik på Iconet **Horizontal/vertical** ![Horizontal/vertical](./Images/Icons/ConstrainHorizontalvertical.png),
+          * Marker nederste venstre hjørne i og et punkt i **External Geometry** Nederste venster hjørne
+          * ![Step2.4.4](./Opgave_3a/Images/Step2.4.4.png)
     * Press **ComboView -> Task -> Close**
-  * Omdøb **Sketch001** til ***BasePlateFootPadProfile***
-  * DobbeltKlik **ComboView -> Model -> Part -> BasePlateFootPadProfile**
-    * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
-      * Placer nu den **Centered Regtangle** med centrum i Nulpunket
-      * Constrain Kvardrat:
-        * Klik på Iconet **ConstrainEqual** ![ConstrainEqual](./Images/Icons/ConstrainEqual.png), Klik nu på en Vandret & en Lodret linie for at få en Kvardrat ud af firkanten
-        * Klik på Ikonet **Isometric** ![Isometric](./Images/Icons/Isometric.png) eller press [1] for Isometric view
-          * ![Step2.3.1](./Opgave_3/Images/Step2.3.1.png)
-          * Vælg nu Ikonet **Create External Geometry** ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
-          * Klik på den øverste skrå linie i profilen, og der kommer 2 runde prikke på x-axis
-          * ![Step2.3.2](./Opgave_3/Images/Step2.3.2.png)
-        * Væg nu Top View, brug terningen eller Press [2]
-          * ![Step2.3.3](./Opgave_3/Images/Step2.3.3.png)
-          * Klik **Constrain Coincident** ![Constrain Coincident](./Images/Icons/Coincident.png)
-          * Klik på Kvardraten højre lodrette linie, og **Create External Geometry** højre punkt.
-          * Kvadraten er nu fully constrain
-          * ![Step2.3.4a](./Opgave_3/Images/Step2.3.4a.png)
-    * Press **ComboView -> Task -> Close**
+  * Pad Sketch **BasePlateProfileXY**
+    * 
 
-### Step 2.5: Pad BasePlate Foot Profile
 
-* DobbeltKlik på **ComboView -> Opgave_3 -> Part -> BasePlateProfile** så BasePlateProfile bliver det Aktive Body.
-  * Marker **ComboView -> Opgave_3 -> Part -> BasePlateFootPad**
-  * Vælg **Pad værktæjet** ![Pad](./Images/Icons/Pad.png)
-  * Sæt Pad parameters:
-    * Length:
-      * Tryk på Globus, og indsæt i **Expression Editor** 
-        * **VarSet.GridProfileBaseplateHeight**
-          * Result skal være 4.65 mm
-    * Check Reversed
-    * ![Step2.5.1b](./Opgave_3/Images/Step2.5.1b.png)
-* ![Step2.5.2a](./Opgave_3/Images/Step2.5.2a.png)
+
+
+
