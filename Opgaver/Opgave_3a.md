@@ -1,4 +1,16 @@
-# Opgave 3 - Gridfinity
+# Opgave 3a - Gridfinity Baseplate
+
+## Kilder
+
+* [Printables]()
+  * [Gridfinity Specification](https://www.printables.com/model/417152-gridfinity-specification "grizzie17")
+  * [Rugged Box (Parametric)](https://www.printables.com/model/258431-rugged-box-parametric "Whity")
+* [Kursus Videoer](https://www.youtube.com/@sekt1953)
+  * [GridFinityParametricFiles - BasePlate](https://youtu.be/zOC_qxB1Kig)
+* Youtube Videoer
+  * [GridFinity Parametric File #freecad #cad #design](https://youtu.be/rAv9zGpiyvw "Adventures in creation")
+  * [Underware: The Ultimate Cable Management System | Full Guide](https://youtu.be/0TT96b98YZY?list=PLFa9atYEuNhVEwJW1WDg2C_DJdGSHJGrQ "Hands On Katie")
+  * [gridfinity case with bins](https://www.youtube.com/watch?v=hjQqcGHjv50 "Jason Brain")
 
 ## VarSet Data
 
