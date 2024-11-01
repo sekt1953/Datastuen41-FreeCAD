@@ -16,7 +16,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
   * Tegne Opgaver:
     * [Opgave 1 - New FreeCAD Feature! Complex Extrudes from a Single Sketch Like in SolidWorks](./Opgaver/Opgave_1.0.0.md)
     * [Opgave 2 - Copy Sketch](./Opgaver/Opgave_2.0.0.md)
-    * [Opgave 3a - GridFinity Baseplate, Revideret 2024/11/01](./Opgaver/Opgave_3.0a.md)
+    * [Opgave 3a - GridFinity Baseplate, Revideret 2024/11/01](./Opgaver/Opgave_3a.md)
       * [Opgave 3.1 - Gridfinity Bin/Basket parametric modeling](./Opgaver/Opgave_3.1.1.md)
 * Test Værktøjer:
   * [Temperature-Tower & PruserSlicer](./Tools/temp-tower/TempTower.md)
