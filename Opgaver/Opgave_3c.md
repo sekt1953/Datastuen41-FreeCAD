@@ -154,41 +154,61 @@
 ## Step 5 BinFoot - BinFoot Infill
 
 * Create Infill:
-  * Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
-    * DobbeltKlik ComboView -> Task -> **XY-plane003 (Base plane)**
-    * Vælg -> ComboView -> **Model**
-    * Omdøb **Sketch** til **BigFootInfill**
-    * DobbeltKlik på ComboView -> Opgave_3 -> Model -> **BigFootInfill**
-  * Opret CreateExternalGeometry:
-    * Klik på Ikonet CreateExternalGeometry ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
-      * Klik midt på den indre radius af nederste Venstre hjørne, Zoom iind hvis nødvendigt
-        * ![Step5.1](./Opgave_3c/Images/Step5.1.png)
-  * Tegn den Indre profile:
-    * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
-      * Check **ComboView -> Task -> Rectangle parameters -> Rounded corners** Eller Press [U]
-        * Placer nu den **Centered Regtangle** med centrum i Nulpunket og giv den runde hjørner
-        * Constrain **Centered Rectangle med runde hjørner**
-        * Klik på Iconet **ConstrainEqual** ![ConstrainEqual](./Images/Icons/ConstrainEqual.png)
-          * Klik nu på en Vandret & en Lodret linie for at få en Kvardrat med runde hjørner
-        * Placer hjørnerne:
-          * Marker et af Nederste Hjørne endpunkter og tilsvarende punkt på 'External Geometry' fra XY planet
-          * Klik **Coincident** ![Coincident](./Images/Icons/Coincident.png)
-        * ![Step5.2](./Opgave_3c/Images/Step5.2.png)
+  * Opret Sketch **BigFootInfillXY**:
+    * Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
+      * DobbeltKlik ComboView -> Task -> **XY-plane003 (Base plane)**
+      * Vælg -> ComboView -> **Model**
+      * Omdøb **Sketch** til **BigFootInfillXY**
+      * DobbeltKlik på ComboView -> Opgave_3 -> Model -> **BigFootInfillXY**
+    * Opret CreateExternalGeometry:
+      * Klik på Ikonet CreateExternalGeometry ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
+        * Klik midt på den indre radius af nederste Venstre hjørne, Zoom iind hvis nødvendigt
+          * ![Step5.1](./Opgave_3c/Images/Step5.1.png)
+    * Tegn den Indre profile:
+      * Klik på Iconet **Centered Regtangle** ![Centered Regtangle](./Images/Icons/CenteredRectangle.png)
+        * Check **ComboView -> Task -> Rectangle parameters -> Rounded corners** Eller Press [U]
+          * Placer nu den **Centered Regtangle** med centrum i Nulpunket og giv den runde hjørner
+          * Constrain **Centered Rectangle med runde hjørner**
+          * Klik på Iconet **ConstrainEqual** ![ConstrainEqual](./Images/Icons/ConstrainEqual.png)
+            * Klik nu på en Vandret & en Lodret linie for at få en Kvardrat med runde hjørner
+          * Placer hjørnerne:
+            * Marker et af Nederste Hjørne endpunkter og tilsvarende punkt på 'External Geometry' fra XY planet
+            * Klik **Coincident** ![Coincident](./Images/Icons/Coincident.png)
+          * ![Step5.2](./Opgave_3c/Images/Step5.2.png)
     * Press **ComboView -> Task -> Close**
-  * Pad Infill:
-    * Klik Ikonet ![](./Images/Icons/Pad.png)
-      * Klik den lille globus ud for Length
-        * Indtast: **VarSet.GridProfileHeight - VarSet.BinOffset**
-          * Result: 4,40 mm
-      * ![Step5.3](./Opgave_3c/Images/Step5.3.png)
-      * Sæt Flueben i **Reversed**
+  * Opret Sketch **BigFootInfillXZ**:
+    * Klik på Iconet **Create Sketch** ![Create Sketch](./Images/Icons/CreateSketch.png)
+      * DobbeltKlik ComboView -> Task -> **XZ-plane003 (Base plane)**
+      * Vælg -> ComboView -> **Model**
+      * Omdøb **Sketch006** til **BigFootInfillXZ**
+      * DobbeltKlik på ComboView -> Opgave_3 -> Model -> **BigFootInfillXZ**
+    * Opret CreateExternalGeometry:
+      * Press [0] for IsometricView
+      * ComboView -> Model -> BasketFoot ->
+        * Sluk for **AdditivePipe**
+        * Åben op **AdditivePipe**
+        * Tænd for **BigFootProfileXZ**
+    * Klik på **Create External Geometry** Ikonen ![CreateExternalGeometry](./Images/Icons/CreateExternalGeometry.png)
+      * Klik på den **External Geometry's** Lange lodrette linie.
+      * ComboView -> Model -> BasketFoot ->
+        * Sluk for **BigFootProfileXZ**
+      * ![Step5.3b](./Opgave_3c/Images/Step5.3b.png)
+      * Tegn nu en lodret streg hvor støttelinien er:
+        * Klik på **CreateLine** Ikonet ![CreateLine](./Images/Icons/CreateLine.png)
+        * Klik på endpunkterne af støttelinien
+        * ![Step5.4a](./Opgave_3c/Images/Step5.4a.png)
+      * Press **ComboView -> Task -> Close**
+  * [Additive pipe:](https://wiki.freecad.org/PartDesign_AdditivePipe) 
+    * Hold [Ctrl] mens du Markerer ComboView -> Model -> BasketFoot 
+      * **BigFootInfillXY** og derefter **BigFootInfillXZ** rækkefølgen er vigtig
+      * Klik nu Ikonet **Additive pipe:** [Additive pipe](./Images/Icons/AdditivePipe.png)
       * Klik [OK]
-  * ![Step5.4](./Opgave_3c/Images/Step5.4.png)
+    * ![Step5.4](./Opgave_3c/Images/Step5.4.png)
 
 ## Step 6 BinFoot - Create MultiTransform
 
 * Multitransform:
-  * Hold [Ctrl] nede mens du Markerer AdditivePipe & Pad001
+  * Hold [Ctrl] nede mens du Markerer **AdditivePipe** & **AdditivePipe001**
     * Klik Ikonet **CreateMultitransform** ![CreateMultitransform](./Images/Icons/CreateMultitransform.png)
 
   * ComboView -> Task -> Multitransform Parameters -> Transformations
@@ -218,3 +238,6 @@
       * Klik [OK]
   * ![Step6.3](./Opgave_3c/Images/Step6.3.png)
   * Klik [OK]
+  * ComboView -> Model -> 
+        * Tænd for **BasePlate**
+* ![Step6.4](./Opgave_3c/Images/Step6.4.png)
