@@ -20,12 +20,39 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
       * [Download FreeCAD Sketch](./Opgaver/Opgave_3a/Sketch/Opgave_3a.FCStd)
       * [Opgave 3a - GridFinity Baseplate, Revideret 2024/11/01](./Opgaver/Opgave_3a.md)
         * Her bruges følgende Frecad funktioner:
-          * Part, Body & VarSet
-          * Create:
-            * Centered Recangle , Polyline, External geomatry
-          * Constrain:
-            * Angle, Horizontal/vertical, Dimension horizontal- & vertical-distance 
-          * Pad, SubtractivePipe, Multitransform med LiniarPattern
+          * Workbenches:
+            * [Part Design](https://wiki.freecad.org/PartDesign_Workbench)
+            * [Sketcher](https://wiki.freecad.org/Sketcher_Workbench)
+            * [VarSet](https://wiki.freecad.org/Std_VarSet)
+          * Sketcher:
+            * Sketcher toolbar:
+              * [Create sketch](https://wiki.freecad.org/Sketcher_NewSketch)
+              * [Leave sketch:](https://wiki.freecad.org/Sketcher_LeaveSketch)
+            * Sketcher geometries:
+              * [Create Polyline](https://wiki.freecad.org/Sketcher_CreatePolyline),
+              * [Create Centered Recangle](https://wiki.freecad.org/Sketcher_CreateRectangle_Center)
+            * Sketcher constraints:
+              * Dimension:
+                * [Dimension horizontal/vertical distance](https://wiki.freecad.org/Sketcher_Dimension)
+              * [Angle](https://wiki.freecad.org/Sketcher_ConstrainAngle)
+              * [Horizontal/vertical constraints](https://wiki.freecad.org/Sketcher_ConstrainHorVer)
+            * Sketcher tools:
+              * [External geomatry](https://wiki.freecad.org/Sketcher_External)
+          * PartDesign Workbench:
+            * Structure tools:
+              * [Part](https://wiki.freecad.org/Std_Part)
+            * Part Design Helper tools:
+              * [Body](https://wiki.freecad.org/PartDesign_Body)
+              * [Creates a new sketch](https://wiki.freecad.org/PartDesign_NewSketch)
+              * [Create a sub-object(s) shape binder](https://wiki.freecad.org/PartDesign_SubShapeBinder)
+            * Part Design Modeling tools:
+              * Additive tools:
+                * [Pad](https://wiki.freecad.org/PartDesign_Pad)
+              * Subtractive tools:
+                * [SubtractivePipe](https://wiki.freecad.org/PartDesign_SubtractivePipe)
+              * Transformation tools:
+                * [Linear Pattern](https://wiki.freecad.org/PartDesign_LinearPattern)
+                * [Create MultiTransform](https://wiki.freecad.org/PartDesign_MultiTransform)
       * [Opgave 3b - GridFinity BaseplateFoot, mangler for nu !!](./Opgaver/Opgave_3b.md)
       * [Opgave 3c - Gridfinity BasketFoot, Revideret 2024/11/02](./Opgaver/Opgave_3c.md)
         * Her tilføjes følgende FreeCAD functioner:
