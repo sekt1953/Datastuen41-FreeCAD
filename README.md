@@ -20,12 +20,12 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
       * [Download FreeCAD Sketch](./Opgaver/Opgave_3a/Sketch/Opgave_3a.FCStd)
       * [Opgave 3a - GridFinity Baseplate, Revideret 2024/11/01](./Opgaver/Opgave_3a.md)
         * Her bruges følgende Frecad funktioner:
+          * Part, Body & VarSet
           * Create:
             * Centered Recangle , Polyline, External geomatry
           * Constrain:
             * Angle, Horizontal/vertical, Dimension horizontal- & vertical-distance 
-          * Multitransform, LiniarPattern, Pad
-          * VarSet
+          * Pad, SubtractivePipe, Multitransform med LiniarPattern
       * [Opgave 3b - GridFinity BaseplateFoot, mangler for nu !!](./Opgaver/Opgave_3b.md)
       * [Opgave 3c - Gridfinity BasketFoot, Revideret 2024/11/02](./Opgaver/Opgave_3c.md)
         * Her tilføjes følgende FreeCAD functioner:
