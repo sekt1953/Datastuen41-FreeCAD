@@ -9,6 +9,7 @@
   * [GridFinityParametricFiles - BasePlate](https://youtu.be/zOC_qxB1Kig)
 * Youtube Videoer
   * [GridFinity Parametric File #freecad #cad #design](https://youtu.be/rAv9zGpiyvw "Adventures in creation")
+  * [Gridfinity in the Machine Shop: 3D Printed Metrology Toolbox Organization](https://youtu.be/RYA0xLryF-g)
   * [Underware: The Ultimate Cable Management System | Full Guide](https://youtu.be/0TT96b98YZY?list=PLFa9atYEuNhVEwJW1WDg2C_DJdGSHJGrQ "Hands On Katie")
   * [gridfinity case with bins](https://www.youtube.com/watch?v=hjQqcGHjv50 "Jason Brain")
 
