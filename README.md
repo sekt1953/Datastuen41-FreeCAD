@@ -19,8 +19,18 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
     * Opgave 3 - GridFinity
       * [Download FreeCAD Sketch](./Opgaver/Opgave_3a/Sketch/Opgave_3a.FCStd)
       * [Opgave 3a - GridFinity Baseplate, Revideret 2024/11/01](./Opgaver/Opgave_3a.md)
+        * Her bruges følgende Frecad funktioner:
+          * Create:
+            * Centered Recangle , Polyline, External geomatry
+          * Constrain:
+            * Angle, Horizontal/vertical, Dimension horizontal- & vertical-distance 
+          * Multitransform, LiniarPattern, Pad
+          * VarSet
       * [Opgave 3b - GridFinity BaseplateFoot, mangler for nu !!](./Opgaver/Opgave_3b.md)
       * [Opgave 3c - Gridfinity BasketFoot, Revideret 2024/11/02](./Opgaver/Opgave_3c.md)
+        * Her tilføjes følgende FreeCAD functioner:
+          * SubShapeBinder, AdditivePipe
+          * Constructtion geometry
       * [Opgave 3d - Gridfinity Basket, Mangler for nu !!](./Opgaver/Opgave_3d.md)
       * [Opgave 3e - Gridfinity BasketInfill, Mangler for nu !!](./Opgaver/Opgave_3e.md)
       * [Opgave 3f - Gridfinity Slice med Prusa Slicer, Mangler for nu !!](./Opgaver/Opgave_3f.md)
