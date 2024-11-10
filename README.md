@@ -19,6 +19,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
     * Opgave 3 - GridFinity
       * [Download FreeCAD Sketch](./Opgaver/Opgave_3a/Sketch/Opgave_3a.FCStd)
       * [Opgave 3a - GridFinity Baseplate, Revideret 2024/11/01](./Opgaver/Opgave_3a.md)
+        * [Opgave 3a - PDF version:](./Opgaver/Opgave_3a.pdf)
         * Her bruges følgende Frecad funktioner:
           * Workbenches:
             * [Part Design](https://wiki.freecad.org/PartDesign_Workbench)
