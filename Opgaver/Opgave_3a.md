@@ -8,6 +8,7 @@
 * [Kursus Videoer](https://www.youtube.com/@sekt1953)
   * [GridFinity med FreeCAD , Opgave 3.0.0 - Oprettelse af Part, Body & VarSet](https://youtu.be/Ei-lbytCaw4?list=PLIsjLuvJr7uiC1ekw9g8pa87OetihKBv0) *New 20241112 15:50*
   * [GridFinity med FreeCAD , Opgave 3.0.1 - Tegning af BasePlate](https://youtu.be/2Wk4Gov4X80?list=PLIsjLuvJr7uiC1ekw9g8pa87OetihKBv0) *New 20241112 15:52*
+  * [GridFinity med FreeCAD , Opgave 3.0.2 - BasePlate Multitransform](https://youtu.be/FE27nKGwYSQ) *New 20241112 17:09*
   * [GridFinityParametricFiles - BasePlate](https://youtu.be/zOC_qxB1Kig)
 * Youtube Videoer
   * [GridFinity Parametric File #freecad #cad #design](https://youtu.be/rAv9zGpiyvw "Adventures in creation")
