@@ -6,6 +6,8 @@
   * [Gridfinity Specification](https://www.printables.com/model/417152-gridfinity-specification "grizzie17")
   * [Rugged Box (Parametric)](https://www.printables.com/model/258431-rugged-box-parametric "Whity")
 * [Kursus Videoer](https://www.youtube.com/@sekt1953)
+  * [GridFinity med FreeCAD , Opgave 3.0.0](https://youtu.be/Ei-lbytCaw4?list=PLIsjLuvJr7uiC1ekw9g8pa87OetihKBv0) *New 20241112 15:50*
+  * [GridFinity med FreeCAD , Opgave 3.0.1](https://youtu.be/2Wk4Gov4X80?list=PLIsjLuvJr7uiC1ekw9g8pa87OetihKBv0) *New 20241112 15:52*
   * [GridFinityParametricFiles - BasePlate](https://youtu.be/zOC_qxB1Kig)
 * Youtube Videoer
   * [GridFinity Parametric File #freecad #cad #design](https://youtu.be/rAv9zGpiyvw "Adventures in creation")
