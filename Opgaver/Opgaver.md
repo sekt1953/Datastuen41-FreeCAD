@@ -25,11 +25,13 @@
         * BasketGridZ: 4
   * Base
     * GridFinity Base
-      * [Video for 2024-11-19]()
-      * [Sketch for Video](./SketchForVideos/)
+      * [Video for 2024-11-19](https://www.youtube.com/watch?v=gTrbr09c0Sg&list=PLIsjLuvJr7ugUfE7mOevQBYQsHjkf4Azv&index=4&pp=iAQB)
+      * [Sketch for Video](./SketchForVideos/Opgave3_Base.FCStd)
     * GridFinity BaseFoot
   * GridFinity Basket
     * GridFinity BasketFoot
+      * [Video for 2024-11-19](https://www.youtube.com/watch?v=wSOs8eoShXU&list=PLIsjLuvJr7ugUfE7mOevQBYQsHjkf4Azv&index=5&pp=iAQB)
+      * [Sketch for Video](./SketchForVideos/Opgave3_BasketFoot.FCStd)
     * GridFinity Bucket
     * GridFinity BucketInsert
     * GridFinity BucketTop
