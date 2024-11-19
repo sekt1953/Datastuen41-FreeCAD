@@ -10,6 +10,7 @@
     * Profile:
       * GridXYSize: 42,00 mm
       * GridZSize: 7,00 mm
+      * GridRadius: 4,00 mm
       * ProfileTop: 2,15 mm
       * ProfileMiddle: 1,80 mm
       * ProfilleLower: 0,70 mm
