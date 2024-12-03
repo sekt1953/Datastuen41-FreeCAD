@@ -3,7 +3,7 @@
 * Opgave 1
   * [Opgave 1 - New FreeCAD Feature! Complex Extrudes from a Single Sketch Like in SolidWorks](./Opgaver/Opgave_1.0.0.md)
 * Opgave 2
-  * [Opgave 2 - Copy Sketch](./Opgaver/Opgave_2.0.0.md)
+  * [Opgave 2 - Copy Sketch](./Opgave_2.0.0.md)
 * Opgave 3 - GridFinity Videoer:
   * Her er data som jeg bruger i de kommende videoer, Profile data er data fra definisionen af gridfinety, VarSet data er data som vi kan ændre efter vores behov.
   * Data:
