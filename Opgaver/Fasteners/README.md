@@ -2,6 +2,11 @@
 
 ## Kilder
 
+
+* [McMASTER-CARR](https://www.mcmaster.com/)
+  * [Fastening & Joining](https://www.mcmaster.com/products/fastening-joining/)
+  * [Pipe, Tubing, Hose & Fittings](https://www.mcmaster.com/products/pipe-tubing-hose-fittings/)
+  * [Power Transmission](https://www.mcmaster.com/products/power-transmission/)
 * [Frylunds Fagteori](https://www.fagteori.dk/)
   * [ISO metrisk gevind M Tabel 1 -> 68mm klik her](https://www.fagteori.dk/maaling2/gevind-tabel-iso-metrisk.html)
   * ![gevind-profil2.png](./Images/gevind-profil2.png)
