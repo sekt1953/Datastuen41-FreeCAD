@@ -7,9 +7,20 @@
   * [Fastening & Joining](https://www.mcmaster.com/products/fastening-joining/)
   * [Pipe, Tubing, Hose & Fittings](https://www.mcmaster.com/products/pipe-tubing-hose-fittings/)
   * [Power Transmission](https://www.mcmaster.com/products/power-transmission/)
+* [American Taper Pipe Threads](https://www.gewindebohrer.de/en/service/technische-daten/thread-type-npt)
+  * Thread type: NPT - National Pipe Thread ANSI B 1.20.1
+  * American Taper Pipe Thread - with sealant compound
 * [Frylunds Fagteori](https://www.fagteori.dk/)
   * [ISO metrisk gevind M Tabel 1 -> 68mm klik her](https://www.fagteori.dk/maaling2/gevind-tabel-iso-metrisk.html)
   * ![gevind-profil2.png](./Images/gevind-profil2.png)
+* [Tom's useful info: Pitch Conversions](https://www.newmantools.com/tech/pitchconversions.htm)
+  * Threads per inch, Pitch in inches, Pitch in mm
+  * example 1/4-20" taps the 
+    * 20 signifies "20 threads per inch" =.050 pitch ( 1 divided by 20 )
+    * or if you are measuring in metric
+    * it should be 1.27mm
+
+### Frylunds Fagteori ISO metrisk gevind M Tabel 1 -> 68mm
 
 |||||||
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -54,3 +65,83 @@
 |M 60.00|5.50|56.428|53.252|54.046|54.50|
 |M 64.00|6.00|60.103|56.639|57.505|58.00|
 |M 68.00|6.00|64.103|60.639|61.505|62.00|
+
+### Tom's useful info: Pitch Conversions
+
+||||
+|:---|:---|:---|
+|Threads per inch|Pitch in inches|Pitch in mm|
+|127|0.00787|0.200|
+|120|0.00833|0.212|
+|112|0.00893|0.227|
+|101.6|0.00984|0.250|
+|100|0.01000|0.254|
+|96|0.01042|0.265|
+|90|0.01111|0.282|
+|84.67|0.01181|0.300|
+|80|0.01250|0.318|
+|72.57|0.01378|0.350|
+|72|0.01389|0.353|
+|64|0.01563|0.397|
+|63.5|0.01575|0.400|
+|60|0.01667|0.423|
+|56.44|0.01772|0.450|
+|56|0.01786|0.454|
+|50.8|0.01969|0.500|
+|48|0.02083|0.529|
+|44|0.02273|0.577|
+|42.33|0.02362|0.600|
+|40|0.02500|0.635|
+|36.29|0.02756|0.700|
+|36|0.02778|0.706|
+|34|0.02941|0.747|
+|33.87|0.02952|0.750|
+|32|0.03125|0.794|
+|31.75|0.03150|0.800|
+|30|0.03333|0.847|
+|28.22|0.03544|0.900|
+|28|0.03571|0.907|
+|27|0.03704|0.941|
+|26|0.03846|0.977|
+|25.4|0.03937|1.000|
+|24|0.04167|1.058|
+|22|0.04545|1.155|
+|20.32|0.04921|1.250|
+|20|0.05000|1.270|
+|19|0.05263|1.337|
+|18|0.05556|1.411|
+|16.93|0.05907|1.500|
+|16|0.06250|1.588|
+|14.51|0.06892|1.751|
+|14|0.07143|1.814|
+|13|0.07692|1.954|
+|12.7|0.07874|2.000|
+|12|0.08333|2.117|
+|11.50|0.08696|2.209|
+|11|0.09091|2.309|
+|10.16|0.09843|2.500|
+|10|0.10000|2.540|
+|9|0.11111|2.822|
+|8.47|0.11806|2.999|
+|8|0.12500|3.175|
+|7.26|0.13774|3.499|
+|7|0.14286|3.629|
+|6.35|0.15748|4.000|
+|6|0.16667|4.233|
+|5.64|0.17730|4.504|
+|5.08|0.19685|5.000|
+|5|0.20000|5.080|
+|4.62|0.21645|5.498|
+|4.5|0.22222|5.644|
+|4.23|0.23641|6.005|
+|4|0.25000|6.350|
+|3|0.33333|8.467|
+|2|0.50000|12.700|
+
+### PTFE Push Fittings gevind [NPT](https://www.gewindebohrer.de/en/service/technische-daten/thread-type-npt)
+
+||||||
+|:---|:---|:---|:---|:---|
+|| Major Diameter mm|Tapping Drill Size|TPI|Pitch P mm|
+|NPT 1/8"|10,24|8,25|27,0|0,94|
+|NPT 1/4"|13,62|10,70|18,0|1,41|
