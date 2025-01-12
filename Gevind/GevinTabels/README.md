@@ -140,7 +140,8 @@
 ### PTFE Push Fittings gevind [NPT](https://www.gewindebohrer.de/en/service/technische-daten/thread-type-npt)
 
 ||||||
-|:---|:---|:---|:---|:---|
+|:---|:---:|:---:|:---:|:---:|
 || Major Diameter mm|Tapping Drill Size|TPI|Pitch P mm|
 |NPT 1/8"|10,24|8,25|27,0|0,94|
 |NPT 1/4"|13,62|10,70|18,0|1,41|
+|NPT 1/2"|21,22|17,40|14,0|1,81|
