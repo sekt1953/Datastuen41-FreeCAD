@@ -22,7 +22,7 @@
 ### Frylunds Fagteori ISO metrisk gevind M Tabel 1 -> 68mm
 
 |||||||
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|---:|---:|---:|---:|---:|---:|
 |Gevind-benævnelse M d=D|Stigning mm P|Dele-diameter mm d2=D2|Indv. diameter skrue d1|Indv. diameter møtrik D1|Gevindbor mm P-d P-D|
 |M 1.00|0.25|0.838|0.693|0.729|0.75|
 |M 1.10|0.25|0.938|0.793|0.829|0.85|
@@ -68,7 +68,7 @@
 ### Tom's useful info: Pitch Conversions
 
 ||||
-|:---|:---|:---|
+|:---|:---:|---:|
 |Threads per inch|Pitch in inches|Pitch in mm|
 |127|0.00787|0.200|
 |120|0.00833|0.212|
@@ -137,11 +137,52 @@
 |3|0.33333|8.467|
 |2|0.50000|12.700|
 
+[## NPT American Taper Pipe Threads](https://www.gewindebohrer.de/en/service/technische-daten/thread-type-npt)
+
+**Thread type: NPT** - National Pipe Thread ANSI B 1.20.1
+American Taper Pipe Thread - with sealant compound
+
 ### PTFE Push Fittings gevind [NPT](https://www.gewindebohrer.de/en/service/technische-daten/thread-type-npt)
 
 ||||||
-|:---|:---:|:---:|:---:|:---:|
+|:---|---:|---:|---:|---:|
 || Major Diameter mm|Tapping Drill Size|TPI|Pitch P mm|
 |NPT 1/8"|10,24|8,25|27,0|0,94|
 |NPT 1/4"|13,62|10,70|18,0|1,41|
 |NPT 1/2"|21,22|17,40|14,0|1,81|
+
+**Please note:**  
+The Major Diameter of 1" Inch Pipe Thread is about 33 mm or 1,3 Inches (not 25,4 mm)!
+Historically it had it's origin from the manufacture of steel pipes in the beginning of the 20th century. In that time the normal 1" Inch pipes with the internal diameter of 1" Inch had a outside diameter of about 1.3 Inches (33 mm).
+
+![](./Images/Skærmbillede%20fra%202025-01-12%2016-26-26.png)
+
+### Dimensions for NPT - thread profile
+
+![](./Images/Skærmbillede%20fra%202025-01-12%2016-27-43.png)
+
+
+|||
+|:---|:---|
+|D = outside-Ø of pipe|L3 = wrenching allowance|
+|E1 = pitch-Ø at length L1|L4 = lenght of external thread|
+|L1 = position of handtight engagement|L5 = external thread with complete thread profile|
+|L2 = usefull external thread|V = incomplete thread produced by the chamfer of thread cutting tool|
+
+|||||||||||
+|:---|---:|---:|---:|---:|:---|---:|---:|---:|---:|
+||D [mm]|P [Gg/"]|P [mm]|E1 Ø flank|L1 [mm]|L1 [Gg]|L2 [mm]|L3 [3Gg)[mm]|L5 [mm]|
+|1/16|7,938|27,0|0,941|7,142|4,064|4,32|6,632|2,822|4,750|
+|1/8|10,287|27,0|0,941|9,489|4,102|4,36|6,703|2,822|4,821|
+|1/4|13,716|18,0|1,411|12,487|5,786|4,10|10,206|4,234|7,384|
+|3/8|17,145|18,0|1,411|15,926|6,096|4,32|10,358|4,234|7,536|
+|1/2|21,336|14,0|1,814|19,772|8,128|4,48|13,556|5,443|9,929|
+|3/4|26,670|14,0|1,814|25,117|8,611|4,75|13,861|5,443|10,234|
+|1|33,401|11,5|2,209|31,461|10,160|4,60|17,343|6,627|12,924|
+|1.1/4|42,164|11,5|2,209|40,218|10,668|4,83|17,953|6,627|13,536|
+|1.1/2|48,260|11,5|2,209|46,287|10,668|4,83|18,377|6,627|13,960|
+|2|60,325|11,5|2,209|58,325|11,074|5,01|19,215|6,627|14,798|
+|2.1/2|73,025|8,0|3,175|70,159|17,323|5,46|28,892|6,350|22,542|
+|3|88,900|8,0|3,175|86,068|19,456|6,13|30,480|6,350|24,130|
+|3.1/2|101,600|8,0|3,175|98,776|20,853|6,57|31,750|6,350|25,400|
+|5|114,300|8,0|3,175|111,433|21,438|6,75|33,020|6,350|26,670|
