@@ -13,6 +13,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
     * [Preferences settings vi bruger](./Preferences.md)
   * Lidt om at bruge Part Design, Sketcher og list om Constraints.
     * [YouTube Videoer vi vil bruge lidt tid på](./YouTube_Video_Links.md)
+  * [Gevind](./Gevind/README.md)
   * [Tegne Opgaver:](./Opgaver/Opgaver.md)
 * Test Værktøjer:
   * [Temperature-Tower & PruserSlicer](./Tools/temp-tower/TempTower.md)
