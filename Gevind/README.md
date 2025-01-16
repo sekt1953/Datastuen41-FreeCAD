@@ -13,5 +13,6 @@
     * [A better way to add threads to your 3D prints](https://youtu.be/HgEEtk85rAY "Made with Layers (Thomas Sanladerer)")
   * FreeCAD Tutorial
     * [How to Create Screw in FreeCAD](https://youtu.be/mpXloZbor9c "FreeCAD Tutorial")
+    * [Better self tapping holes in FreeCAD](https://youtu.be/Ze5fDIan1L0)
   
 ![](./Images/Skærmbillede%20fra%202025-01-13%2016-20-36.png)
