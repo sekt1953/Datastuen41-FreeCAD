@@ -16,5 +16,9 @@
     * [Better self tapping holes in FreeCAD](https://youtu.be/Ze5fDIan1L0)
   * [Taboretum](https://www.youtube.com/@taboretum/featured)
     * [Make Flawless 3D Printed Threads That Actually Work!](https://youtu.be/WRdkyhUA00U)
+  * [drworry](https://www.youtube.com/@drworry9320)
+    * [Making a screw-top container to 3D print with Freecad the easy way!](https://youtu.be/5V1bcFV0OVs)
+  * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
+    * [Learning FreeCAD For Beginners 41 : Screw Top Container | 3D Printing and Modelling | Threaded Lid](https://youtu.be/_GFoU0SIVG4)
   
 ![](./Images/Skærmbillede%20fra%202025-01-13%2016-20-36.png)
