@@ -20,5 +20,8 @@
     * [Making a screw-top container to 3D print with Freecad the easy way!](https://youtu.be/5V1bcFV0OVs)
   * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
     * [Learning FreeCAD For Beginners 41 : Screw Top Container | 3D Printing and Modelling | Threaded Lid](https://youtu.be/_GFoU0SIVG4)
+  * [OffsetCAD](https://www.youtube.com/@OffsetCAD)
+    * [FreeCAD 1.0 beginners tutorial #8: Grooves, holes, thread & tapered thread](https://youtu.be/jxkx0eAR_Fs)
+    * [FreeCAD 1.0 Beginners Tutorial](https://www.youtube.com/playlist?list=PLVWDQhBHqKgE63MG8gFd8Qk8VGtQFy6hs)
   
 ![](./Images/Skærmbillede%20fra%202025-01-13%2016-20-36.png)
