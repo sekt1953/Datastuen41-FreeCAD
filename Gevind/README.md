@@ -14,5 +14,7 @@
   * FreeCAD Tutorial
     * [How to Create Screw in FreeCAD](https://youtu.be/mpXloZbor9c "FreeCAD Tutorial")
     * [Better self tapping holes in FreeCAD](https://youtu.be/Ze5fDIan1L0)
+  * [Taboretum](https://www.youtube.com/@taboretum/featured)
+    * [Make Flawless 3D Printed Threads That Actually Work!](https://youtu.be/WRdkyhUA00U)
   
 ![](./Images/Skærmbillede%20fra%202025-01-13%2016-20-36.png)
