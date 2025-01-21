@@ -9,15 +9,19 @@
 * [American Taper Pipe Threads](https://www.gewindebohrer.de/en/service/technische-daten/thread-type-npt)
   * Thread type: NPT - National Pipe Thread ANSI B 1.20.1
   * American Taper Pipe Thread - with sealant compound
-* [Frylunds Fagteori](https://www.fagteori.dk/)
-  * [ISO metrisk gevind M Tabel 1 -> 68mm klik her](https://www.fagteori.dk/maaling2/gevind-tabel-iso-metrisk.html)
-  * ![gevind-profil2.png](./Images/gevind-profil2.png)
 * [Tom's useful info: Pitch Conversions](https://www.newmantools.com/tech/pitchconversions.htm)
   * Threads per inch, Pitch in inches, Pitch in mm
   * example 1/4-20" taps the 
     * 20 signifies "20 threads per inch" =.050 pitch ( 1 divided by 20 )
     * or if you are measuring in metric
     * it should be 1.27mm
+* [Frylunds Fagteori](https://www.fagteori.dk/)
+  * [ISO metrisk gevind M Tabel 1 -> 68mm klik her](https://www.fagteori.dk/maaling2/gevind-tabel-iso-metrisk.html)
+
+ |||
+ |:---:|:---:|
+ |Gevind generelt|Teoretisk ISO-gevindprofil.|
+ |[![gevind-profil2.png](./Images/gevind-profil2.png)](https://www.fagteori.dk/maaling/gevind.aspx)|[![](./Images/gevind-profil-iso.png)](https://www.fagteori.dk/maaling/gevind/iso-gevind.aspx)|
 
 ### Frylunds Fagteori ISO metrisk gevind M Tabel 1 -> 68mm
 
