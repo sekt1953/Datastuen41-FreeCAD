@@ -20,7 +20,7 @@
 
  |||
  |:---:|:---:|
- |Gevind generelt|Teoretisk ISO-gevindprofil.|
+ |[Gevind generelt](https://www.fagteori.dk/maaling/gevind.aspx)|[Teoretisk ISO-gevindprofil.](https://www.fagteori.dk/maaling/gevind/iso-gevind.aspx)|
  |[![gevind-profil2.png](./Images/gevind-profil2.png)](https://www.fagteori.dk/maaling/gevind.aspx)|[![](./Images/gevind-profil-iso.png)](https://www.fagteori.dk/maaling/gevind/iso-gevind.aspx)|
 
 ### Frylunds Fagteori ISO metrisk gevind M Tabel 1 -> 68mm
