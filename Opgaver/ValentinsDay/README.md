@@ -6,6 +6,13 @@
   * [FreeCAD: A perfect Heart Shape](https://youtu.be/UsR2Qk2u-ZA "4 Axis Printing")
   * [FreeCAD: A quick Heart box using 2Doffsets](https://youtu.be/WoPDvvhKgsg "4 Axis Printing")
 
+## Files
+
+* FreeCAD
+  * [ValentinsBox.FCStd](./ValentinsBox.FCStd)
+  * [Valentinsday-Box-Fillet.3mf](./Valentinsday-Box-Fillet.3mf)
+  * [Valentinsday-Lid-Fillet.3mf](./Valentinsday-Lid-Fillet.3mf)
+
 ## Sketcher Workbench
 
 ### VarSet
