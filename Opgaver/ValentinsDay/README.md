@@ -5,6 +5,8 @@
 * [4 Axis Printing](https://www.youtube.com/@4axisprinting "4 Axis Printing")
   * [FreeCAD: A perfect Heart Shape](https://youtu.be/UsR2Qk2u-ZA "4 Axis Printing")
   * [FreeCAD: A quick Heart box using 2Doffsets](https://youtu.be/WoPDvvhKgsg "4 Axis Printing")
+* [Svenn-Erik K. Thomsen](https://www.youtube.com/@sekt1953)
+  * [ValentinsBox](https://youtu.be/dxgOPdEh2YI "Svenn-Erik K. Thomsen")
 
 ## Files
 
