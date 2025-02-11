@@ -21,13 +21,13 @@
 
 |Label|Value|Type|
 |:---|---:|:---|
-|BoxOffset|10,00 mm|PropertyLength|
-|BoxBottomThickness|1,00 mm|PropertyLength|
+|BoxOffset|7,00 mm|PropertyLength|
+|BoxBottomThickness|2,00 mm|PropertyLength|
 |BoxTopThickness|1,00 mm|PropertyLength|
 |HeartChamberRadius|25,00 mm|PropertyLength|
 |HeartChamberWidth|VarSet.HeartChamberRadius * 1,5|PropertyLength|
 |HeartChamberLength|VarSet.HeartChamberRadius * 2,25|PropertyLength|
-|WallHeight|21,00 mm|PropertyLength|
+|WallHeight|20,00 mm|PropertyLength|
 |WallOffset|0,20 mm|PropertyLength|
 |WallThickness|1,00 mm|PropertyLength|
 
