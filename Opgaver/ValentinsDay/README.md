@@ -21,13 +21,13 @@
 
 |Label|Value|Type|
 |:---|---:|:---|
-|Box Offset|10,00 mm|PropertyLength|
-|Heart Radius|25,00 mm|PropertyLength|
-|Heart Symmetric|1,5|PropertyFloat|
-|Heart Height|2,25|PropertyFloat|
-|Wall Height|21,00 mm|PropertyLength|
-|Wall Offset|0,20 mm|PropertyLength|
-|Wall Thickness|1,00 mm|PropertyLength|
+|BoxOffset|10,00 mm|PropertyLength|
+|HeartRadius|25,00 mm|PropertyLength|
+|HeartSymmetric|1,5|PropertyFloat|
+|HeartHeight|2,25|PropertyFloat|
+|WallHeight|21,00 mm|PropertyLength|
+|WallOffset|0,20 mm|PropertyLength|
+|WallThickness|1,00 mm|PropertyLength|
 
 ### Sketch
 
@@ -43,6 +43,7 @@
 
 |[![Part_Offset2D.svg](./Images/Part_Offset2D.svg)Offset2D](https://wiki.freecad.org/Part_Offset2D)|[![Part_Extrude.svg](./Images/Part_Extrude.svg)Extrude](https://wiki.freecad.org/Part_Extrude)|
 |:---:|:---:|
+|Offset: VarSet.WallThickness, Pipe, Tangent, Fill offset|Length Fwd: VarSet.Wall Thickness + VarSet.Wall Height|
 |![Offset2D](./Images/Box/Skærmbillede%20fra%202025-02-09%2013-32-13.png)|![Extrude](./Images/Box/Skærmbillede%20fra%202025-02-09%2013-34-17.png)|
 |![Offset2D](./Images/Box/Skærmbillede%20fra%202025-02-09%2013-39-51.png)|![Extrude](./Images/Box/Skærmbillede%20fra%202025-02-09%2013-40-44.png)|
 
@@ -50,6 +51,7 @@
 
 |Offset2D001|Extrude001|
 |:---:|:---:|
+|Offset: VarSet.BoxOffset, Pipe, Tangent|Length Fwd: VarSet.Wall Thickness|
 |![](./Images/Box/Skærmbillede%20fra%202025-02-09%2013-44-16.png)|![](./Images/Box/Skærmbillede%20fra%202025-02-09%2013-45-13.png)|
 |![Offset2D001](./Images/Box/Skærmbillede%20fra%202025-02-09%2013-42-35.png)|![Extrude001](./Images/Box/Skærmbillede%20fra%202025-02-09%2013-43-22.png)|
 
@@ -68,6 +70,7 @@
 
 |[![Part_Offset2D.svg](./Images/Part_Offset2D.svg)Offset2D002](https://wiki.freecad.org/Part_Offset2D)|[![Part_Offset2D.svg](./Images/Part_Offset2D.svg)Offset2D003](https://wiki.freecad.org/Part_Offset2D)|[![Part_Extrude.svg](./Images/Part_Extrude.svg)Extrude002](https://wiki.freecad.org/Part_Extrude)|
 |:---:|:---:|:---:|
+|Offset: VarSet.WallThickness + VarSet.WallOffset, pipe, Tangent, Fill offset|Offset: 1,00mm, pipe, Tangent, Fill offset|Length Fwd: VarSet.Wall Thickness + VarSet.Wall Height|
 |![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-16-02.png)|![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-16-50.png)|![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-17-35.png)|
 |![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-19-13.png)|![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-19-25.png)|![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-19-40.png)|
 
@@ -75,6 +78,7 @@
 
 |[![Part_Offset2D.svg](./Images/Part_Offset2D.svg)Offset2D004](https://wiki.freecad.org/Part_Offset2D)|[![Part_Extrude.svg](./Images/Part_Extrude.svg)Extrude003](https://wiki.freecad.org/Part_Extrude)|
 |:---:|:---:|
+|VarSet.BoxOffset||
 |![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-26-19.png)|![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-28-04.png)|
 |![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-26-38.png)|![](./Images/Lid/Skærmbillede%20fra%202025-02-09%2016-27-55.png)|
 
