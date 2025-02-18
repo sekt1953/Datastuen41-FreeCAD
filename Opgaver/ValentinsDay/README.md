@@ -7,6 +7,8 @@
   * [FreeCAD: A quick Heart box using 2Doffsets](https://youtu.be/WoPDvvhKgsg "4 Axis Printing")
 * [Svenn-Erik K. Thomsen](https://www.youtube.com/@sekt1953)
   * [ValentinsBox](https://youtu.be/gorXAyjPz5w "Svenn-Erik K. Thomsen")
+* [KK CAD](https://www.youtube.com/@KK_CAD)
+  * [Amazing Spiral Cone](https://youtu.be/7XmhnUYS46g)
 
 ## Files
 
