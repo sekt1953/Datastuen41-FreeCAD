@@ -27,6 +27,8 @@
   * [BasePart-Link.FCStd](./BasePart-Link.FCStd)
 * ORing
   * ![ORing](./Images/Skærmbillede%20fra%202025-02-18%2021-17-38.png)
+* Linkv2
+  * ![](./Images/Skærmbillede%20fra%202025-02-25%2017-18-50.png)
 * BasePart
   * [BasePart.FCStd](./BasePart.FCStd)
   * [BasePart.3mf](./BasePart.3mf)
