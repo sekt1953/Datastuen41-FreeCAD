@@ -2,6 +2,8 @@
 
 ## Kilder
 
+### FreeCAD
+
 * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
   * [Basic Beginners FreeCAD V1 Complete Course](https://www.youtube.com/playlist?list=PLWuyJLVUNtc3UYXXfSglVpfWdX31F-e5S)
   * FreeCAD 1.0 Ultimate Beginners Assembly WB Crash Course
@@ -16,3 +18,11 @@
   * [FreeCAD Tegning](./FreeCAD/)
     * [Lesson12-Kop Tegning](./FreeCAD/Lesson12-Kop.FCStd)
     * [Lesson12-Kop Video](https://youtu.be/dfvj8upr24A)
+
+### GitHub
+
+* [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://youtu.be/i_23KUAEtUM "Visual Studio Code")
+  * [VS Code Release Parties](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5w9AdfP0n1L41fZdUFmtW_ "Visual Studio Code")
+  * [GitHub Copilot Series](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt "Visual Studio Code")
+* [Using Git & GitHub in VSCode: Stage, Commit, and Push](https://youtu.be/z5jZ9lrSpqk "Max Rohowsky")
+  * [Visual Studio Code (VS Code) Tutorials](https://www.youtube.com/playlist?list=PL30AETbxgR-fiCTXm4o-uDnngyIie3Wf5 "Max Rohowsky")
