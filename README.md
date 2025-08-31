@@ -24,6 +24,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
       * ![Skydelærer](./Images/20250830_184521.jpg)
       * [AI Gridfinity Generator: https://www.tooltrace.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHd3NEM4bGd0V004MEJpam9xbFQzbGZ0TGt0UXxBQ3Jtc0trNllhRzZVOVpoTlhWaDdUYnpQMXlnRGZyVTBNRHo4N1dlbzNmMndaSlg2NFl5c1cyR2R6TVNINllqRTV0cGFSX1VjV1lPQmxXWXRTa3RJRWVpTWdHTi0yNWs0c0tJbldQQTVQSFNXbm1KSjBiSlQ4cw&q=https%3A%2F%2Fwww.tooltrace.ai%2F&v=e3EhJJlWwws)
       * [shadowbox.3mf](./Images/shadowbox.3mf)
+    * Video [Create 3D Model from image | Trace picture | Convert Image to 3D part](https://youtu.be/u8_NcxQP3mo "CAD CAM COURSE")
   * Arbejde med multi materiale og farver
     * kommer snart
 * Test Værktøjer:
