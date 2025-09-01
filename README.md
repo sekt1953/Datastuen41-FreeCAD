@@ -14,6 +14,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
   * Lidt om at bruge Part Design, Sketcher og list om Constraints.
     * [YouTube Videoer vi vil bruge lidt tid på](./YouTube_Video_Links.md)
   * [Gevind](./Gevind/README.md)
+    * [ThreadedInserts](./Gevind/ThreadedInserts/README.md)
   * [Tegne Opgaver:](./Opgaver/Opgaver.md)
 * Kursus 2025-2026
   * Modifying STEP files

@@ -8,4 +8,12 @@
 
 ||||
 |:---:|:---:|:---:|
-|![](./Images/3494.png)|![](./Images/5452.avif)|![](./Images/sizes_chart.avif)|
+|![CNCKitchen](./Images/3494.png)|![5452.png](./Images/5452.png)|![sizes_chart](./Images/sizes_chart.png)|
+
+## FreeCAD Hul offset måler
+
+* ![FreeCAD Hul offset måler](./Images/Skærmbillede%20fra%202025-09-01%2015-54-03.png)
+* File:
+  * [FreeCAD FCStd:](./FreeCAD_Test/FreeCAD-Test.FCStd)
+  * [3mf file:](./FreeCAD_Test/FreeCAD-Test-Body.3mf)
+  * [step file:](./FreeCAD_Test/FreeCAD-Test-Body.step)
