@@ -8,8 +8,9 @@
 
 ||||
 |:---:|:---:|:---:|
-|![CNCKitchen](./Images/3494.png)|![5452.png](./Images/5452.png)|![sizes_chart](./Images/sizes_chart.png)|
+|![CNCKitchen](./Images/3494.png)|![5452.png](./Images/5452.png)||
 
+![sizes_chart](./Images/sizes_chart.png)
 ## FreeCAD Hul offset måler
 
 * ![FreeCAD Hul offset måler](./Images/Skærmbillede%20fra%202025-09-01%2015-54-03.png)
