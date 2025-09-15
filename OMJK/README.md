@@ -1,0 +1,39 @@
+# OMJK
+
+## SporskifteDriver_002
+
+* ![SporskifteDriver_002](./Image/Skærmbillede%20fra%202025-09-15%2010-54-35.png)
+  * Size: 140mm x 55mm
+    * 55 pin : 55 x 2,54mm = 139,70mm
+    * 22 pin : 43 x 1.27mm =  54,61mm
+    * 22 pin : 22 x 0,635mm = mm
+  * Hulafstand
+    * Vandret : 53 x 2,54mm = 134,62mm
+    * Lodret  : 12 x 2,54mm =  30,48mm
+    * Offset  : 2,54mm + ( 3 * 0,635mm ) = 4,445mm
+  * Brass Not HulSize:
+    * M3*3*4,2 = 3,9mm
+* ![SporskifteDriver_Sketch](./Image/Skærmbillede%20fra%202025-09-15%2012-57-34.png)
+* ![SporskifteDriver_Pocket](./Image/Skærmbillede%20fra%202025-09-15%2012-59-26.png)
+
+## MCP23017_300
+
+* ![MCP23017_300](./Image/Skærmbillede%20fra%202025-09-15%2008-09-46.png)
+  * Size: 110mm x 40mm
+    * 43 pin : 43 x 2,54mm = 109,22mm
+    * 16 pin : 31 x 1,27mm =  39,37mm
+  * Hulafstand
+    * Vandret : 40 x 2,54mm = 48,26mm
+    * Vandret : 40 x 2,54mm = 101,6mm
+    * Offset  : 9 x 2,54mm = 22,86mmm -> 10 x 2,54mm = 25,4mmm
+  * Brass Not HulSize:
+    * M3*3*4,2 = 3,9mm
+
+## ESP32-PoE-ISO
+
+* ![ESP32-PoE-ISO](./Image/Skærmbillede%20fra%202024-08-15%2021-12-50.png)
+  * Size: 110mm x 40mm
+    * 43 pin : 43 x 2,54mm = 109,22mm
+    * 16 pin : 31 x 1,27mm =  39,37mm
+  * Brass Not HulSize:
+    * M2*3*3,5 = 3,2mm
