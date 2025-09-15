@@ -34,8 +34,15 @@
 ## ESP32-PoE-ISO
 
 * ![ESP32-PoE-ISO](./Image/Skærmbillede%20fra%202024-08-15%2021-12-50.png)
-  * Size: 110mm x 40mm
-    * 43 pin : 43 x 2,54mm = 109,22mm
-    * 16 pin : 31 x 1,27mm =  39,37mm
+  * Size: 98,15mm x 28mm
+  * Brass Not HulSize:
+    * M2*3*3,5 = 3,2mm
+* ![ESP32-PoE-ISO_Sketch](./Image/Skærmbillede%20fra%202025-09-15%2014-40-31.png)
+* ![ESP32-PoE-ISO_Pocket002](./Image/Skærmbillede%20fra%202025-09-15%2014-40-51.png)
+
+## ESP32-PoE
+
+* ![ESP32-PoE-ISO](./Image/esp32-poe-dimensions.png)
+  * Size: 80mm x 28mm
   * Brass Not HulSize:
     * M2*3*3,5 = 3,2mm
