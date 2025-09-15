@@ -57,5 +57,16 @@
       * 16,5mm x 2mm
     * MCP23017 -> ESP32-PoE-Iso:
       * 2mm
-* ![BodyTest_Sketch](./Image/Skærmbillede%20fra%202025-09-15%2016-58-10.png)
-* ![BodyTest_Pad010](./Image/Skærmbillede%20fra%202025-09-15%2017-18-02.png)
+* ![BodyTest_Sketch017](./Image/Skærmbillede%20fra%202025-09-15%2018-16-09.png)
+* ![BodyTest_Sketch018](./Image/Skærmbillede%20fra%202025-09-15%2018-26-05.png)
+* ![BodyTest_Sketch019](./Image/Skærmbillede%20fra%202025-09-15%2018-27-23.png)
+* ![BodyTest_Sketch021](./Image/Skærmbillede%20fra%202025-09-15%2018-28-09.png)
+* ![BodyTest_Sketch020](./Image/Skærmbillede%20fra%202025-09-15%2018-29-31.png)
+* ![BodyTest_Pad010](./Image/Skærmbillede%20fra%202025-09-15%2018-30-25.png)
+
+### Slut resultat
+
+* ![BodyTest_Sketch022](./Image/Skærmbillede%20fra%202025-09-15%2018-36-55.png)
+* ![BodyTest_Pocket005](./Image/Skærmbillede%20fra%202025-09-15%2018-38-09.png)
+  * [FreeCAD-File](./FreeCAD/BoxTest.FCStd)
+  
