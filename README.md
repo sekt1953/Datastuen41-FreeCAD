@@ -28,6 +28,10 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
     * Video [Create 3D Model from image | Trace picture | Convert Image to 3D part](https://youtu.be/u8_NcxQP3mo "CAD CAM COURSE")
   * Arbejde med multi materiale og farver
     * kommer snart
+  * [Opmåling og design af 3D print](./Opgaver/Opmaaling/)
+    * [FreeCAD filer](./Opgaver/Opmaaling/FreeCAD/BoxTest.FCStd)
+    * [Fritzing filer](./Opgaver/Opmaaling/Fritzing/)
+    * [README.md](./Opgaver/Opmaaling/README.md)
 * Test Værktøjer:
   * [Temperature-Tower & PruserSlicer](./Tools/temp-tower/TempTower.md)
 * Octoprint - Er det noget jeg kan bruge?
