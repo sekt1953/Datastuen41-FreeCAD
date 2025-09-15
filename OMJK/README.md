@@ -42,7 +42,9 @@
 
 ## ESP32-PoE
 
-* ![ESP32-PoE-ISO](./Image/esp32-poe-dimensions.png)
+* ![ESP32-PoE](./Image/esp32-poe-dimensions.png)
   * Size: 80mm x 28mm
   * Brass Not HulSize:
     * M2*3*3,5 = 3,2mm
+* ![ESP32-PoE_Sketch](./Image/Skærmbillede%20fra%202025-09-15%2015-27-07.png)
+* ![ESP32-PoE_Pocket003](./Image/Skærmbillede%20fra%202025-09-15%2015-27-20.png)
