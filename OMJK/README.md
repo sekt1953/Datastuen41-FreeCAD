@@ -48,3 +48,14 @@
     * M2*3*3,5 = 3,2mm
 * ![ESP32-PoE_Sketch](./Image/Skærmbillede%20fra%202025-09-15%2015-27-07.png)
 * ![ESP32-PoE_Pocket003](./Image/Skærmbillede%20fra%202025-09-15%2015-27-20.png)
+
+## BodyTest
+
+* ![BodyTest](./Image/Skærmbillede%20fra%202025-09-15%2016-55-49.png)
+  * Offset :
+    * SporskifteDriber -> MCP23017:
+      * 16,5mm x 2mm
+    * MCP23017 -> ESP32-PoE-Iso:
+      * 2mm
+* ![BodyTest_Sketch](./Image/Skærmbillede%20fra%202025-09-15%2016-58-10.png)
+* ![](./Image/Skærmbillede%20fra%202025-09-15%2017-02-30.png)
