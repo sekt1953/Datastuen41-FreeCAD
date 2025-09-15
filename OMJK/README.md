@@ -28,6 +28,8 @@
     * Offset  : 9 x 2,54mm = 22,86mmm -> 10 x 2,54mm = 25,4mmm
   * Brass Not HulSize:
     * M3*3*4,2 = 3,9mm
+* ![MCP23017_300_Sketch](./Image/Skærmbillede%20fra%202025-09-15%2013-56-20.png)
+* ![MCP23017_300_Pad004](./Image/Skærmbillede%20fra%202025-09-15%2013-56-07.png)
 
 ## ESP32-PoE-ISO
 
