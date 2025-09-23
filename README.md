@@ -20,6 +20,8 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
   * Modifying STEP files
     * Video for Kursus [FreeCAD - Modifying STL STEP and 3MF files](https://youtu.be/5l6GOfshigQ?t=469 "RoadSide Maker")
     * [Modifying STEP and STL files](https://youtu.be/ahJnfMxFlL8 "MangoJelly Solutions for FreeCAD")
+  * Loft and Twisted Part in Part Design
+    * [Loft and Twisted Part in Part Design](https://github.com/sekt1953/Datastuen41-FreeCAD/tree/main/Opgaver/Loft%20-%20Twisted%20Part%20in%20Part%20Design)
   * Generates Gridfinity Bins
     * [This FREE AI Tool Auto-Generates Gridfinity Bins!](https://youtu.be/e3EhJJlWwws)
       * ![Skydelærer](./Images/20250830_184521.jpg)
