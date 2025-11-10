@@ -12,6 +12,10 @@
 * FreeCAD Files:
   * FreeCAD ver.1.0.2 fil : [DSB_30m_lystaarn.FCStd](./FreeCAD/DSB_30m_lystaarn.FCStd)
   * Tegnings fil: [DSB_30m_lystaarn.png](./Images/Taarn.png)
+  * [Video - DSB 30m lystårn 1 Import tegning](https://www.youtube.com/watch?v=M2Qya1TTED8&list=PLIsjLuvJr7uhIL0XnmLUZSZjk9bv412PR&index=1&pp=gAQBiAQB)
+    * ![Basic](./Images/Skærmbillede%20fra%202025-11-10%2014-23-07.png)
+  * [Video - DSB 30m lystårn 2 Tegn Øverste Maste sektion](https://www.youtube.com/watch?v=isDqH2M7V_c&list=PLIsjLuvJr7uhIL0XnmLUZSZjk9bv412PR&index=2&pp=gAQBiAQB)
+    * ![Top Sektion](./Images/Skærmbillede%20fra%202025-11-10%2014-20-03.png)
   * Varset
     * TowerHeight       : 353,87 + 308,73 = 662,60 mm
     * TowerTopWidth     :  25,97 mm
