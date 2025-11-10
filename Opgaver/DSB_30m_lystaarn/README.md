@@ -2,9 +2,8 @@
 
 * Videoer:
   * [Why has the Image Workbench been removed in FreeCAD 0.21 / v1.0?](https://youtu.be/WhxDAgskcHA "MangoJelly Solutions for FreeCAD")
-  * Kursus Videoer:
-    * [1. Images Import](https://youtu.be/M2Qya1TTED8 "SEK. Thomsen")
-    * [2. Tegning af Øverste mastedel](https://youtu.be/isDqH2M7V_c "SEK. Thomsen")
+  * Kursus Videoer serie:
+    * [DSB 30m Lystårn](https://www.youtube.com/watch?v=M2Qya1TTED8&list=PLIsjLuvJr7uhIL0XnmLUZSZjk9bv412PR&pp=gAQB)
 * Tegning fra Modelbane nyt:
   * [Modelbanenyt - alle numre fra 1952 til 1962](https://www.signalposten.dk/modelbanenyt.php)
   * DSB lystårn
