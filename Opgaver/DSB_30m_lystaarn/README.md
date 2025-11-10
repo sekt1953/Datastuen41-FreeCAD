@@ -13,7 +13,7 @@
   * FreeCAD ver.1.0.2 fil : [DSB_30m_lystaarn.FCStd](./FreeCAD/DSB_30m_lystaarn.FCStd)
   * Tegnings fil: [DSB_30m_lystaarn.png](./Images/Taarn.png)
   * Varset
-    * TowerHeight       : 353,87 + 308,73 mm
+    * TowerHeight       : 353,87 + 308,73 = 662,60 mm
     * TowerTopWidth     :  25,97 mm
     * TowerBottomWidth  :  45,50 mm
     * IronSupportWidth  :   1,50 mm
