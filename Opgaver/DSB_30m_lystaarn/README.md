@@ -22,5 +22,5 @@
       * TowerBottomWidth  :  45,50 mm
       * IronSupportWidth  :   1,50 mm
       * IronLegWidth      :   3,00 mm
-  * [Video 3. DSB 30m lystårn - Binder, Mirored, AdditivePipe]()
+  * [Video 3. DSB 30m lystårn - Binder, Mirored, AdditivePipe](https://youtu.be/z3wUSw7FLyY)
     * ![Top Sektion, Binder, Mirored, AdditivePipe ](./Images/Skærmbillede%20fra%202025-11-10%2019-10-23.png)
