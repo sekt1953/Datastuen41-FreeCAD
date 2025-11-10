@@ -10,6 +10,8 @@
   * DSB lystårn
     * ![30m_lystårn](./Images/Taarn.png)
 * FreeCAD Files:
+  * FreeCAD fil : [DSB_30m_lystaarn.FCStd](./FreeCAD/DSB_30m_lystaarn.FCStd)
+  * Tegnings fil: [DSB_30m_lystaarn.png](./Images/Taarn.png)
   * Varset
     * TowerHeight       : 353,87 + 308,73
     * TowerTopWidth     :  25,97
