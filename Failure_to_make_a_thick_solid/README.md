@@ -9,10 +9,11 @@
 3) Go to draft workbench. Select same face as for thickness and create new FaceBinder.
 4) Select Body and create new Draft clone.
 5) Select Clone, in Data tab of property view expand Scale property to get at x, y, and z.
-6) For x property click f(x) icon or press = key on keyboard to bring up formula editor, enter:  
-(Body.Shape.BoundBox.XLength - **"Thickness"** * 2) / Body.Shape.BoundBox.XLength  
-(Body.Shape.BoundBox.YLength - **"Thickness"** * 2) / Body.Shape.BoundBox.YLength  
-(Body.Shape.BoundBox.ZLength - **"Thickness"** * 2) / Body.Shape.BoundBox.ZLength
+6) For x property click f(x) icon or press = key on keyboard to bring up formula editor,  
+Enter for:  
+X: (Body.Shape.BoundBox.XLength - **"Thickness"** * 2) / Body.Shape.BoundBox.XLength  
+Y: (Body.Shape.BoundBox.YLength - **"Thickness"** * 2) / Body.Shape.BoundBox.YLength  
+Z: (Body.Shape.BoundBox.ZLength - **"Thickness"** * 2) / Body.Shape.BoundBox.ZLength
 7) Repeat for y and z substituting YLength and ZLength, respectively.
 8) Select Clone, edit Placement property so that Z = -**"Thickness"**.
 9) Go to Part workbench.
