@@ -23,9 +23,7 @@
 
 ## Tegneforløb
 
-![T1534](./Images/Skærmbillede%20fra%202026-02-16%2019-09-42.png)
-
-* Mastersketch i XY_Plane:
+* 01: Making The Master Sketch:
   * Video: [Creating the Master Sketch Step-by-Step](https://www.youtube.com/watch?v=wxxDahY1U6E&t=107s)
   * Sketcher
     * Tasks Settings:
@@ -43,8 +41,13 @@
       * Video: [Creating the Master Sketch CounterWeight](https://youtu.be/wxxDahY1U6E?t=539)
       * ![Mastersketch_CounterWeight.png](./Images/Mastersketch_CounterWeight.png)
       * FreeCAD File: [001_MasterSketch_CounterWeight.FCStd](./FreeCAD/001_MasterSketch_CounterWeight.FCStd)
-
-
+    * Mount:
+      * Video: [Creating the Master Sketch Mount](https://youtu.be/wxxDahY1U6E?t=747)
+      * ![Mastersketch_Mount.png](./Images/Mastersketch_Mount.png.png)
+      * FreeCAD File: [001_MasterSketch_Mount.FCStd](./FreeCAD/001_MasterSketch_Mount.FCStd)
+* 02: Modeling Workflow:
+  * Video: [02: Modeling Workflow](https://youtu.be/wxxDahY1U6E?t=930)
+  * ![T1534](./Images/Skærmbillede%20fra%202026-02-16%2019-09-42.png)
 
 * Part Design
   * LinkBody
