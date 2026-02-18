@@ -25,11 +25,15 @@
 
 ![T1534](./Images/Skærmbillede%20fra%202026-02-16%2019-09-42.png)
 
-* Sketcher
-  * Mastersketch i ZX_Plane:
-    * Min tegning
-      * ![Mastersketch](./Images/Skærmbillede%20fra%202026-02-16%2018-44-13.png)
-    * FreeCAD File: [001_MasterSketch.FCStd](./FreeCAD/001_MasterSketch.FCStd)
+* Video: [Creating the Master Sketch Step-by-Step](https://www.youtube.com/watch?v=wxxDahY1U6E&t=107s)
+  * Sketcher
+    * Mastersketch i XY_Plane:
+      * Tasks Settings:
+        * ![](./Images/Skærmbillede%20fra%202026-02-18%2014-25-08.png)
+        * ![](./Images/Skærmbillede%20fra%202026-02-18%2014-25-24.png)
+      * Min tegning
+        * ![Mastersketch](./Images/Skærmbillede%20fra%202026-02-16%2018-44-13.png)
+        * FreeCAD File: [001_MasterSketch.FCStd](./FreeCAD/001_MasterSketch.FCStd)
 * Part Design
   * LinkBody
     * Sub Binder
@@ -54,4 +58,14 @@
         * ![2014-42-36.png](./Images/Skærmbillede%20fra%202026-02-17%2014-48-47.png)
         * FreeCAD File: [003_CounterWeightBody.FCStd](./FreeCAD/003_CounterWeightBody.FCStd)
   * PistonHeadBody
+    * Sub Binder
+      * View
+        * Make Face: No
+      * Data
+        * Line Widt: 3,00
+    * External Projection af Binder002's PistonHeadBody lines
+      * Hide Binder001
+      * Resultat Binder & Pad:
+        * ![2014-42-36.png](./Images)
+        * FreeCAD File: [](./FreeCAD)
   * MountBody
