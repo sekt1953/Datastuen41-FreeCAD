@@ -25,15 +25,15 @@
 
 ![T1534](./Images/Skærmbillede%20fra%202026-02-16%2019-09-42.png)
 
-* Video: [Creating the Master Sketch Step-by-Step](https://www.youtube.com/watch?v=wxxDahY1U6E&t=107s)
+* Mastersketch i XY_Plane:
+  * Video: [Creating the Master Sketch Step-by-Step](https://www.youtube.com/watch?v=wxxDahY1U6E&t=107s)
   * Sketcher
-    * Mastersketch i XY_Plane:
-      * Tasks Settings:
-        * ![](./Images/Skærmbillede%20fra%202026-02-18%2014-25-08.png)
-        * ![](./Images/Skærmbillede%20fra%202026-02-18%2014-25-24.png)
-      * Min tegning
-        * ![Mastersketch](./Images/Skærmbillede%20fra%202026-02-16%2018-44-13.png)
-        * FreeCAD File: [001_MasterSketch.FCStd](./FreeCAD/001_MasterSketch.FCStd)
+    * Tasks Settings:
+      * ![](./Images/Skærmbillede%20fra%202026-02-18%2014-25-08.png)
+      * ![](./Images/Skærmbillede%20fra%202026-02-18%2014-25-24.png)
+    * Link Arm:
+      * ![Mastersketch_LinkArm](./Images/Mastersketch_LinkArm.png)
+      * FreeCAD File: [001_MasterSketch.FCStd](./FreeCAD/001_MasterSketch_LinkArm.FCStd)
 * Part Design
   * LinkBody
     * Sub Binder
@@ -57,6 +57,7 @@
       * Resultat Binder & Pad:
         * ![2014-42-36.png](./Images/Skærmbillede%20fra%202026-02-17%2014-48-47.png)
         * FreeCAD File: [003_CounterWeightBody.FCStd](./FreeCAD/003_CounterWeightBody.FCStd)
+        
   * PistonHeadBody
     * Sub Binder
       * View
