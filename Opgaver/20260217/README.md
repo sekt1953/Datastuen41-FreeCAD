@@ -36,13 +36,15 @@
       * ![Mastersketch_LinkArm](./Images/Mastersketch_LinkArm.png)
       * FreeCAD File: [001_MasterSketch_LinkArm.FCStd](./FreeCAD/001_MasterSketch_LinkArm.FCStd)
     * PistonHead:
-      * Video [Creating the Master_PistonHead](https://youtu.be/wxxDahY1U6E?t=419)
+      * Video [Creating the Master Sketch PistonHead](https://youtu.be/wxxDahY1U6E?t=419)
       * ![Mastersketch_PistonHead](./Images/Mastersketch_PistonHead.png)
       * FreeCAD File: [001_MasterSketch_PistonHead.FCStd](./FreeCAD/001_MasterSketch_PistonHead.FCStd)
     * CounterWeight:
-      * Video: [](https://youtu.be/wxxDahY1U6E?t=539)
+      * Video: [Creating the Master Sketch CounterWeight](https://youtu.be/wxxDahY1U6E?t=539)
       * ![Mastersketch_PistonHead](./Images/Mastersketch_CounterWeight)
       * FreeCAD File: [001_MasterSketch_PistonHead.FCStd](./FreeCAD/001_MasterSketch_CounterWeight.FCStd)
+
+
 
 * Part Design
   * LinkBody
