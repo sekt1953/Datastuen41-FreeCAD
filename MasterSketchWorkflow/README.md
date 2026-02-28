@@ -7,3 +7,9 @@
   * [FreeCAD for Beginners 31 : Parametric Spreadsheet and Master Sketch Workflow for Part Design](https://youtu.be/VZNAOc40Bbg)
   * [FreeCAD 1.1 Beginners Friendly Modeling and Assembly (Model, Assemble, Simulate, Animate)](https://youtu.be/wxxDahY1U6E)
 
+## Opgaver
+
+* Master Sketch Workflow
+  * [Kommer]()
+* Modeling and Assembly
+  * [Opgaver/20260217](./../Opgaver/20260217/README.md)
