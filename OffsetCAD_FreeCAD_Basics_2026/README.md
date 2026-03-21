@@ -2,7 +2,7 @@
 
 ## Video
 
-* YouTube 
+* YouTube
   * [OffsetCAD](https://www.youtube.com/@OffsetCAD/videos)
     * [FreeCAD Basics 2026](https://www.youtube.com/playlist?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
       * [Quick intro to FreeCAD](https://youtu.be/PvQhRFxqyIE)
@@ -17,11 +17,14 @@
   * ![2015-07-17.png](./Image/Skærmbillede%20fra%202026-03-21%2015-07-17.png)
   * ![2015-08-45.png](./Image/Skærmbillede%20fra%202026-03-21%2015-08-45.png)
   * ![2015-09-33.png](./Image/Skærmbillede%20fra%202026-03-21%2015-09-33.png)
-  * [FreeCAD files: Exercise_1.FCStd](./Exercise_1.FCStd)
+  * FreeCAD files: 
+    * [Exercise_1.FCStd](./Exercise_1.FCStd)
 * Exercise 2
   * ![2014-33-34.png](./Image/Skærmbillede%20fra%202026-03-20%2014-33-34.png)
   * ![2014-33-57.png](./Image/Skærmbillede%20fra%202026-03-20%2014-33-57.png)
   * ![2014-34-37.png](./Image/Skærmbillede%20fra%202026-03-20%2014-34-37.png)
   * ![2014-35-04.png](./Image/Skærmbillede%20fra%202026-03-20%2014-35-04.png)
   * ![2014-35-46.png](./Image/Skærmbillede%20fra%202026-03-20%2014-35-46.png)
-  * [FreeCAD files Exercise 2]()
+  * [FreeCAD files:
+    * [Exercise_2.FCStd](./Exercise_2.FCStd)
+    * [Exercise_2-Body001.3mf](./Exercise_2-Body001.3mf)
