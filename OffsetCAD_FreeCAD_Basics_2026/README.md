@@ -12,7 +12,7 @@
       * [FreeCAD 1.1 Basics: Exercise 2](https://youtu.be/TR4peSSvY10?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
       * [FreeCAD 1.1 Basics: Exercise 3 - Multibody design](https://youtu.be/NXy9fE8iOTk)
 
-## Desktop file
+## Linux FreeCAD Desktop file
 
 * /Home/.local/Share/applications
   * FreeCAD_1.1.0.desktop
