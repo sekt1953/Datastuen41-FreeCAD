@@ -12,6 +12,25 @@
       * [FreeCAD 1.1 Basics: Exercise 2](https://youtu.be/TR4peSSvY10?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
       * [FreeCAD 1.1 Basics: Exercise 3 - Multibody design](https://youtu.be/NXy9fE8iOTk)
 
+## Desktop file
+
+* /Home/.local/Share/applications
+  * FreeCAD_1.1.0.desktop
+
+```code
+[Desktop Entry]
+Type=Application
+Name=FreeCAD_1.1
+Name[da_DK]=FreeCAD_1.1
+Comment=FreeCAD_1.1
+Categories=Graphics;Science;Engineering;
+Icon=FreeCAD_0.22.png
+Exec=FreeCAD_1.1.0-Linux-x86_64-py311.AppImage
+Terminal=false
+StartupNotify=true
+GenericName[da_DK]=CAD-program
+```
+
 ## Basics 2026
 
 * Exercise 1
