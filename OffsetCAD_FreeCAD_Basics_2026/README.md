@@ -3,11 +3,14 @@
 ## Video
 
 * YouTube
+  * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
+    * [FreeCAD 1.1 Is OUT and It’s Finally Happening, Here's a peak inside.](https://youtu.be/mSwvnZ1jsXg)
   * [OffsetCAD](https://www.youtube.com/@OffsetCAD/videos)
     * [FreeCAD Basics 2026](https://www.youtube.com/playlist?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
       * [Quick intro to FreeCAD](https://youtu.be/PvQhRFxqyIE)
       * [FreeCAD 1.1 Basics: Exercise 1](https://youtu.be/dKI4fpbmWW4?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
       * [FreeCAD 1.1 Basics: Exercise 2](https://youtu.be/TR4peSSvY10?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
+      * [FreeCAD 1.1 Basics: Exercise 3 - Multibody design](https://youtu.be/NXy9fE8iOTk)
 
 ## Basics 2026
 
