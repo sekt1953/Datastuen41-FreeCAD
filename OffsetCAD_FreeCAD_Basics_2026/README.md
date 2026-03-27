@@ -1,10 +1,15 @@
 # OffsetCAD FreeCAD Basics 2026
 
-## Video
+## Video FreeCAD 1.1
 
 * YouTube
-  * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
-    * [FreeCAD 1.1 Is OUT and It’s Finally Happening, Here's a peak inside.](https://youtu.be/mSwvnZ1jsXg)
+  * FreeCAD 1.1
+    * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
+      * [FreeCAD 1.1 Is OUT and It’s Finally Happening, Here's a peak inside.](https://youtu.be/mSwvnZ1jsXg)
+      * [FreeCAD 1.1 JUST RELEASED These Changes Are a GAME CHANGER!](https://youtu.be/mSwvnZ1jsXg)
+      * [Why Your FreeCAD Models Keep Breaking (And How to Stop It)](https://youtu.be/riXcI6ZW0A8)
+    * [Deltahedra](https://www.youtube.com/@deltahedra3D)
+      * [FreeCAD 1.1 is Finally HERE — It’s a GAME CHANGER ! (Major Updates you missed)](https://youtu.be/bYdobpjTypg)
   * [OffsetCAD](https://www.youtube.com/@OffsetCAD/videos)
     * [FreeCAD Basics 2026](https://www.youtube.com/playlist?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
       * [Quick intro to FreeCAD](https://youtu.be/PvQhRFxqyIE)
