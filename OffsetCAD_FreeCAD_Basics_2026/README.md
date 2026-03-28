@@ -36,6 +36,23 @@ StartupNotify=true
 GenericName[da_DK]=CAD-program
 ```
 
+* /Home/.local/Share/applications
+  * FreeCAD_weekly-2025.desktop
+
+```code
+[Desktop Entry]
+Type=Application
+Name=FreeCAD_weekly
+Name[da_DK]=FreeCAD_weekly
+Comment=FreeCAD_weekly
+Categories=Graphics;Science;Engineering;
+Icon=FreeCAD_0.22.png
+Exec=FreeCAD_weekly-2026.03.25-Linux-x86_64-py311.AppImage
+Terminal=false
+StartupNotify=true
+GenericName[da_DK]=CAD-program
+```
+
 ## Basics 2026
 
 * Exercise 1
