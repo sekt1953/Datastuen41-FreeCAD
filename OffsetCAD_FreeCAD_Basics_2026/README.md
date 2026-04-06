@@ -17,6 +17,8 @@
       * [FreeCAD 1.1 Basics: Exercise 2](https://youtu.be/TR4peSSvY10?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
       * [FreeCAD 1.1 Basics: Exercise 3 - Multibody design](https://youtu.be/NXy9fE8iOTk)
       * [FreeCAD 1.1 Basics: Exercise 4 - Sketch internal faces, Draft & Skecher reference dimensions](https://youtu.be/iYgLUOOfuCY)
+  * [Ha Gei](https://www.youtube.com/@hagei406)
+    * [Freecad ( 1.20dev and 1.1 ) Preferences walktrough for Beginners](https://youtu.be/tQ-2z7fkZ4Q)
 
 ## Linux FreeCAD Desktop file
 
