@@ -3,24 +3,23 @@
 ## Video FreeCAD 1.1
 
 * YouTube
-  * FreeCAD 1.1
-    * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
-      * [FreeCAD 1.1 Is OUT and It’s Finally Happening, Here's a peak inside.](https://youtu.be/mSwvnZ1jsXg)
-      * [FreeCAD 1.1 JUST RELEASED These Changes Are a GAME CHANGER!](https://youtu.be/mSwvnZ1jsXg)
-      * [Why Your FreeCAD Models Keep Breaking (And How to Stop It)](https://youtu.be/riXcI6ZW0A8)
-    * [Deltahedra](https://www.youtube.com/@deltahedra3D)
-      * [FreeCAD 1.1 is Finally HERE — It’s a GAME CHANGER ! (Major Updates you missed)](https://youtu.be/bYdobpjTypg)
-    * [OffsetCAD](https://www.youtube.com/@OffsetCAD/videos)
-      * [FreeCAD Basics 2026](https://www.youtube.com/playlist?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
-      * [Quick intro to FreeCAD](https://youtu.be/PvQhRFxqyIE)
-      * [FreeCAD 1.1 Basics: Exercise 1](https://youtu.be/dKI4fpbmWW4?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
-      * [FreeCAD 1.1 Basics: Exercise 2](https://youtu.be/TR4peSSvY10?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
-      * [FreeCAD 1.1 Basics: Exercise 3 - Multibody design](https://youtu.be/NXy9fE8iOTk)
-      * [FreeCAD 1.1 Basics: Exercise 4 - Sketch internal faces, Draft & Skecher reference dimensions](https://youtu.be/iYgLUOOfuCY)
-    * [Ha Gei](https://www.youtube.com/@hagei406)
-      * [Freecad ( 1.20dev and 1.1 ) Preferences walktrough for Beginners](https://youtu.be/tQ-2z7fkZ4Q)
-    * [FCB Lounge](https://www.youtube.com/@FCBlounge)
-      * [What’s New in FreeCAD 1.1 Spreadsheet Workbench](https://youtu.be/3WHrAh3_GgA)
+  * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
+    * [FreeCAD 1.1 Is OUT and It’s Finally Happening, Here's a peak inside.](https://youtu.be/mSwvnZ1jsXg)
+    * [FreeCAD 1.1 JUST RELEASED These Changes Are a GAME CHANGER!](https://youtu.be/mSwvnZ1jsXg)
+    * [Why Your FreeCAD Models Keep Breaking (And How to Stop It)](https://youtu.be/riXcI6ZW0A8)
+  * [Deltahedra](https://www.youtube.com/@deltahedra3D)
+    * [FreeCAD 1.1 is Finally HERE — It’s a GAME CHANGER ! (Major Updates you missed)](https://youtu.be/bYdobpjTypg)
+  * [OffsetCAD](https://www.youtube.com/@OffsetCAD/videos)
+    * [FreeCAD Basics 2026](https://www.youtube.com/playlist?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
+    * [Quick intro to FreeCAD](https://youtu.be/PvQhRFxqyIE)
+    * [FreeCAD 1.1 Basics: Exercise 1](https://youtu.be/dKI4fpbmWW4?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
+    * [FreeCAD 1.1 Basics: Exercise 2](https://youtu.be/TR4peSSvY10?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
+    * [FreeCAD 1.1 Basics: Exercise 3 - Multibody design](https://youtu.be/NXy9fE8iOTk)
+    * [FreeCAD 1.1 Basics: Exercise 4 - Sketch internal faces, Draft & Skecher reference dimensions](https://youtu.be/iYgLUOOfuCY)
+  * [Ha Gei](https://www.youtube.com/@hagei406)
+    * [Freecad ( 1.20dev and 1.1 ) Preferences walktrough for Beginners](https://youtu.be/tQ-2z7fkZ4Q)
+  * [FCB Lounge](https://www.youtube.com/@FCBlounge)
+    * [What’s New in FreeCAD 1.1 Spreadsheet Workbench](https://youtu.be/3WHrAh3_GgA)
 
 ## Linux FreeCAD Desktop file
 
