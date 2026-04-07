@@ -22,9 +22,10 @@
     * [Einfache Übung mit Freecad für Anfänger](https://youtu.be/IxI6Fyy-BBw)
     * [The oldest Freecad Tutorial revived](https://youtu.be/GV0UW3yE2H8)
     * [Freecad Tutorial skizzieren ( Sketcher ) , die Geometrieelemente](https://youtu.be/g2vcvQne-Dw)
-
   * [FCB Lounge](https://www.youtube.com/@FCBlounge)
     * [What’s New in FreeCAD 1.1 Spreadsheet Workbench](https://youtu.be/3WHrAh3_GgA)
+  * [DuyQuang Dang](https://www.youtube.com/@DuyQuangDang)
+    * [FreeCAD 1.1: Create Smart Parametric Models Fast with VarSet](https://youtu.be/zzQa49ZZe-I)
 
 ## Linux FreeCAD Desktop file
 
