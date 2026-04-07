@@ -18,6 +18,7 @@
     * [FreeCAD 1.1 Basics: Exercise 4 - Sketch internal faces, Draft & Skecher reference dimensions](https://youtu.be/iYgLUOOfuCY)
   * [Ha Gei](https://www.youtube.com/@hagei406)
     * [Freecad ( 1.20dev and 1.1 ) Preferences walktrough for Beginners](https://youtu.be/tQ-2z7fkZ4Q)
+    * [Freecad beginners tutorial, sketcher elements overview](https://youtu.be/wMRRTIqcL4Y)
   * [FCB Lounge](https://www.youtube.com/@FCBlounge)
     * [What’s New in FreeCAD 1.1 Spreadsheet Workbench](https://youtu.be/3WHrAh3_GgA)
 
