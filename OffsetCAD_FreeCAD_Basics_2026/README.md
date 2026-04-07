@@ -19,6 +19,10 @@
   * [Ha Gei](https://www.youtube.com/@hagei406)
     * [Freecad ( 1.20dev and 1.1 ) Preferences walktrough for Beginners](https://youtu.be/tQ-2z7fkZ4Q)
     * [Freecad beginners tutorial, sketcher elements overview](https://youtu.be/wMRRTIqcL4Y)
+    * [Einfache Übung mit Freecad für Anfänger](https://youtu.be/IxI6Fyy-BBw)
+    * [The oldest Freecad Tutorial revived](https://youtu.be/GV0UW3yE2H8)
+    * [Freecad Tutorial skizzieren ( Sketcher ) , die Geometrieelemente](https://youtu.be/g2vcvQne-Dw)
+
   * [FCB Lounge](https://www.youtube.com/@FCBlounge)
     * [What’s New in FreeCAD 1.1 Spreadsheet Workbench](https://youtu.be/3WHrAh3_GgA)
 
