@@ -27,6 +27,14 @@
   * [DuyQuang Dang](https://www.youtube.com/@DuyQuangDang)
     * [FreeCAD 1.1: Create Smart Parametric Models Fast with VarSet](https://youtu.be/zzQa49ZZe-I)
 
+### CNC Videos
+
+* YouTube
+  * [Open Source CNC](https://www.youtube.com/@opensourcecnc)
+    * [FreeCAD CAM 1.1 – Complete CNC ](https://www.youtube.com/playlist?list=PLaUEbWaf2rhQ4FMos6_Mb6quRoWz4XTGN)
+      * [Jobs Post Processing - FreeCAD CAM 1.1](https://youtu.be/o_5AaJELjW4)
+      * [Toolbits - FreeCAD CAM 1.1](https://youtu.be/ymo5dUOj8L8)
+
 ## Linux FreeCAD Desktop file
 
 * /Home/.local/Share/applications
