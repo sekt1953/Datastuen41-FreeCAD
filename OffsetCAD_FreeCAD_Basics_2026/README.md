@@ -18,6 +18,7 @@
     * [FreeCAD 1.1 Basics: Exercise 4 - Sketch internal faces, Draft & Skecher reference dimensions](https://youtu.be/iYgLUOOfuCY)
   * [Ha Gei](https://www.youtube.com/@hagei406)
     * [Freecad ( 1.20dev and 1.1 ) Preferences walktrough for Beginners](https://youtu.be/tQ-2z7fkZ4Q)
+    * [Freecad 1.1 - 1.2dev Sketcher constraints walktrough](https://youtu.be/MsOpNRb7oDs)
     * [Freecad beginners tutorial, sketcher elements overview](https://youtu.be/wMRRTIqcL4Y)
     * [Einfache Übung mit Freecad für Anfänger](https://youtu.be/IxI6Fyy-BBw)
     * [The oldest Freecad Tutorial revived](https://youtu.be/GV0UW3yE2H8)
