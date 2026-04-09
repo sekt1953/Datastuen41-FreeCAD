@@ -35,6 +35,8 @@
       * [Jobs Post Processing - FreeCAD CAM 1.1](https://youtu.be/o_5AaJELjW4)
       * [Toolbits - FreeCAD CAM 1.1](https://youtu.be/ymo5dUOj8L8)
 
+### [Convincing my wife the 3D printer was worth it](https://www.youtube.com/playlist?list=PLnsjZ6qq7mx2yB6awoIUu_DX4IfWHCHjn)
+
 ## Linux FreeCAD Desktop file
 
 * /Home/.local/Share/applications
