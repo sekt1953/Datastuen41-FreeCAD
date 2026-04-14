@@ -30,6 +30,8 @@
     * [What’s New in FreeCAD 1.1 Spreadsheet Workbench](https://youtu.be/3WHrAh3_GgA)
   * [DuyQuang Dang](https://www.youtube.com/@DuyQuangDang)
     * [FreeCAD 1.1: Create Smart Parametric Models Fast with VarSet](https://youtu.be/zzQa49ZZe-I)
+  * [Open Source CNC](https://www.youtube.com/@opensourcecnc)
+    * [he VCarve Operation - FreeCAD CAM 1.1](https://youtu.be/dz0XWzVowtU)
 
 ### CNC Videos
 
