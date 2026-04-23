@@ -33,6 +33,13 @@
   * [Open Source CNC](https://www.youtube.com/@opensourcecnc)
     * [he VCarve Operation - FreeCAD CAM 1.1](https://youtu.be/dz0XWzVowtU)
 
+## Video FreeCAD 1.0
+
+* [Deltahedra](https://www.youtube.com/@deltahedra3D)
+  * [Freecad - Parametric Cabinet Assembly - Woodworking](https://www.youtube.com/watch?v=oXLrEydllwc&list=PLvYFiDTG74hrGN8h51IQZte2KRc4TnZep&index=30)  
+  * [Freecad 1.0 - Assembly, Exploded views and Parts List - Tutorial](https://www.youtube.com/watch?v=k51YFdXIIek)  
+  * []()  
+
 ### CNC Videos
 
 * YouTube
