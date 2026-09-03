@@ -7,15 +7,12 @@ Bøgeparken 41,
 5792 Årslev,
 Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
 
-* Kursus 2024-2025
-  * FreeCAD 1.0.0 Installation
-    * [Her henter jeg FreeCAD 1.0.0RCx](https://github.com/FreeCAD/FreeCAD/releases)
-    * [Preferences settings vi bruger](./Preferences.md)
-  * Lidt om at bruge Part Design, Sketcher og list om Constraints.
-    * [YouTube Videoer vi vil bruge lidt tid på](./YouTube_Video_Links.md)
-  * [Gevind](./Gevind/README.md)
-    * [ThreadedInserts](./Gevind/ThreadedInserts/README.md)
-  * [Tegne Opgaver:](./Opgaver/Opgaver.md)
+* Kursus 2026-2
+  * FreeCAD 26.3
+    * News
+      * [Release notes 26.3](https://wiki.freecad.org/Release_notes_26.3)
+    * Videos
+      * [FreeCAD 26.3 Basics: Exercise 15](https://youtu.be/2S6W0sDT-g0)
 * Kursus 2025-2026
   * Modifying STEP files
     * Video for Kursus [FreeCAD - Modifying STL STEP and 3MF files](https://youtu.be/5l6GOfshigQ?t=469 "RoadSide Maker")
@@ -34,6 +31,15 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
     * [FreeCAD filer](./Opgaver/Opmaaling/FreeCAD/BoxTest.FCStd)
     * [Fritzing filer](./Opgaver/Opmaaling/Fritzing/)
     * [README.md](./Opgaver/Opmaaling/README.md)
+* Kursus 2024-2025
+  * FreeCAD 1.0.0 Installation
+    * [Her henter jeg FreeCAD 1.0.0RCx](https://github.com/FreeCAD/FreeCAD/releases)
+    * [Preferences settings vi bruger](./Preferences.md)
+  * Lidt om at bruge Part Design, Sketcher og list om Constraints.
+    * [YouTube Videoer vi vil bruge lidt tid på](./YouTube_Video_Links.md)
+  * [Gevind](./Gevind/README.md)
+    * [ThreadedInserts](./Gevind/ThreadedInserts/README.md)
+  * [Tegne Opgaver:](./Opgaver/Opgaver.md)
 * Test Værktøjer:
   * [Temperature-Tower & PruserSlicer](./Tools/temp-tower/TempTower.md)
 * Octoprint - Er det noget jeg kan bruge?
