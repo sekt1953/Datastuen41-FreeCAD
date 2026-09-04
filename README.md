@@ -11,7 +11,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
   * FreeCAD 26.3
     * News
       * [Release notes 26.3](https://wiki.freecad.org/Release_notes_26.3)
-    * [Install Weekly Build](./InstallWeekly/README.md)
+    * [Install Weekly Build på Linux](./InstallWeekly/README.md)
     * Videos
       * [FreeCAD 26.3 Basics: Exercise 15](https://youtu.be/2S6W0sDT-g0)
 * Kursus 2025-2026
