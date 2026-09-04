@@ -14,6 +14,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
     * [Install Weekly Build på Linux](./InstallWeekly/README.md)
     * Videos
       * [FreeCAD 26.3 Basics: Exercise 15](https://youtu.be/2S6W0sDT-g0)
+  * [Opgaver 2026-2](./2026-2_Opgaver/README.md)
 * Kursus 2025-2026
   * Modifying STEP files
     * Video for Kursus [FreeCAD - Modifying STL STEP and 3MF files](https://youtu.be/5l6GOfshigQ?t=469 "RoadSide Maker")
