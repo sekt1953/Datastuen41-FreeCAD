@@ -12,10 +12,11 @@
 
 ## Nr.:2
 
-### [PieMenu Workbench](https://wiki.freecad.org/PieMenu_Workbench)
+### PieMenu Workbench
 
 1. Se Videoen [Pie Menu](https://youtu.be/NveA_siC3GM "MangoJelly Solutions for FreeCA")
 2. Brug Addon Manager til installation af PieMenu
 3. Bliv fortrolig med PieMenu
+   * [PieMenu Wiki](https://wiki.freecad.org/PieMenu_Workbench)
 
 ## Nr.:3
