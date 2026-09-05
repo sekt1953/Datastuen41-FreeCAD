@@ -2,11 +2,20 @@
 
 ## Nr.:1
 
+### Lidt genopfriskning af tegne færdigheder
+
 ||||
 |:---:|:---:|:---:|
-[![Opgave_2026-2_1.png](./Images/Opgave_2026-2_1/Opgave_2026-2_1.png)]|![2016-25-30.png](./Images/Opgave_2026-2_1/Skærmbillede%20fra%202026-09-04%2016-25-30.png)|![](./Images/Opgave_2026-2_1/Skærmbillede%20fra%202026-09-04%2016-25-48.png)|
+|![2016-25-30.png](./Images/Opgave_2026-2_1/Skærmbillede%20fra%202026-09-04%2016-25-30.png)|![](./Images/Opgave_2026-2_1/Skærmbillede%20fra%202026-09-04%2016-25-48.png)|![Opgave_2026-2_1.png](./Images/Opgave_2026-2_1/Opgave_2026-2_1.png)|
 
-* [Opgave 2026-2 nr.:1 ***Kik her***](./Opgave_2026-2_1.md)
+* [Mere om Opgave Nr.:1 ***Kik her***](./Opgave_2026-2_1.md)
 
 ## Nr.:2
 
+### [PieMenu Workbench](https://wiki.freecad.org/PieMenu_Workbench)
+
+* Se Videoen [Pie Menu](https://youtu.be/NveA_siC3GM "MangoJelly Solutions for FreeCA")
+* Brug Addon Manager til installation af PieMenu
+* Bliv fortrolig med PieMenu
+
+## Nr.:3
