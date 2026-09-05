@@ -13,7 +13,13 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
       * [Release notes 26.3](https://wiki.freecad.org/Release_notes_26.3)
     * [Install Weekly Build på Linux](./InstallWeekly/README.md)
     * Videos
-      * [FreeCAD 26.3 Basics: Exercise 15](https://youtu.be/2S6W0sDT-g0)
+      * [MangoJelly Solutions for FreeCA](https://www.youtube.com/@MangoJellySolutions)
+        * [Pie Menu](https://youtu.be/NveA_siC3GM)
+      * [OffsetCAD](https://www.youtube.com/@OffsetCAD)
+        * [FreeCAD 26.3 Basics: Exercise 15](https://youtu.be/2S6W0sDT-g0)
+      * [ClickCAD](https://www.youtube.com/@clickcad)
+        * [FreeCAD 1.1: Learn Fast & Start Modeling](https://www.youtube.com/playlist?list=PLW9dERE25pWSNQESKYOrJkS2IHOV31kjZ)
+        * [AI Tools for CAD & Design](https://www.youtube.com/playlist?list=PLZ4klCmwTk0I)
   * [Opgaver 2026-2](./2026-2_Opgaver/README.md)
 * Kursus 2025-2026
   * Modifying STEP files
