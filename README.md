@@ -4,9 +4,9 @@ Her vil jeg dele opgaver Tips og løsninger med deltager i Datastuen41 FreeCAD h
 
 ## Hvor bor vi
 
-[Datastuen41,
-Bøgeparken 41,
-5792 Årslev,
+[Datastuen41,  
+Bøgeparken 41,  
+5792 Årslev,  
 Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
 
 ## Kursus 2026-2 September til December
