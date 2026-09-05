@@ -15,7 +15,7 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
   * News
     * [Release notes 26.3](https://wiki.freecad.org/Release_notes_26.3)
   * [Install Weekly Build på Linux](./InstallWeekly/README.md)
-* [Videos](./2026-2_Opgaver/Videos_2026-2.md)
+* [Videos til inspiration](./2026-2_Opgaver/Videos_2026-2.md)
 * [Opgaver 2026-2, lidt opfriskning af tegne færdigheder](./2026-2_Opgaver/README.md)
 
 ## OLD
