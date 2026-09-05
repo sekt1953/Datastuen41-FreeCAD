@@ -2,18 +2,24 @@
 
 Her vil jeg dele opgaver Tips og løsninger med deltager i Datastuen41 FreeCAD hold.
 
+## Hvor i vi
+
 [Datastuen41,
 Bøgeparken 41,
 5792 Årslev,
 Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
 
-* Kursus 2026-2
-  * FreeCAD 26.3
-    * News
-      * [Release notes 26.3](https://wiki.freecad.org/Release_notes_26.3)
-    * [Install Weekly Build på Linux](./InstallWeekly/README.md)
-  * [Videos](./2026-2_Opgaver/Videos_2026-2.md)
-  * [Opgaver 2026-2](./2026-2_Opgaver/README.md)
+## Kursus 2026-2 September til December
+
+* FreeCAD 26.3
+  * News
+    * [Release notes 26.3](https://wiki.freecad.org/Release_notes_26.3)
+  * [Install Weekly Build på Linux](./InstallWeekly/README.md)
+* [Videos](./2026-2_Opgaver/Videos_2026-2.md)
+* [Opgaver 2026-2, lidt opfriskning af tegne færdigheder](./2026-2_Opgaver/README.md)
+
+## OLD
+
 * Kursus 2025-2026
   * Modifying STEP files
     * Video for Kursus [FreeCAD - Modifying STL STEP and 3MF files](https://youtu.be/5l6GOfshigQ?t=469 "RoadSide Maker")
@@ -41,6 +47,9 @@ Danmark](https://maps.app.goo.gl/i1MGUUs6uD3a9bza9)
   * [Gevind](./Gevind/README.md)
     * [ThreadedInserts](./Gevind/ThreadedInserts/README.md)
   * [Tegne Opgaver:](./Opgaver/Opgaver.md)
+
+# Andet
+
 * Test Værktøjer:
   * [Temperature-Tower & PruserSlicer](./Tools/temp-tower/TempTower.md)
 * Octoprint - Er det noget jeg kan bruge?
