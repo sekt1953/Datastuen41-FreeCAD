@@ -1,4 +1,4 @@
-# [Prefernces](https://wiki.freecad.org/Preferences_Editor) 
+# [Prefernces FreeCAD 26.3 dev.](https://wiki.freecad.org/Preferences_Editor) 
 
 * General
   * General
