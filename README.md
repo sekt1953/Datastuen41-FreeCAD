@@ -2,7 +2,7 @@
 
 Her vil jeg dele opgaver Tips og løsninger med deltager i Datastuen41 FreeCAD hold.
 
-## Hvor i vi
+## Hvor bor vi
 
 [Datastuen41,
 Bøgeparken 41,
