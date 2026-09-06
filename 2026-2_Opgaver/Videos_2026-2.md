@@ -15,6 +15,7 @@
   * [AI Tools for CAD & Design](https://www.youtube.com/playlist?list=PLZ4klCmwTk0I)
 * [MEC 3D](https://www.youtube.com/@TheMEC3D)
   * [FreeCAD Finally Has Native Text in Sketcher! No More Draft Workbench Workaround](https://youtu.be/C34_tE310S8)
+  * [3 Easy Ways to Create 3D Text in FreeCAD – Flat & Curved Surfaces!](https://youtu.be/vKeaRQFa6ME)
 * [CAD CAM Lessons](https://www.youtube.com/@CADCAMLessons)
   * [NEW FreeCAD Feature! Create Text Directly in Sketches (No More Draft Workarounds)](https://youtu.be/2Bnfao6NEF8)
 * [Cad essentials](https://www.youtube.com/@Cadessentials-dn8rz)
