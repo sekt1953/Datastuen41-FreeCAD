@@ -8,9 +8,12 @@
   * [Basic Beginners FreeCAD v1 Course](https://www.youtube.com/playlist?list=PLWuyJLVUNtc3kYxQQiOriVJiTbQ0qNBXh)
 * [OffsetCAD](https://www.youtube.com/@OffsetCAD)
   * [FreeCAD 26.3 Basics: Exercise 15](https://youtu.be/2S6W0sDT-g0)
+  * [FeeCAD 1.2: Adding text in FreeCAD is becoming easy!](https://youtu.be/efJrr_wNlZA)
 * [ClickCAD](https://www.youtube.com/@clickcad)
   * [FreeCAD 1.1: Learn Fast & Start Modeling](https://www.youtube.com/playlist?list=PLW9dERE25pWSNQESKYOrJkS2IHOV31kjZ)
   * [AI Tools for CAD & Design](https://www.youtube.com/playlist?list=PLZ4klCmwTk0I)
+* [MEC 3D](https://www.youtube.com/@TheMEC3D)
+  * [FreeCAD Finally Has Native Text in Sketcher! No More Draft Workbench Workaround](https://youtu.be/C34_tE310S8)
 
 ## FreeCAD & KiCad
 
