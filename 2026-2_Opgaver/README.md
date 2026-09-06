@@ -21,7 +21,12 @@
 
 ## Nr.:3
 
-### How to Use the Elements List in FreeCAD Sketcher
+### Elements List, Wire Not Closed & Find Hidden Duplicate Geometry
+
+1. Se Videoerne:
+   * [How to Use the Elements List in FreeCAD Sketcher](https://youtu.be/BJ5LOMA8eew)
+   * [FreeCAD Wire Not Closed? How to Find Hidden Duplicate Geometry The Easy Way](https://youtu.be/rlWq2DAD1is)
+2. Løs [denne medfølgende opgave](./)
 
 ## Nr.:4
 

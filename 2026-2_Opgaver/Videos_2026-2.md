@@ -7,6 +7,7 @@
   * [CAD Thinking](https://www.youtube.com/playlist?list=PLWuyJLVUNtc2kTHO3_tVbFl6FzxCn2WwW)
   * [Basic Beginners FreeCAD v1 Course](https://www.youtube.com/playlist?list=PLWuyJLVUNtc3kYxQQiOriVJiTbQ0qNBXh)
   * [How to Use the Elements List in FreeCAD Sketcher](https://youtu.be/BJ5LOMA8eew)
+  * [FreeCAD Wire Not Closed? How to Find Hidden Duplicate Geometry The Easy Way](https://youtu.be/rlWq2DAD1is)
 * [OffsetCAD](https://www.youtube.com/@OffsetCAD)
   * [FreeCAD 26.3 Basics: Exercise 15](https://youtu.be/2S6W0sDT-g0)
   * [FeeCAD 1.2: Adding text in FreeCAD is becoming easy!](https://youtu.be/efJrr_wNlZA)
