@@ -14,6 +14,8 @@
   * [AI Tools for CAD & Design](https://www.youtube.com/playlist?list=PLZ4klCmwTk0I)
 * [MEC 3D](https://www.youtube.com/@TheMEC3D)
   * [FreeCAD Finally Has Native Text in Sketcher! No More Draft Workbench Workaround](https://youtu.be/C34_tE310S8)
+* [CAD CAM Lessons](https://www.youtube.com/@CADCAMLessons)
+  * [NEW FreeCAD Feature! Create Text Directly in Sketches (No More Draft Workarounds)](https://youtu.be/2Bnfao6NEF8)
 
 ## FreeCAD & KiCad
 
