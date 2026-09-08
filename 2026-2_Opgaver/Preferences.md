@@ -9,7 +9,7 @@
       * Ignore project unit system and use default: ***Checked***
       * Number format: ***Operating system***
     * Application
-      * Theme: FreeCAD Dark
+      * Theme: ***FreeCAD Dark***
 * Display
   * 3D View
     * Rendering
@@ -24,7 +24,7 @@
 * Part/Part Design
   * Shape Appearance
     * Line Color 
-      * HTML: #6d6d6d
+      * HTML: *** #6d6d6d***
 * [Sketcher](https://wiki.freecad.org/Sketcher_Preferences)
   * General
     * Auto remove redundant constraints: ***Checked***
