@@ -31,6 +31,6 @@
    * [Sketcher Workbench](https://wiki.freecad.org/Sketcher_Workbench)
    * [Sketcher Preferences](https://wiki.freecad.org/Sketcher_Preferences)
 3. Hent Opgave:
-   * [Opgave_2026-2_4.FCStd](./Opgave_2026-2_4.FCStd)
+   * [Opgave_2026-2_3.FCStd](./Opgave_2026-2_3.FCStd)
 
 ## Nr.:4
