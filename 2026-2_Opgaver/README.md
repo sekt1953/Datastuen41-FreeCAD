@@ -21,22 +21,16 @@
 
 ## Nr.:3
 
-### Elements List, Wire Not Closed & Find Hidden Duplicate Geometry
+### Elements List, Wire Not Closed & Find Hidden Duplicate Geometry & Sketcher Constraints
 
 1. Se Videoerne:
    * [How to Use the Elements List in FreeCAD Sketcher](https://youtu.be/BJ5LOMA8eew)
    * [FreeCAD Wire Not Closed? How to Find Hidden Duplicate Geometry The Easy Way](https://youtu.be/rlWq2DAD1is)
-2. Dokumentation:
-   * [Sketcher Workbench](https://wiki.freecad.org/Sketcher_Workbench)
-   * [Sketcher Preferences](https://wiki.freecad.org/Sketcher_Preferences)
-
-## Nr.:4
-
-### FreeCAD Sketcher Constraints
-
-1. Se Videoerne:
    * [FreeCAD Sketcher Constraints Tips & Tutorial](https://youtu.be/lAhzgE-jyvM)
 2. Dokumentation:
    * [Sketcher Workbench](https://wiki.freecad.org/Sketcher_Workbench)
+   * [Sketcher Preferences](https://wiki.freecad.org/Sketcher_Preferences)
 3. Hent Opgave:
    * [Opgave_2026-2_4.FCStd](./Opgave_2026-2_4.FCStd)
+
+## Nr.:4
