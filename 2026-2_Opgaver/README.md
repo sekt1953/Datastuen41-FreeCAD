@@ -36,5 +36,7 @@
 
 1. Se Videoerne:
    * [FreeCAD Sketcher Constraints Tips & Tutorial](https://youtu.be/lAhzgE-jyvM)
-2. Hent Opgave:
+2. Dokumentation:
+   * [Sketcher Workbench](https://wiki.freecad.org/Sketcher_Workbench)
+3. Hent Opgave:
    * [Opgave_2026-2_4.FCStd](./Opgave_2026-2_4.FCStd)
