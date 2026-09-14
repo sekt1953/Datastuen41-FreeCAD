@@ -32,5 +32,5 @@
 
 ### FreeCAD Sketcher Constraints
 
-1. Se Videoen:
+1. Se Videoerne:
    * [FreeCAD Sketcher Constraints Tips & Tutorial](https://youtu.be/lAhzgE-jyvM)
