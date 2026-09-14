@@ -8,6 +8,7 @@
   * [Basic Beginners FreeCAD v1 Course](https://www.youtube.com/playlist?list=PLWuyJLVUNtc3kYxQQiOriVJiTbQ0qNBXh)
   * [How to Use the Elements List in FreeCAD Sketcher](https://youtu.be/BJ5LOMA8eew)
   * [FreeCAD Wire Not Closed? How to Find Hidden Duplicate Geometry The Easy Way](https://youtu.be/rlWq2DAD1is)
+  * [FreeCAD Sketcher Constraints Tips & Tutorial](https://youtu.be/lAhzgE-jyvM)
   * [SubShape Binder Trick You’re Missing in FreeCAD? | You can edit them!](https://youtu.be/01Yzz5fd_b4)
 * [OffsetCAD](https://www.youtube.com/@OffsetCAD)
   * [FreeCAD 26.3 Basics: Exercise 15](https://youtu.be/2S6W0sDT-g0)
