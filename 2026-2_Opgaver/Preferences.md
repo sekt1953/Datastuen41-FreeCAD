@@ -30,6 +30,14 @@
     * Auto remove redundant constraints: ***Checked***
     * Esc key can leave sketch edit mode: ***Checked***
     * Always add external geometry as construction: ***Checked***
+  * Display
+    * Sketch Editing:
+      * Constrant symbol size: 15px -> ***25px***
+  * Appearance
+    * Constraints Colors:
+      * Dimensional constraints  : #fa5252 -> ***#7cfa28***
+      * Constraint symbol        : #fa5252 -> ***#7cfa28***
+      * Expression constraints   : #fd7e14 -> ***#fd7e14***
 
 ## ! Note
 
