@@ -34,3 +34,11 @@
    * [Opgave_2026-2_3.FCStd](./Opgave_2026-2_3.FCStd)
 
 ## Nr.:4
+
+### Import Images, Skaler Images og tegn komponentet
+
+1. Se Videoerne:
+   * [Why has the Image Workbench been removed in FreeCAD 0.21 / v1.0?](https://youtu.be/WhxDAgskcHA)
+2. [Løs opgaven som beskrevet her](./Opgave_2026-2_4.md)
+
+## Nr.:5
