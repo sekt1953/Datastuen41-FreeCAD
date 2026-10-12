@@ -45,5 +45,5 @@
 
 ### Tegn komponent til KiCad
 
-1. [Løs opgaven som beskrevet her](./Opgave_2026-2_5.md)
-
+* ![](./Images/Opgave_2026-2_5/Mini560Pro_Dim.png)
+* [Løs opgaven som beskrevet her](./Opgave_2026-2_5.md)
