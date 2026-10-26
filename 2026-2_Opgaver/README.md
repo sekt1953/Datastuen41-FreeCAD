@@ -47,3 +47,11 @@
 
 * ![](./Images/Opgave_2026-2_5/Mini560Pro_Dim.png)
 * [Løs opgaven som beskrevet her](./Opgave_2026-2_5.md)
+
+## Nr.:6
+
+### Arbejde med pipe
+
+* ![2010-37-20.png](./Images/Skærmbillede%20fra%202026-10-26%2010-37-20.png)
+* [FreeCAD Part Design Pipe Along Multiple Planes / Sketches](https://youtu.be/jE-H_30MbcA "MangoJelly Solutions for FreeCAD")
+* [FreeCAD File](./Opgave_2026-2_6.FCStd "Opgave_2026-2_6.FCStd")
