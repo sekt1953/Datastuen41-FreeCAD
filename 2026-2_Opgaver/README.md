@@ -66,6 +66,10 @@
   * Edit -> Preferences -> Part/Part Design -> Shape Appearance
     * Vertex size: Default 2
 
+|||
+|:---:|:---:|
+|![2018-04-29.png](./Images/Skærmbillede%20fra%202026-10-27%2018-04-29.png)|![2018-05-07.png](./Images/Skærmbillede%20fra%202026-10-27%2018-05-07.png)|
+
 ## Nr.:6a
 
 * [FREECAD:Pipe Routing, make FreeCAD do the work](https://youtu.be/fv53D00KdGQ "4 Axis Printing")
