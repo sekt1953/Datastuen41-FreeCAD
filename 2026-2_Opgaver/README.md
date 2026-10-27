@@ -56,6 +56,16 @@
 * [FreeCAD Part Design Pipe Along Multiple Planes / Sketches](https://youtu.be/jE-H_30MbcA "MangoJelly Solutions for FreeCAD")
 * [FreeCAD File](./Opgave_2026-2_6.FCStd "Opgave_2026-2_6.FCStd")
 
+#### Point Size
+
+* point size kan sættes per sketch i:
+  * Model -> View -> Object style -> Point size: 
+    * default: 2
+    * prøv: 10
+* point size kan sættes for alle nye sketch i:
+  * Edit -> Preferences -> Part/Part Design -> Shape Appearance
+    * Vertex size: Default 2
+
 ## Nr.:6a
 
 * [FREECAD:Pipe Routing, make FreeCAD do the work](https://youtu.be/fv53D00KdGQ "4 Axis Printing")
