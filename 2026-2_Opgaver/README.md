@@ -73,6 +73,7 @@
 ## Nr.:6a
 
 * [FreeCAD Multisection Sweep](https://youtu.be/9NTrz80ViVc?list=PLUrr_kHPp4vjkCWhqUy1KXkKevcXIHbaJ)
+  * [FreeCad File: Opgave_2026-2_6b.FCStd](./Opgave_2026-2_6b.FCStd)
 * [FREECAD:Pipe Routing, make FreeCAD do the work](https://youtu.be/fv53D00KdGQ "4 Axis Printing")
 * [Make a Pipe Junction in FreeCAD](https://youtu.be/_IxO7IK4LT4 "Katt Kushol")
 * [One FreeCAD Tool Solves a Common Pipe Modeling Problem](https://youtu.be/3A2R8FJpspM "MangoJelly Solutions for FreeCAD")
