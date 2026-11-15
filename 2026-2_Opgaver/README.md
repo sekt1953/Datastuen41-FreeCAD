@@ -75,6 +75,27 @@
 * [FreeCAD Multisection Sweep](https://youtu.be/9NTrz80ViVc?list=PLUrr_kHPp4vjkCWhqUy1KXkKevcXIHbaJ)
   * [FreeCad File: Opgave_2026-2_6b.FCStd](./Opgave_2026-2_6b.FCStd)
 * [FREECAD:Pipe Routing, make FreeCAD do the work](https://youtu.be/fv53D00KdGQ "4 Axis Printing")
-* [Make a Pipe Junction in FreeCAD](https://youtu.be/_IxO7IK4LT4 "Katt Kushol")
-* [One FreeCAD Tool Solves a Common Pipe Modeling Problem](https://youtu.be/3A2R8FJpspM "MangoJelly Solutions for FreeCAD")
+
+## Nr.: 7
+
+* Se video: 
+  * [Make a Pipe Junction in FreeCAD](https://youtu.be/_IxO7IK4LT4 "Katt Kushol")
+* Min Version, med brug af Sub-Shape Binder:
+  * [Opgave_2026-2_7.md](./Opgave_2026-2_7.md)
+  * [Opgave_2026-2_7.FCStd](./Opgave_2026-2_7.FCStd)
+
+|Mål|Færdig|Snit|
+|:---:|:---:|:---:|
+|![2013-01-31.png](./Images/Opgave_2026-2_7/Skærmbillede%20fra%202026-11-15%2013-01-31.png)|![2012-37-28.png](./Images/Opgave_2026-2_7/Skærmbillede%20fra%202026-11-15%2012-37-28.png)|![2012-36-56.png](./Images/Opgave_2026-2_7/Skærmbillede%20fra%202026-11-15%2012-36-56.png)|
+
+
+|BodyA|BodyB|Connect|Spine A & B|
+|:---:|:---:|:---:|:---:|
+|![2012-59-30.png](./Images/Opgave_2026-2_7/Skærmbillede%20fra%202026-11-15%2012-59-30.png)|![2012-59-42.png](./Images/Opgave_2026-2_7/Skærmbillede%20fra%202026-11-15%2012-59-42.png)|![2012-59-53.png](./Images/Opgave_2026-2_7/Skærmbillede%20fra%202026-11-15%2012-59-53.png)|![2013-00-36.png](./Images/Opgave_2026-2_7/Skærmbillede%20fra%202026-11-15%2013-00-36.png)|
+
+## Nr.: 8
+
+* [One FreeCAD Tool Solves a Common Pipe Modeling Problem](https://youtu.be/3A2R8FJpspM 
+"MangoJelly Solutions for FreeCAD")
 * [FreeCAD Tutorial: How to Connect Pipes with a Continuous Internal Holes](https://youtu.be/2nQ_SbFZc6M "MangoJelly Solutions for FreeCAD")
+
