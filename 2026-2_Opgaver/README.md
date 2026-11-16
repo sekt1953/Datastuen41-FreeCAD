@@ -83,6 +83,7 @@
 * Min Version, med brug af Sub-Shape Binder:
   * [Opgave_2026-2_7.md](./Opgave_2026-2_7.md)
   * [Opgave_2026-2_7.FCStd](./Opgave_2026-2_7.FCStd)
+  * [Opgave_2026-2_7b.FCStd](./Opgave_2026-2_7b.FCStd)
 
 |Mål|Færdig|Snit|
 |:---:|:---:|:---:|
